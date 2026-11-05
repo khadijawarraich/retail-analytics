@@ -1,0 +1,5529 @@
+customer_id,recency_days,frequency,monetary,cluster,segment
+1,389,1,91.96,1,At risk / lapsed
+2,99,6,593.78,0,Loyal regulars
+3,37,6,576.89,0,Loyal regulars
+4,8,8,713.54,0,Loyal regulars
+5,73,21,1558.51,2,Champions
+6,403,5,498.7,1,At risk / lapsed
+7,541,1,134.96,1,At risk / lapsed
+8,13,13,1635.31,2,Champions
+9,62,2,126.94,1,At risk / lapsed
+10,2,6,546.81,0,Loyal regulars
+11,19,29,2691.0,2,Champions
+12,100,4,133.93,1,At risk / lapsed
+13,7,16,1253.31,2,Champions
+14,69,9,853.15,0,Loyal regulars
+15,6,29,2622.94,2,Champions
+17,18,6,674.76,0,Loyal regulars
+18,12,2,48.26,1,At risk / lapsed
+19,32,18,1865.85,2,Champions
+20,101,8,559.66,0,Loyal regulars
+21,11,13,1062.4,2,Champions
+22,406,1,11.98,1,At risk / lapsed
+23,7,8,797.91,0,Loyal regulars
+24,11,11,1244.64,2,Champions
+25,5,21,1564.6,2,Champions
+26,3,52,4870.29,2,Champions
+27,13,24,2120.19,2,Champions
+28,140,1,161.24,1,At risk / lapsed
+29,16,5,548.91,0,Loyal regulars
+30,45,4,325.26,0,Loyal regulars
+31,11,11,897.02,2,Champions
+32,17,4,633.91,0,Loyal regulars
+33,55,14,1463.19,0,Loyal regulars
+34,81,2,153.63,1,At risk / lapsed
+35,26,14,1445.45,2,Champions
+36,1,57,5596.93,2,Champions
+37,26,24,2525.96,2,Champions
+39,16,6,543.57,0,Loyal regulars
+40,4,8,989.58,2,Champions
+41,4,10,1052.79,2,Champions
+42,8,27,2938.75,2,Champions
+43,9,6,350.85,0,Loyal regulars
+44,13,18,1531.91,2,Champions
+45,11,13,1204.35,2,Champions
+47,22,7,520.49,0,Loyal regulars
+48,4,23,2409.16,2,Champions
+50,329,2,163.94,1,At risk / lapsed
+51,3,2,106.53,0,Loyal regulars
+52,6,7,604.25,0,Loyal regulars
+53,38,21,2666.39,2,Champions
+55,273,5,253.47,1,At risk / lapsed
+56,60,8,678.5,0,Loyal regulars
+57,215,3,493.85,1,At risk / lapsed
+59,20,11,794.39,0,Loyal regulars
+61,401,4,408.81,1,At risk / lapsed
+62,39,4,214.71,0,Loyal regulars
+63,19,6,500.99,0,Loyal regulars
+64,79,6,603.72,0,Loyal regulars
+65,365,3,292.87,1,At risk / lapsed
+66,11,21,1426.81,2,Champions
+67,12,25,2161.71,2,Champions
+68,37,2,198.23,1,At risk / lapsed
+69,3,60,6100.46,2,Champions
+70,14,16,1174.83,2,Champions
+71,110,10,787.89,0,Loyal regulars
+72,3,24,2051.75,2,Champions
+73,49,3,321.69,0,Loyal regulars
+74,23,16,1821.19,2,Champions
+76,17,12,738.85,0,Loyal regulars
+77,10,26,2648.73,2,Champions
+78,0,4,307.75,0,Loyal regulars
+79,45,14,1033.63,0,Loyal regulars
+80,11,9,972.45,0,Loyal regulars
+81,30,14,1616.03,2,Champions
+82,2,20,1479.94,2,Champions
+83,18,20,1767.35,2,Champions
+84,46,17,1856.9,2,Champions
+86,338,1,58.98,1,At risk / lapsed
+87,4,20,1700.42,2,Champions
+88,29,24,2093.06,2,Champions
+90,13,12,1088.27,2,Champions
+91,32,15,1459.16,2,Champions
+92,23,23,1679.04,2,Champions
+93,160,14,1220.4,0,Loyal regulars
+94,243,10,899.43,0,Loyal regulars
+95,83,8,800.06,0,Loyal regulars
+96,8,25,2379.27,2,Champions
+97,411,2,241.94,1,At risk / lapsed
+98,64,2,160.94,1,At risk / lapsed
+99,25,11,1111.0,0,Loyal regulars
+100,27,11,1194.54,0,Loyal regulars
+101,59,5,531.3,0,Loyal regulars
+102,22,14,1117.19,2,Champions
+103,43,3,227.13,1,At risk / lapsed
+104,0,20,1568.4,2,Champions
+106,71,1,25.97,1,At risk / lapsed
+107,4,16,1463.59,2,Champions
+108,55,4,248.9,0,Loyal regulars
+109,60,2,257.0,1,At risk / lapsed
+110,32,25,2294.39,2,Champions
+111,0,18,2076.5,2,Champions
+112,161,5,525.49,0,Loyal regulars
+113,347,1,69.98,1,At risk / lapsed
+114,2,7,779.18,2,Champions
+115,51,1,258.04,1,At risk / lapsed
+116,3,6,319.73,0,Loyal regulars
+117,45,12,1132.44,0,Loyal regulars
+118,141,2,206.19,1,At risk / lapsed
+119,15,6,505.78,0,Loyal regulars
+120,18,11,1099.08,0,Loyal regulars
+121,250,7,935.9,0,Loyal regulars
+122,390,4,384.86,1,At risk / lapsed
+123,133,4,455.45,0,Loyal regulars
+124,26,15,1484.46,2,Champions
+125,13,13,1387.81,2,Champions
+126,46,8,702.2,0,Loyal regulars
+127,2,37,3476.32,2,Champions
+128,1,1,13.49,1,At risk / lapsed
+129,590,1,81.97,1,At risk / lapsed
+130,10,5,473.07,0,Loyal regulars
+131,73,7,612.24,0,Loyal regulars
+132,16,5,294.46,0,Loyal regulars
+133,131,4,316.74,1,At risk / lapsed
+134,40,8,891.08,0,Loyal regulars
+135,26,9,715.76,0,Loyal regulars
+136,119,4,681.02,0,Loyal regulars
+137,18,5,319.89,0,Loyal regulars
+138,94,3,197.07,1,At risk / lapsed
+139,15,8,590.98,0,Loyal regulars
+140,16,10,1199.62,0,Loyal regulars
+141,54,8,870.07,0,Loyal regulars
+142,40,15,1318.92,2,Champions
+143,22,11,628.12,0,Loyal regulars
+144,39,29,2020.89,2,Champions
+145,412,2,136.94,1,At risk / lapsed
+146,20,9,760.36,0,Loyal regulars
+147,167,8,784.75,0,Loyal regulars
+148,137,10,783.95,0,Loyal regulars
+149,3,11,1031.15,2,Champions
+150,60,2,310.81,1,At risk / lapsed
+151,44,23,1870.38,2,Champions
+152,48,6,521.98,0,Loyal regulars
+153,39,14,1300.68,0,Loyal regulars
+154,18,20,2101.41,2,Champions
+155,302,5,295.87,1,At risk / lapsed
+156,360,5,464.08,1,At risk / lapsed
+157,191,2,99.93,1,At risk / lapsed
+158,26,18,1192.31,2,Champions
+159,15,6,454.43,0,Loyal regulars
+160,179,1,59.97,1,At risk / lapsed
+161,20,18,1624.25,2,Champions
+163,22,8,915.74,0,Loyal regulars
+164,27,8,923.51,0,Loyal regulars
+165,18,17,1836.83,2,Champions
+166,20,12,1273.47,2,Champions
+167,7,6,545.76,0,Loyal regulars
+168,4,7,623.8,0,Loyal regulars
+170,152,8,503.72,0,Loyal regulars
+171,134,2,154.92,1,At risk / lapsed
+172,44,10,1168.7,0,Loyal regulars
+173,39,10,1135.39,0,Loyal regulars
+174,3,15,1433.24,2,Champions
+175,0,26,2833.0,2,Champions
+177,6,28,2252.26,2,Champions
+178,458,2,77.97,1,At risk / lapsed
+179,12,16,1565.0,2,Champions
+180,59,8,1370.37,0,Loyal regulars
+181,159,5,435.81,0,Loyal regulars
+182,11,42,3931.17,2,Champions
+184,8,52,4659.38,2,Champions
+185,10,12,949.36,2,Champions
+186,251,5,353.85,1,At risk / lapsed
+187,234,5,412.8,0,Loyal regulars
+188,25,10,968.45,0,Loyal regulars
+189,30,3,267.89,0,Loyal regulars
+190,87,5,595.85,0,Loyal regulars
+191,62,15,1386.49,0,Loyal regulars
+192,3,43,3949.92,2,Champions
+193,457,1,123.73,1,At risk / lapsed
+195,9,10,941.16,2,Champions
+196,51,12,845.97,0,Loyal regulars
+197,20,3,407.25,0,Loyal regulars
+198,159,9,1120.59,0,Loyal regulars
+200,34,10,782.7,0,Loyal regulars
+201,16,8,749.36,0,Loyal regulars
+202,33,9,588.22,0,Loyal regulars
+203,10,7,729.71,0,Loyal regulars
+204,5,17,1484.25,2,Champions
+205,22,10,634.33,0,Loyal regulars
+207,13,21,1672.97,2,Champions
+208,4,36,3168.03,2,Champions
+210,642,1,41.98,1,At risk / lapsed
+212,113,12,1090.36,0,Loyal regulars
+213,202,4,377.66,1,At risk / lapsed
+214,3,24,2363.64,2,Champions
+215,4,4,493.83,0,Loyal regulars
+216,32,1,49.37,1,At risk / lapsed
+217,2,108,10361.22,2,Champions
+219,122,6,506.71,0,Loyal regulars
+220,155,2,128.95,1,At risk / lapsed
+221,27,16,1696.42,2,Champions
+222,24,2,153.94,1,At risk / lapsed
+223,194,4,239.78,1,At risk / lapsed
+224,44,3,153.94,1,At risk / lapsed
+225,48,11,1142.57,0,Loyal regulars
+226,18,14,1386.68,2,Champions
+227,369,2,167.05,1,At risk / lapsed
+228,47,7,624.72,0,Loyal regulars
+229,633,1,27.98,1,At risk / lapsed
+231,131,24,1807.19,2,Champions
+232,536,1,68.47,1,At risk / lapsed
+233,40,13,813.64,0,Loyal regulars
+234,0,17,1566.35,2,Champions
+235,113,6,523.03,0,Loyal regulars
+236,33,1,124.02,1,At risk / lapsed
+237,4,17,1619.91,2,Champions
+238,1,19,1859.78,2,Champions
+239,4,2,71.95,1,At risk / lapsed
+240,5,52,4885.99,2,Champions
+241,94,3,312.37,1,At risk / lapsed
+242,13,6,627.24,0,Loyal regulars
+243,9,21,1817.53,2,Champions
+244,9,53,5894.68,2,Champions
+245,10,7,680.68,0,Loyal regulars
+246,144,5,515.7,0,Loyal regulars
+247,23,5,494.81,0,Loyal regulars
+248,4,4,699.75,0,Loyal regulars
+249,1,72,6474.49,2,Champions
+250,10,22,2407.87,2,Champions
+251,220,6,418.0,0,Loyal regulars
+252,7,16,1718.07,2,Champions
+253,11,7,746.05,0,Loyal regulars
+254,5,43,3522.69,2,Champions
+255,18,8,897.4,0,Loyal regulars
+256,14,4,422.33,0,Loyal regulars
+257,146,5,359.01,0,Loyal regulars
+258,136,1,57.57,1,At risk / lapsed
+259,29,17,1709.07,2,Champions
+260,265,2,177.92,1,At risk / lapsed
+261,4,27,2420.6,2,Champions
+262,123,4,363.36,0,Loyal regulars
+263,221,2,306.69,1,At risk / lapsed
+264,12,27,2635.4,2,Champions
+265,43,15,1272.7,0,Loyal regulars
+266,11,9,1043.21,0,Loyal regulars
+267,18,49,4318.4,2,Champions
+268,10,5,254.07,0,Loyal regulars
+270,27,6,428.31,0,Loyal regulars
+271,65,27,2342.31,2,Champions
+272,88,1,37.17,1,At risk / lapsed
+273,53,2,284.01,1,At risk / lapsed
+274,32,5,663.65,0,Loyal regulars
+275,555,2,266.92,1,At risk / lapsed
+276,377,2,113.36,1,At risk / lapsed
+277,354,2,217.32,1,At risk / lapsed
+279,149,1,145.85,1,At risk / lapsed
+280,71,1,160.35,1,At risk / lapsed
+281,4,19,1610.11,2,Champions
+282,26,28,2738.93,2,Champions
+283,114,5,328.08,0,Loyal regulars
+284,32,9,603.32,0,Loyal regulars
+285,3,51,4708.01,2,Champions
+286,6,15,1522.79,2,Champions
+287,11,13,1077.81,2,Champions
+288,0,9,877.96,2,Champions
+289,17,25,2489.65,2,Champions
+290,73,1,120.6,1,At risk / lapsed
+291,7,26,2362.22,2,Champions
+292,21,9,785.72,0,Loyal regulars
+293,2,14,1570.92,2,Champions
+294,41,8,586.97,0,Loyal regulars
+295,59,1,51.99,1,At risk / lapsed
+296,395,1,108.95,1,At risk / lapsed
+297,38,9,1022.68,0,Loyal regulars
+298,138,16,1819.55,0,Loyal regulars
+299,452,1,44.98,1,At risk / lapsed
+300,311,2,120.93,1,At risk / lapsed
+301,9,32,3265.04,2,Champions
+302,20,4,461.69,0,Loyal regulars
+304,13,48,3906.92,2,Champions
+305,70,15,1149.89,0,Loyal regulars
+306,10,12,1274.47,2,Champions
+307,20,12,1123.27,2,Champions
+308,14,28,2592.09,2,Champions
+309,20,14,1179.42,2,Champions
+310,720,1,65.97,1,At risk / lapsed
+311,7,16,1147.48,2,Champions
+312,200,1,35.98,1,At risk / lapsed
+313,76,6,522.82,0,Loyal regulars
+314,242,1,19.99,1,At risk / lapsed
+315,40,7,405.61,0,Loyal regulars
+316,230,6,543.73,0,Loyal regulars
+317,427,2,141.93,1,At risk / lapsed
+318,129,9,965.18,0,Loyal regulars
+319,215,1,36.97,1,At risk / lapsed
+320,136,3,326.37,1,At risk / lapsed
+322,39,11,1266.12,0,Loyal regulars
+323,279,3,435.83,1,At risk / lapsed
+324,42,9,904.08,0,Loyal regulars
+325,27,13,876.73,0,Loyal regulars
+327,59,3,308.89,0,Loyal regulars
+330,69,6,281.05,0,Loyal regulars
+331,91,5,311.05,0,Loyal regulars
+332,12,39,3371.03,2,Champions
+333,37,18,2152.4,2,Champions
+334,13,7,1207.81,0,Loyal regulars
+335,13,15,984.69,2,Champions
+336,327,1,17.99,1,At risk / lapsed
+337,181,5,360.84,0,Loyal regulars
+339,186,9,522.46,0,Loyal regulars
+340,5,19,1462.99,2,Champions
+341,14,15,1276.58,2,Champions
+342,196,7,641.56,0,Loyal regulars
+343,50,12,1355.27,0,Loyal regulars
+344,5,6,710.68,0,Loyal regulars
+345,74,6,670.15,0,Loyal regulars
+346,2,17,1820.54,2,Champions
+347,4,16,1610.57,2,Champions
+348,193,4,325.85,1,At risk / lapsed
+349,58,1,65.07,1,At risk / lapsed
+351,20,11,936.83,0,Loyal regulars
+352,17,3,474.11,0,Loyal regulars
+353,7,45,3791.06,2,Champions
+354,387,1,57.96,1,At risk / lapsed
+355,80,10,1075.14,0,Loyal regulars
+356,54,18,1638.9,2,Champions
+357,7,48,4771.75,2,Champions
+358,502,2,183.52,1,At risk / lapsed
+360,51,10,1199.8,0,Loyal regulars
+361,19,51,4618.13,2,Champions
+363,66,6,576.92,0,Loyal regulars
+364,39,11,1137.8,0,Loyal regulars
+365,34,17,1335.28,2,Champions
+366,76,12,874.86,0,Loyal regulars
+367,18,20,2145.72,2,Champions
+368,6,9,1146.71,2,Champions
+369,55,7,670.97,0,Loyal regulars
+370,666,1,77.97,1,At risk / lapsed
+371,73,20,1818.12,2,Champions
+372,21,2,137.96,1,At risk / lapsed
+373,11,4,494.88,0,Loyal regulars
+374,26,16,1307.13,2,Champions
+375,10,31,2781.37,2,Champions
+376,19,12,802.85,0,Loyal regulars
+377,36,20,2117.89,2,Champions
+378,7,10,1170.74,2,Champions
+379,4,8,604.87,0,Loyal regulars
+380,21,4,435.03,0,Loyal regulars
+381,330,2,221.95,1,At risk / lapsed
+382,21,2,96.95,1,At risk / lapsed
+383,5,18,1582.78,2,Champions
+384,7,8,795.55,0,Loyal regulars
+385,39,1,231.14,1,At risk / lapsed
+386,26,11,1203.37,0,Loyal regulars
+387,25,13,1319.42,2,Champions
+388,74,8,674.07,0,Loyal regulars
+389,56,4,438.76,0,Loyal regulars
+390,55,16,1811.42,2,Champions
+391,32,15,1167.19,2,Champions
+392,467,4,312.16,1,At risk / lapsed
+393,605,1,70.97,1,At risk / lapsed
+394,95,6,338.25,0,Loyal regulars
+395,172,2,226.22,1,At risk / lapsed
+396,60,1,128.96,1,At risk / lapsed
+398,177,8,703.04,0,Loyal regulars
+399,427,1,54.37,1,At risk / lapsed
+400,2,8,634.83,2,Champions
+401,239,6,320.35,1,At risk / lapsed
+402,26,7,524.82,0,Loyal regulars
+403,255,3,497.22,1,At risk / lapsed
+404,72,7,585.76,0,Loyal regulars
+405,18,42,4304.43,2,Champions
+406,3,18,1735.56,2,Champions
+407,329,2,149.05,1,At risk / lapsed
+408,86,2,262.89,1,At risk / lapsed
+409,59,16,1340.18,0,Loyal regulars
+410,5,11,725.9,2,Champions
+411,55,13,1204.97,0,Loyal regulars
+412,1,5,486.08,0,Loyal regulars
+413,8,8,857.7,0,Loyal regulars
+414,6,13,1695.99,2,Champions
+415,409,1,145.92,1,At risk / lapsed
+417,57,4,331.87,0,Loyal regulars
+418,54,19,1593.32,2,Champions
+419,424,3,273.19,1,At risk / lapsed
+420,3,12,948.68,2,Champions
+421,13,14,1676.79,2,Champions
+422,2,6,425.23,0,Loyal regulars
+423,174,3,501.84,1,At risk / lapsed
+424,5,10,622.11,2,Champions
+425,67,7,1146.62,0,Loyal regulars
+426,4,9,1059.6,2,Champions
+427,11,19,1766.5,2,Champions
+428,383,1,154.94,1,At risk / lapsed
+429,463,1,79.97,1,At risk / lapsed
+431,166,5,504.98,0,Loyal regulars
+432,131,7,701.57,0,Loyal regulars
+434,17,7,746.79,0,Loyal regulars
+435,26,8,690.27,0,Loyal regulars
+436,0,2,83.97,0,Loyal regulars
+437,4,25,2280.17,2,Champions
+438,37,15,1325.78,2,Champions
+439,29,6,220.58,0,Loyal regulars
+440,11,9,847.17,0,Loyal regulars
+441,1,14,1363.71,2,Champions
+442,5,8,610.36,0,Loyal regulars
+443,299,2,130.96,1,At risk / lapsed
+444,52,7,402.48,0,Loyal regulars
+445,12,13,1273.47,2,Champions
+447,520,1,76.95,1,At risk / lapsed
+448,1,56,5232.45,2,Champions
+449,42,22,2229.99,2,Champions
+450,0,15,1164.12,2,Champions
+451,1,13,959.13,2,Champions
+452,5,37,3948.07,2,Champions
+453,39,21,2042.48,2,Champions
+454,52,10,606.2,0,Loyal regulars
+455,59,10,885.86,0,Loyal regulars
+456,51,19,1424.05,2,Champions
+457,56,16,1202.27,0,Loyal regulars
+458,129,7,594.75,0,Loyal regulars
+459,23,12,1156.19,0,Loyal regulars
+460,11,8,1004.83,0,Loyal regulars
+461,9,3,233.91,0,Loyal regulars
+463,2,31,2947.77,2,Champions
+464,51,26,2329.28,2,Champions
+465,32,15,1467.76,2,Champions
+466,21,17,1606.52,2,Champions
+467,30,2,317.92,0,Loyal regulars
+468,10,16,1790.48,2,Champions
+469,562,1,122.95,1,At risk / lapsed
+470,19,21,2059.79,2,Champions
+471,6,22,1797.61,2,Champions
+472,123,11,979.65,0,Loyal regulars
+473,361,5,731.15,0,Loyal regulars
+474,15,8,679.83,0,Loyal regulars
+475,59,5,280.26,0,Loyal regulars
+476,25,9,599.61,0,Loyal regulars
+477,128,5,394.85,0,Loyal regulars
+478,32,7,641.85,0,Loyal regulars
+479,19,17,1782.48,2,Champions
+480,97,8,934.72,0,Loyal regulars
+481,35,11,1193.26,0,Loyal regulars
+482,19,59,5958.99,2,Champions
+483,12,32,3491.28,2,Champions
+484,6,8,612.91,0,Loyal regulars
+485,15,10,649.34,0,Loyal regulars
+486,14,3,189.74,0,Loyal regulars
+487,8,9,843.71,0,Loyal regulars
+488,325,3,218.21,1,At risk / lapsed
+489,2,10,840.82,2,Champions
+490,93,2,286.5,1,At risk / lapsed
+491,72,2,52.96,1,At risk / lapsed
+492,613,2,170.95,1,At risk / lapsed
+493,0,29,2801.49,2,Champions
+494,23,14,1715.16,2,Champions
+495,8,13,860.01,2,Champions
+496,14,4,436.25,0,Loyal regulars
+497,11,9,409.17,0,Loyal regulars
+498,82,3,237.69,1,At risk / lapsed
+499,10,10,1008.46,2,Champions
+500,184,20,1658.89,0,Loyal regulars
+501,65,3,405.9,0,Loyal regulars
+502,52,10,596.81,0,Loyal regulars
+503,67,5,422.61,0,Loyal regulars
+504,10,40,3721.69,2,Champions
+505,206,3,126.43,1,At risk / lapsed
+506,20,15,1436.84,2,Champions
+507,32,11,1068.34,0,Loyal regulars
+508,59,7,511.65,0,Loyal regulars
+509,264,5,979.93,0,Loyal regulars
+510,151,5,392.91,0,Loyal regulars
+511,3,13,1095.84,2,Champions
+512,44,5,296.34,0,Loyal regulars
+513,207,1,102.96,1,At risk / lapsed
+514,32,9,962.13,0,Loyal regulars
+515,20,9,787.39,0,Loyal regulars
+516,10,10,1109.45,2,Champions
+517,25,10,1034.21,0,Loyal regulars
+518,69,5,333.65,0,Loyal regulars
+519,44,8,696.89,0,Loyal regulars
+520,13,3,177.92,0,Loyal regulars
+521,53,7,825.47,0,Loyal regulars
+522,145,9,947.52,0,Loyal regulars
+523,19,7,620.11,0,Loyal regulars
+524,53,11,1010.88,0,Loyal regulars
+526,69,6,624.5,0,Loyal regulars
+527,11,9,783.85,0,Loyal regulars
+528,78,3,246.3,1,At risk / lapsed
+529,12,11,1127.0,2,Champions
+530,18,7,506.69,0,Loyal regulars
+531,48,5,403.44,0,Loyal regulars
+532,38,6,613.24,0,Loyal regulars
+533,75,1,131.76,1,At risk / lapsed
+534,17,2,108.61,1,At risk / lapsed
+535,21,10,543.98,0,Loyal regulars
+536,58,3,38.96,1,At risk / lapsed
+537,23,20,1886.13,2,Champions
+538,26,4,535.77,0,Loyal regulars
+539,70,3,107.95,1,At risk / lapsed
+540,85,3,214.43,1,At risk / lapsed
+541,23,15,1412.63,2,Champions
+542,4,9,788.48,2,Champions
+544,49,8,409.79,0,Loyal regulars
+545,191,7,336.13,0,Loyal regulars
+546,20,2,154.94,1,At risk / lapsed
+547,3,19,1938.45,2,Champions
+548,291,3,338.48,1,At risk / lapsed
+549,299,3,363.47,1,At risk / lapsed
+550,114,1,79.96,1,At risk / lapsed
+551,7,10,1266.83,2,Champions
+552,221,1,80.96,1,At risk / lapsed
+553,81,6,640.71,0,Loyal regulars
+555,116,4,379.64,0,Loyal regulars
+556,15,5,549.71,0,Loyal regulars
+557,105,14,1599.33,0,Loyal regulars
+558,73,12,1036.56,0,Loyal regulars
+559,5,30,2888.68,2,Champions
+560,2,80,8071.62,2,Champions
+561,1,7,684.53,2,Champions
+562,600,1,29.97,1,At risk / lapsed
+563,90,4,496.82,0,Loyal regulars
+564,2,15,1408.26,2,Champions
+565,184,5,318.67,1,At risk / lapsed
+566,54,6,423.83,0,Loyal regulars
+567,78,6,586.23,0,Loyal regulars
+568,224,5,502.81,0,Loyal regulars
+569,70,18,1652.7,2,Champions
+570,157,4,325.85,1,At risk / lapsed
+571,13,40,3011.14,2,Champions
+572,15,34,3238.16,2,Champions
+573,0,22,1966.78,2,Champions
+574,13,7,678.34,0,Loyal regulars
+575,97,4,343.0,0,Loyal regulars
+576,21,8,761.55,0,Loyal regulars
+577,14,4,324.88,0,Loyal regulars
+579,13,40,3215.41,2,Champions
+580,3,32,3210.57,2,Champions
+581,16,11,1040.13,0,Loyal regulars
+582,10,45,3626.49,2,Champions
+583,31,18,1817.58,2,Champions
+584,152,4,218.47,1,At risk / lapsed
+585,4,3,272.89,0,Loyal regulars
+587,16,14,1399.79,2,Champions
+588,5,24,2439.74,2,Champions
+589,442,1,21.99,1,At risk / lapsed
+590,264,1,109.85,1,At risk / lapsed
+591,17,11,967.39,0,Loyal regulars
+592,57,1,248.92,1,At risk / lapsed
+593,51,5,474.84,0,Loyal regulars
+594,56,9,790.43,0,Loyal regulars
+595,34,12,1004.3,0,Loyal regulars
+596,6,29,2785.85,2,Champions
+597,7,29,2686.61,2,Champions
+598,24,10,639.82,0,Loyal regulars
+599,373,1,298.94,1,At risk / lapsed
+600,6,8,665.81,0,Loyal regulars
+601,3,15,1177.54,2,Champions
+602,16,8,920.64,0,Loyal regulars
+603,14,3,323.45,0,Loyal regulars
+605,63,4,353.05,0,Loyal regulars
+606,6,28,2065.8,2,Champions
+608,2,9,1032.36,2,Champions
+609,41,20,1970.87,2,Champions
+610,4,30,2674.84,2,Champions
+611,20,23,1927.49,2,Champions
+612,4,22,2256.54,2,Champions
+613,419,1,57.96,1,At risk / lapsed
+614,3,45,4059.43,2,Champions
+615,0,42,4103.53,2,Champions
+616,52,3,188.03,1,At risk / lapsed
+617,42,9,857.69,0,Loyal regulars
+618,314,2,119.97,1,At risk / lapsed
+619,29,6,449.42,0,Loyal regulars
+620,43,3,191.45,1,At risk / lapsed
+621,367,2,107.95,1,At risk / lapsed
+622,11,20,1509.86,2,Champions
+623,106,13,1164.33,0,Loyal regulars
+624,74,1,50.98,1,At risk / lapsed
+625,44,11,1004.3,0,Loyal regulars
+626,18,5,321.96,0,Loyal regulars
+628,163,5,300.43,1,At risk / lapsed
+629,10,17,1352.45,2,Champions
+630,5,20,1644.72,2,Champions
+631,3,21,2054.68,2,Champions
+632,36,3,339.34,0,Loyal regulars
+633,0,9,924.57,2,Champions
+634,3,32,2782.83,2,Champions
+635,4,8,875.01,2,Champions
+636,26,7,533.26,0,Loyal regulars
+637,234,3,165.95,1,At risk / lapsed
+638,3,1,109.97,1,At risk / lapsed
+639,13,2,108.94,1,At risk / lapsed
+640,9,10,1559.07,2,Champions
+641,44,16,1395.45,2,Champions
+643,24,21,2178.33,2,Champions
+644,39,16,1692.5,2,Champions
+645,86,4,405.93,0,Loyal regulars
+646,3,17,1785.42,2,Champions
+647,8,5,415.82,0,Loyal regulars
+648,415,1,42.98,1,At risk / lapsed
+649,32,13,1129.31,0,Loyal regulars
+650,27,14,1547.95,2,Champions
+651,128,8,641.37,0,Loyal regulars
+653,7,31,3045.58,2,Champions
+655,43,21,2268.11,2,Champions
+656,374,1,3.99,1,At risk / lapsed
+657,438,1,181.94,1,At risk / lapsed
+658,275,4,453.58,1,At risk / lapsed
+659,313,2,57.96,1,At risk / lapsed
+660,2,2,141.95,0,Loyal regulars
+661,376,1,138.94,1,At risk / lapsed
+663,10,16,1435.63,2,Champions
+664,1,24,2198.49,2,Champions
+666,12,9,962.65,0,Loyal regulars
+667,7,16,1546.22,2,Champions
+668,35,12,857.97,0,Loyal regulars
+669,82,7,699.02,0,Loyal regulars
+670,3,11,863.47,2,Champions
+671,82,3,202.88,1,At risk / lapsed
+672,11,9,793.7,0,Loyal regulars
+673,4,26,2654.88,2,Champions
+674,21,17,1326.29,2,Champions
+675,0,49,4758.52,2,Champions
+676,20,16,2153.62,2,Champions
+677,24,8,988.43,0,Loyal regulars
+678,1,5,479.82,0,Loyal regulars
+679,20,11,1088.96,0,Loyal regulars
+680,5,31,2815.37,2,Champions
+681,122,3,292.92,1,At risk / lapsed
+682,18,4,463.5,0,Loyal regulars
+683,26,7,619.88,0,Loyal regulars
+685,10,21,1589.81,2,Champions
+686,0,24,2160.87,2,Champions
+687,211,3,131.93,1,At risk / lapsed
+688,108,4,277.89,1,At risk / lapsed
+689,199,1,282.31,1,At risk / lapsed
+690,80,5,332.54,0,Loyal regulars
+691,281,8,1011.59,0,Loyal regulars
+692,139,3,244.21,1,At risk / lapsed
+693,129,7,918.51,0,Loyal regulars
+695,318,2,167.93,1,At risk / lapsed
+696,71,2,173.94,1,At risk / lapsed
+697,84,3,86.92,1,At risk / lapsed
+698,39,13,1648.04,2,Champions
+699,163,11,952.15,0,Loyal regulars
+700,23,19,1109.77,2,Champions
+701,10,15,1374.51,2,Champions
+702,26,11,658.17,0,Loyal regulars
+703,4,46,4315.97,2,Champions
+704,96,4,322.06,0,Loyal regulars
+705,17,10,1113.22,0,Loyal regulars
+707,1,10,1141.44,2,Champions
+708,60,8,1303.83,0,Loyal regulars
+709,3,16,1524.28,2,Champions
+710,14,14,1099.89,2,Champions
+711,62,31,2398.57,2,Champions
+712,57,10,877.63,0,Loyal regulars
+713,311,1,39.98,1,At risk / lapsed
+714,383,1,51.97,1,At risk / lapsed
+715,348,2,119.93,1,At risk / lapsed
+716,115,7,668.57,0,Loyal regulars
+717,36,7,1046.69,0,Loyal regulars
+719,2,34,3060.33,2,Champions
+721,28,7,766.96,0,Loyal regulars
+722,3,18,1754.79,2,Champions
+723,3,15,1167.91,2,Champions
+724,54,8,921.37,0,Loyal regulars
+725,171,5,290.86,1,At risk / lapsed
+726,42,17,1974.54,2,Champions
+727,67,10,1063.67,0,Loyal regulars
+728,8,15,1111.0,2,Champions
+729,23,5,364.76,0,Loyal regulars
+730,18,4,476.69,0,Loyal regulars
+731,277,2,241.86,1,At risk / lapsed
+732,628,1,93.95,1,At risk / lapsed
+733,585,1,126.95,1,At risk / lapsed
+734,18,9,751.25,0,Loyal regulars
+735,11,5,451.7,0,Loyal regulars
+736,16,41,3460.21,2,Champions
+737,19,17,1852.01,2,Champions
+738,100,1,96.96,1,At risk / lapsed
+739,3,18,1654.22,2,Champions
+740,37,9,727.24,0,Loyal regulars
+741,22,14,1197.59,2,Champions
+742,570,1,52.98,1,At risk / lapsed
+743,359,1,228.99,1,At risk / lapsed
+744,14,17,1648.21,2,Champions
+745,133,10,466.08,0,Loyal regulars
+746,0,13,1250.07,2,Champions
+747,126,5,408.48,0,Loyal regulars
+748,4,20,1469.79,2,Champions
+749,0,22,2421.05,2,Champions
+751,187,1,56.95,1,At risk / lapsed
+752,74,2,203.92,1,At risk / lapsed
+753,16,9,1465.43,2,Champions
+754,45,4,370.49,0,Loyal regulars
+755,176,3,346.94,1,At risk / lapsed
+756,107,4,378.17,0,Loyal regulars
+757,0,18,1993.6,2,Champions
+758,90,3,404.03,0,Loyal regulars
+759,242,1,19.98,1,At risk / lapsed
+760,43,9,897.85,0,Loyal regulars
+761,16,9,900.92,0,Loyal regulars
+762,576,2,396.88,1,At risk / lapsed
+763,9,2,132.93,1,At risk / lapsed
+764,338,8,659.15,0,Loyal regulars
+765,45,26,2206.34,2,Champions
+766,87,14,1283.44,0,Loyal regulars
+767,57,10,984.6,0,Loyal regulars
+768,164,20,1486.42,0,Loyal regulars
+769,4,43,3569.94,2,Champions
+771,14,13,1570.47,2,Champions
+772,11,10,883.52,0,Loyal regulars
+773,16,14,1020.15,2,Champions
+775,4,15,1210.7,2,Champions
+776,9,24,2046.95,2,Champions
+777,0,6,402.8,2,Champions
+778,22,6,449.82,0,Loyal regulars
+779,34,8,1126.97,0,Loyal regulars
+780,3,7,305.8,0,Loyal regulars
+781,60,9,925.46,0,Loyal regulars
+782,25,17,1256.93,2,Champions
+783,309,7,720.91,0,Loyal regulars
+784,46,17,1738.0,2,Champions
+785,18,17,1091.77,2,Champions
+786,57,7,551.12,0,Loyal regulars
+787,35,4,210.69,0,Loyal regulars
+788,64,10,979.47,0,Loyal regulars
+789,165,3,255.91,1,At risk / lapsed
+791,24,10,758.23,0,Loyal regulars
+792,122,17,2037.06,0,Loyal regulars
+793,0,12,1261.27,2,Champions
+794,20,1,183.96,1,At risk / lapsed
+795,54,2,227.94,1,At risk / lapsed
+796,188,5,589.49,0,Loyal regulars
+797,19,11,1077.3,0,Loyal regulars
+798,103,7,386.41,0,Loyal regulars
+799,40,5,333.84,0,Loyal regulars
+800,3,5,408.16,0,Loyal regulars
+801,25,4,408.56,0,Loyal regulars
+802,25,10,948.15,0,Loyal regulars
+803,570,2,207.5,1,At risk / lapsed
+804,43,12,1322.83,0,Loyal regulars
+805,248,1,175.93,1,At risk / lapsed
+806,15,9,506.54,0,Loyal regulars
+807,47,25,2555.55,2,Champions
+808,82,8,610.8,0,Loyal regulars
+809,265,6,682.45,0,Loyal regulars
+811,157,4,290.37,1,At risk / lapsed
+812,114,13,1185.28,0,Loyal regulars
+813,4,21,1952.76,2,Champions
+814,54,18,1549.25,2,Champions
+815,45,19,2095.46,2,Champions
+816,29,6,420.2,0,Loyal regulars
+818,39,17,1620.18,2,Champions
+819,129,5,446.82,0,Loyal regulars
+820,455,1,20.98,1,At risk / lapsed
+821,89,4,387.67,0,Loyal regulars
+823,40,8,1066.46,0,Loyal regulars
+824,67,10,811.25,0,Loyal regulars
+825,2,15,1580.46,2,Champions
+826,13,17,2265.96,2,Champions
+827,23,8,643.56,0,Loyal regulars
+830,11,21,2078.73,2,Champions
+831,11,2,227.92,0,Loyal regulars
+832,40,11,483.56,0,Loyal regulars
+833,7,52,5536.39,2,Champions
+834,7,35,2527.76,2,Champions
+836,30,9,858.97,0,Loyal regulars
+837,59,1,59.97,1,At risk / lapsed
+838,143,2,93.96,1,At risk / lapsed
+839,279,3,297.89,1,At risk / lapsed
+840,26,10,786.37,0,Loyal regulars
+841,118,9,739.11,0,Loyal regulars
+842,60,4,682.84,0,Loyal regulars
+843,30,25,2148.2,2,Champions
+844,3,22,1806.97,2,Champions
+845,29,7,598.92,0,Loyal regulars
+846,87,5,492.46,0,Loyal regulars
+848,164,1,88.96,1,At risk / lapsed
+849,112,2,343.29,1,At risk / lapsed
+850,49,4,244.49,0,Loyal regulars
+851,155,1,160.94,1,At risk / lapsed
+852,82,5,557.03,0,Loyal regulars
+853,7,10,1066.8,2,Champions
+854,689,1,36.99,1,At risk / lapsed
+855,38,30,3224.5,2,Champions
+856,25,27,2336.0,2,Champions
+857,100,6,462.71,0,Loyal regulars
+858,41,11,1350.95,0,Loyal regulars
+859,12,9,652.73,0,Loyal regulars
+860,17,10,772.61,0,Loyal regulars
+861,6,23,2020.14,2,Champions
+863,8,21,1835.29,2,Champions
+864,35,8,778.01,0,Loyal regulars
+865,2,7,533.93,0,Loyal regulars
+867,161,6,455.51,0,Loyal regulars
+868,79,2,184.24,1,At risk / lapsed
+869,4,8,651.69,0,Loyal regulars
+870,241,4,286.28,1,At risk / lapsed
+871,479,3,279.48,1,At risk / lapsed
+872,12,15,1175.94,2,Champions
+873,11,28,2766.1,2,Champions
+874,93,12,1040.38,0,Loyal regulars
+875,172,3,289.01,1,At risk / lapsed
+876,73,4,794.03,0,Loyal regulars
+877,7,3,241.8,0,Loyal regulars
+878,268,2,92.76,1,At risk / lapsed
+879,2,34,2972.61,2,Champions
+880,4,9,642.15,2,Champions
+881,18,4,344.89,0,Loyal regulars
+882,12,3,252.09,0,Loyal regulars
+884,42,5,812.04,0,Loyal regulars
+885,232,2,193.55,1,At risk / lapsed
+886,19,4,297.27,0,Loyal regulars
+887,0,20,2001.29,2,Champions
+888,6,14,1341.55,2,Champions
+889,10,11,986.91,2,Champions
+890,47,14,1119.8,0,Loyal regulars
+891,1,16,1786.6,2,Champions
+892,81,10,913.31,0,Loyal regulars
+893,515,1,107.15,1,At risk / lapsed
+895,7,19,1662.12,2,Champions
+896,10,16,1316.44,2,Champions
+897,10,9,538.36,0,Loyal regulars
+900,40,10,814.48,0,Loyal regulars
+901,26,3,231.9,0,Loyal regulars
+902,136,22,2266.45,2,Champions
+903,54,4,464.46,0,Loyal regulars
+904,6,9,764.6,2,Champions
+905,88,11,797.97,0,Loyal regulars
+906,196,5,577.77,0,Loyal regulars
+907,474,3,388.84,1,At risk / lapsed
+908,60,9,633.7,0,Loyal regulars
+909,44,18,1739.37,2,Champions
+910,253,2,75.95,1,At risk / lapsed
+911,13,10,1190.56,2,Champions
+912,9,29,2457.99,2,Champions
+913,192,1,78.97,1,At risk / lapsed
+914,10,43,4063.69,2,Champions
+915,80,5,871.1,0,Loyal regulars
+916,274,4,761.23,0,Loyal regulars
+917,473,2,117.95,1,At risk / lapsed
+918,341,1,23.98,1,At risk / lapsed
+919,112,3,718.13,0,Loyal regulars
+920,11,10,1170.9,2,Champions
+921,28,8,669.87,0,Loyal regulars
+922,91,3,315.2,1,At risk / lapsed
+924,316,3,359.65,1,At risk / lapsed
+925,116,1,78.97,1,At risk / lapsed
+926,274,2,218.55,1,At risk / lapsed
+927,4,16,1738.28,2,Champions
+928,50,18,1819.01,2,Champions
+929,5,4,271.91,0,Loyal regulars
+930,29,5,384.3,0,Loyal regulars
+931,16,9,836.59,0,Loyal regulars
+932,299,3,286.87,1,At risk / lapsed
+933,13,8,779.4,0,Loyal regulars
+934,212,8,799.48,0,Loyal regulars
+935,604,1,20.48,1,At risk / lapsed
+936,524,1,139.95,1,At risk / lapsed
+937,18,22,2125.37,2,Champions
+939,56,11,944.66,0,Loyal regulars
+940,84,4,218.38,1,At risk / lapsed
+941,24,16,1461.66,2,Champions
+942,26,11,1090.2,0,Loyal regulars
+943,133,1,41.97,1,At risk / lapsed
+944,26,13,1059.47,0,Loyal regulars
+945,13,9,1043.93,0,Loyal regulars
+946,14,7,873.21,0,Loyal regulars
+947,85,1,35.98,1,At risk / lapsed
+948,5,21,1993.35,2,Champions
+949,485,1,131.95,1,At risk / lapsed
+950,32,6,419.48,0,Loyal regulars
+951,122,2,119.96,1,At risk / lapsed
+952,71,2,98.04,1,At risk / lapsed
+953,120,2,80.96,1,At risk / lapsed
+954,178,4,422.47,1,At risk / lapsed
+955,127,17,1280.08,0,Loyal regulars
+956,61,8,749.71,0,Loyal regulars
+957,12,10,1168.21,2,Champions
+958,20,4,416.82,0,Loyal regulars
+959,26,10,1003.86,0,Loyal regulars
+960,5,18,1362.57,2,Champions
+961,32,9,1124.28,0,Loyal regulars
+962,18,33,3160.33,2,Champions
+963,54,8,1080.16,0,Loyal regulars
+964,128,2,253.92,1,At risk / lapsed
+965,16,3,412.83,0,Loyal regulars
+966,19,10,947.61,0,Loyal regulars
+967,66,1,57.37,1,At risk / lapsed
+968,68,11,902.53,0,Loyal regulars
+969,171,9,684.48,0,Loyal regulars
+970,39,7,785.94,0,Loyal regulars
+971,18,8,588.55,0,Loyal regulars
+972,15,22,1718.59,2,Champions
+973,572,1,92.98,1,At risk / lapsed
+974,15,12,1239.47,2,Champions
+975,13,22,1806.2,2,Champions
+976,106,16,1403.59,0,Loyal regulars
+977,4,10,1138.95,2,Champions
+978,16,18,1770.28,2,Champions
+979,5,20,1741.32,2,Champions
+980,553,1,56.96,1,At risk / lapsed
+981,16,22,1995.8,2,Champions
+982,12,19,1776.96,2,Champions
+983,254,1,100.96,1,At risk / lapsed
+984,116,4,194.89,1,At risk / lapsed
+985,29,34,2646.73,2,Champions
+986,21,13,1460.72,2,Champions
+987,35,20,1714.23,2,Champions
+988,354,1,17.98,1,At risk / lapsed
+991,12,9,638.34,0,Loyal regulars
+992,204,10,825.05,0,Loyal regulars
+993,22,27,2889.13,2,Champions
+994,472,2,72.16,1,At risk / lapsed
+995,12,1,101.95,1,At risk / lapsed
+996,157,6,487.4,0,Loyal regulars
+997,60,5,374.04,0,Loyal regulars
+998,59,6,371.56,0,Loyal regulars
+999,20,33,3081.19,2,Champions
+1000,363,1,37.97,1,At risk / lapsed
+1001,72,11,841.16,0,Loyal regulars
+1002,138,7,493.97,0,Loyal regulars
+1003,137,5,494.84,0,Loyal regulars
+1004,134,6,657.85,0,Loyal regulars
+1005,474,1,36.98,1,At risk / lapsed
+1006,14,7,694.7,0,Loyal regulars
+1007,8,45,3854.29,2,Champions
+1008,297,3,143.12,1,At risk / lapsed
+1010,47,6,406.83,0,Loyal regulars
+1011,74,15,1443.39,0,Loyal regulars
+1012,132,9,793.68,0,Loyal regulars
+1013,123,8,597.92,0,Loyal regulars
+1014,46,6,837.78,0,Loyal regulars
+1015,25,15,999.03,2,Champions
+1016,20,4,327.89,0,Loyal regulars
+1017,19,17,1625.23,2,Champions
+1018,29,9,1270.26,0,Loyal regulars
+1019,3,25,1969.23,2,Champions
+1020,4,11,1415.29,2,Champions
+1021,139,6,433.21,0,Loyal regulars
+1022,44,14,896.99,0,Loyal regulars
+1023,1,48,5274.63,2,Champions
+1024,62,7,551.1,0,Loyal regulars
+1025,109,15,1570.62,0,Loyal regulars
+1026,477,3,422.91,1,At risk / lapsed
+1028,16,32,2674.85,2,Champions
+1029,78,11,869.68,0,Loyal regulars
+1030,46,4,380.25,0,Loyal regulars
+1031,320,3,338.84,1,At risk / lapsed
+1032,27,4,397.46,0,Loyal regulars
+1033,1,3,314.39,0,Loyal regulars
+1034,42,5,533.72,0,Loyal regulars
+1035,3,15,1464.32,2,Champions
+1036,46,6,470.91,0,Loyal regulars
+1037,26,14,1233.38,2,Champions
+1038,27,4,469.11,0,Loyal regulars
+1039,75,10,817.16,0,Loyal regulars
+1041,214,8,662.34,0,Loyal regulars
+1042,6,16,1682.77,2,Champions
+1043,28,2,175.91,1,At risk / lapsed
+1044,17,10,680.11,0,Loyal regulars
+1045,11,19,2142.64,2,Champions
+1046,38,5,368.03,0,Loyal regulars
+1047,29,4,649.42,0,Loyal regulars
+1048,29,14,1038.59,0,Loyal regulars
+1049,1,17,1934.84,2,Champions
+1051,17,17,1286.63,2,Champions
+1052,64,4,560.01,0,Loyal regulars
+1054,6,13,980.01,2,Champions
+1055,227,4,725.34,0,Loyal regulars
+1056,32,3,257.2,0,Loyal regulars
+1057,5,20,1593.79,2,Champions
+1058,113,7,702.02,0,Loyal regulars
+1059,17,20,2257.71,2,Champions
+1060,9,35,2789.93,2,Champions
+1061,34,5,295.61,0,Loyal regulars
+1062,376,1,135.97,1,At risk / lapsed
+1063,46,12,978.45,0,Loyal regulars
+1064,8,6,1005.93,0,Loyal regulars
+1066,396,2,225.8,1,At risk / lapsed
+1067,18,15,1802.72,2,Champions
+1069,29,15,2054.22,2,Champions
+1070,5,6,720.23,0,Loyal regulars
+1071,56,9,1085.54,0,Loyal regulars
+1072,0,1,31.98,1,At risk / lapsed
+1073,58,11,766.45,0,Loyal regulars
+1074,4,19,1846.59,2,Champions
+1075,180,5,220.59,1,At risk / lapsed
+1076,71,2,265.89,1,At risk / lapsed
+1077,73,7,523.32,0,Loyal regulars
+1078,140,12,1123.45,0,Loyal regulars
+1079,2,62,5307.6,2,Champions
+1080,35,7,862.21,0,Loyal regulars
+1081,32,9,1035.57,0,Loyal regulars
+1082,256,1,38.96,1,At risk / lapsed
+1084,60,12,873.81,0,Loyal regulars
+1085,2,4,296.9,0,Loyal regulars
+1086,42,2,129.92,1,At risk / lapsed
+1087,1,28,3145.83,2,Champions
+1088,450,3,326.18,1,At risk / lapsed
+1089,54,11,1080.81,0,Loyal regulars
+1090,18,8,784.75,0,Loyal regulars
+1091,310,2,264.89,1,At risk / lapsed
+1092,43,13,944.6,0,Loyal regulars
+1093,59,3,389.33,0,Loyal regulars
+1094,2,20,1976.98,2,Champions
+1095,94,12,1099.04,0,Loyal regulars
+1096,571,2,247.88,1,At risk / lapsed
+1097,2,32,2759.36,2,Champions
+1098,55,17,1304.35,0,Loyal regulars
+1099,5,12,697.08,2,Champions
+1100,3,10,1363.37,2,Champions
+1101,2,13,856.29,2,Champions
+1102,3,11,921.76,2,Champions
+1103,185,3,255.92,1,At risk / lapsed
+1104,154,1,39.99,1,At risk / lapsed
+1105,59,6,504.26,0,Loyal regulars
+1106,254,2,231.94,1,At risk / lapsed
+1107,74,4,312.17,0,Loyal regulars
+1108,116,2,87.24,1,At risk / lapsed
+1109,220,2,117.31,1,At risk / lapsed
+1110,2,22,1705.89,2,Champions
+1111,52,5,473.33,0,Loyal regulars
+1112,3,23,2324.72,2,Champions
+1113,122,10,1061.56,0,Loyal regulars
+1114,3,9,806.56,2,Champions
+1115,175,3,307.88,1,At risk / lapsed
+1116,58,6,451.59,0,Loyal regulars
+1117,25,19,1654.39,2,Champions
+1118,14,21,1547.87,2,Champions
+1119,139,3,379.21,1,At risk / lapsed
+1120,71,17,1635.99,0,Loyal regulars
+1121,66,11,1211.36,0,Loyal regulars
+1122,103,16,1557.73,0,Loyal regulars
+1123,201,3,53.37,1,At risk / lapsed
+1124,5,18,1727.62,2,Champions
+1125,251,5,503.81,0,Loyal regulars
+1126,227,2,128.95,1,At risk / lapsed
+1127,162,3,403.37,1,At risk / lapsed
+1128,642,1,172.93,1,At risk / lapsed
+1129,31,6,403.81,0,Loyal regulars
+1130,120,5,592.13,0,Loyal regulars
+1131,3,41,3157.19,2,Champions
+1132,60,4,502.83,0,Loyal regulars
+1133,160,6,932.78,0,Loyal regulars
+1135,516,4,458.18,1,At risk / lapsed
+1136,4,41,4079.72,2,Champions
+1138,64,9,495.11,0,Loyal regulars
+1139,138,9,791.02,0,Loyal regulars
+1141,4,17,1442.87,2,Champions
+1142,33,8,702.26,0,Loyal regulars
+1143,195,5,475.09,0,Loyal regulars
+1144,9,17,1548.82,2,Champions
+1146,155,7,876.33,0,Loyal regulars
+1147,188,4,493.6,0,Loyal regulars
+1148,21,4,534.74,0,Loyal regulars
+1149,229,9,855.23,0,Loyal regulars
+1150,4,40,3820.08,2,Champions
+1151,77,11,1060.3,0,Loyal regulars
+1152,34,3,70.36,1,At risk / lapsed
+1153,13,12,1143.89,2,Champions
+1154,188,3,274.91,1,At risk / lapsed
+1156,354,2,201.32,1,At risk / lapsed
+1157,725,1,61.97,1,At risk / lapsed
+1158,21,27,3017.25,2,Champions
+1159,28,13,1183.09,0,Loyal regulars
+1160,46,12,1105.53,0,Loyal regulars
+1161,32,4,292.4,0,Loyal regulars
+1162,17,1,161.94,1,At risk / lapsed
+1163,7,21,2172.92,2,Champions
+1164,376,2,177.93,1,At risk / lapsed
+1165,31,3,246.75,0,Loyal regulars
+1166,137,11,1112.21,0,Loyal regulars
+1167,33,8,679.71,0,Loyal regulars
+1168,117,2,158.9,1,At risk / lapsed
+1169,14,24,2492.93,2,Champions
+1170,38,4,474.73,0,Loyal regulars
+1171,2,8,872.56,2,Champions
+1172,421,2,142.94,1,At risk / lapsed
+1173,18,20,1658.31,2,Champions
+1174,140,5,360.21,0,Loyal regulars
+1175,414,1,159.96,1,At risk / lapsed
+1176,694,1,70.98,1,At risk / lapsed
+1177,91,5,445.33,0,Loyal regulars
+1178,122,6,974.63,0,Loyal regulars
+1179,99,1,98.95,1,At risk / lapsed
+1180,183,1,84.98,1,At risk / lapsed
+1181,113,6,367.1,0,Loyal regulars
+1182,17,5,427.82,0,Loyal regulars
+1183,2,17,1341.67,2,Champions
+1184,30,39,3534.49,2,Champions
+1185,18,12,1355.91,2,Champions
+1186,150,5,549.13,0,Loyal regulars
+1187,132,3,382.37,1,At risk / lapsed
+1188,83,1,158.93,1,At risk / lapsed
+1189,154,4,296.47,1,At risk / lapsed
+1190,88,15,1066.21,0,Loyal regulars
+1191,19,6,689.77,0,Loyal regulars
+1192,17,4,518.31,0,Loyal regulars
+1193,75,4,238.27,1,At risk / lapsed
+1194,12,12,941.17,2,Champions
+1195,145,8,739.9,0,Loyal regulars
+1196,263,3,282.38,1,At risk / lapsed
+1197,24,27,2021.06,2,Champions
+1198,39,1,73.57,1,At risk / lapsed
+1199,19,13,1348.57,2,Champions
+1200,267,1,82.97,1,At risk / lapsed
+1201,27,5,593.6,0,Loyal regulars
+1202,60,3,471.7,0,Loyal regulars
+1203,79,4,365.88,0,Loyal regulars
+1204,3,67,5654.34,2,Champions
+1205,22,18,1646.4,2,Champions
+1206,0,18,1778.81,2,Champions
+1207,147,4,459.42,0,Loyal regulars
+1208,52,5,360.82,0,Loyal regulars
+1209,138,8,680.12,0,Loyal regulars
+1210,52,6,423.83,0,Loyal regulars
+1211,22,24,2073.81,2,Champions
+1212,31,42,3748.21,2,Champions
+1213,17,2,266.87,0,Loyal regulars
+1214,25,26,2935.01,2,Champions
+1215,38,24,1874.3,2,Champions
+1216,14,18,1889.21,2,Champions
+1217,54,2,263.11,1,At risk / lapsed
+1218,29,14,1746.18,2,Champions
+1219,707,1,62.87,1,At risk / lapsed
+1220,45,23,2086.77,2,Champions
+1221,237,10,877.06,0,Loyal regulars
+1222,164,5,335.78,0,Loyal regulars
+1223,71,2,196.45,1,At risk / lapsed
+1224,466,1,20.98,1,At risk / lapsed
+1225,10,39,3679.18,2,Champions
+1226,0,11,1084.28,2,Champions
+1227,8,57,4911.93,2,Champions
+1230,409,2,241.38,1,At risk / lapsed
+1231,111,10,796.6,0,Loyal regulars
+1232,255,3,304.88,1,At risk / lapsed
+1233,9,6,370.49,0,Loyal regulars
+1234,59,3,424.25,0,Loyal regulars
+1235,228,3,111.96,1,At risk / lapsed
+1236,25,22,2372.57,2,Champions
+1237,26,11,807.8,0,Loyal regulars
+1238,125,11,1400.9,0,Loyal regulars
+1239,592,1,149.94,1,At risk / lapsed
+1240,37,5,469.72,0,Loyal regulars
+1241,9,7,658.31,0,Loyal regulars
+1242,25,8,541.95,0,Loyal regulars
+1243,16,20,1559.01,2,Champions
+1244,11,6,713.77,0,Loyal regulars
+1245,10,19,1725.21,2,Champions
+1246,77,1,57.98,1,At risk / lapsed
+1247,48,6,375.25,0,Loyal regulars
+1248,4,19,1737.72,2,Champions
+1249,298,3,191.91,1,At risk / lapsed
+1250,309,3,474.44,1,At risk / lapsed
+1251,30,20,1783.28,2,Champions
+1252,14,26,2657.75,2,Champions
+1253,20,26,2149.21,2,Champions
+1254,4,23,2607.0,2,Champions
+1255,116,4,273.9,1,At risk / lapsed
+1256,33,12,1015.95,0,Loyal regulars
+1257,350,2,105.33,1,At risk / lapsed
+1258,10,4,185.71,0,Loyal regulars
+1259,24,8,796.29,0,Loyal regulars
+1260,137,6,408.85,0,Loyal regulars
+1261,3,21,1715.41,2,Champions
+1262,192,8,1040.11,0,Loyal regulars
+1263,7,7,589.53,0,Loyal regulars
+1264,3,44,3828.63,2,Champions
+1266,445,1,41.97,1,At risk / lapsed
+1268,79,6,340.74,0,Loyal regulars
+1269,33,9,742.46,0,Loyal regulars
+1270,160,2,58.96,1,At risk / lapsed
+1271,76,9,891.8,0,Loyal regulars
+1272,36,10,762.17,0,Loyal regulars
+1273,7,14,1563.6,2,Champions
+1274,4,17,1456.81,2,Champions
+1275,5,6,608.38,0,Loyal regulars
+1276,522,1,96.96,1,At risk / lapsed
+1277,26,9,1479.66,0,Loyal regulars
+1278,0,15,1766.67,2,Champions
+1279,10,17,1292.45,2,Champions
+1281,79,1,67.97,1,At risk / lapsed
+1282,17,3,228.1,0,Loyal regulars
+1283,142,3,80.93,1,At risk / lapsed
+1284,11,9,1026.26,0,Loyal regulars
+1285,7,13,1275.42,2,Champions
+1286,22,6,484.82,0,Loyal regulars
+1287,34,22,1827.21,2,Champions
+1288,19,11,1031.6,0,Loyal regulars
+1289,32,11,1281.41,0,Loyal regulars
+1290,18,10,974.42,0,Loyal regulars
+1291,54,4,454.12,0,Loyal regulars
+1292,8,9,847.54,0,Loyal regulars
+1293,59,5,399.28,0,Loyal regulars
+1294,60,4,507.02,0,Loyal regulars
+1295,84,3,230.94,1,At risk / lapsed
+1296,730,1,91.97,1,At risk / lapsed
+1297,159,1,75.08,1,At risk / lapsed
+1298,0,37,3241.11,2,Champions
+1299,21,8,742.2,0,Loyal regulars
+1300,104,1,186.75,1,At risk / lapsed
+1301,48,8,756.68,0,Loyal regulars
+1302,55,4,178.73,1,At risk / lapsed
+1303,257,4,190.51,1,At risk / lapsed
+1304,24,12,1317.61,2,Champions
+1305,38,14,1333.7,0,Loyal regulars
+1306,8,32,2796.07,2,Champions
+1307,0,13,1099.14,2,Champions
+1308,147,3,285.26,1,At risk / lapsed
+1309,31,21,1810.9,2,Champions
+1310,5,34,3006.92,2,Champions
+1311,17,21,2141.44,2,Champions
+1312,262,4,505.32,1,At risk / lapsed
+1313,7,34,2463.86,2,Champions
+1315,11,15,1655.12,2,Champions
+1316,418,1,165.97,1,At risk / lapsed
+1317,85,2,127.54,1,At risk / lapsed
+1318,2,38,3202.86,2,Champions
+1319,2,12,1033.0,2,Champions
+1320,676,1,23.38,1,At risk / lapsed
+1321,7,21,1823.39,2,Champions
+1322,21,34,3157.1,2,Champions
+1323,11,30,2312.04,2,Champions
+1324,130,6,438.94,0,Loyal regulars
+1325,40,25,2144.03,2,Champions
+1326,46,8,1013.89,0,Loyal regulars
+1327,90,11,807.27,0,Loyal regulars
+1328,32,8,653.46,0,Loyal regulars
+1329,88,4,432.66,0,Loyal regulars
+1330,159,2,133.15,1,At risk / lapsed
+1331,47,5,642.09,0,Loyal regulars
+1332,33,12,1062.09,0,Loyal regulars
+1333,13,6,625.29,0,Loyal regulars
+1334,45,6,543.75,0,Loyal regulars
+1335,26,16,1180.8,2,Champions
+1336,109,9,1025.78,0,Loyal regulars
+1337,115,6,584.57,0,Loyal regulars
+1338,98,4,111.25,1,At risk / lapsed
+1339,3,39,3595.84,2,Champions
+1340,262,2,309.62,1,At risk / lapsed
+1341,45,14,1172.78,0,Loyal regulars
+1343,319,2,109.96,1,At risk / lapsed
+1344,520,1,84.96,1,At risk / lapsed
+1345,105,3,213.92,1,At risk / lapsed
+1346,11,14,1229.37,2,Champions
+1347,87,16,1682.74,0,Loyal regulars
+1348,122,1,147.96,1,At risk / lapsed
+1349,438,5,576.96,1,At risk / lapsed
+1350,83,6,440.81,0,Loyal regulars
+1351,133,6,538.81,0,Loyal regulars
+1352,470,1,39.98,1,At risk / lapsed
+1353,19,29,2995.53,2,Champions
+1354,4,25,2688.44,2,Champions
+1355,69,7,681.36,0,Loyal regulars
+1356,251,2,180.93,1,At risk / lapsed
+1357,39,13,1108.35,0,Loyal regulars
+1358,3,40,4309.17,2,Champions
+1359,7,5,572.78,0,Loyal regulars
+1360,234,1,68.97,1,At risk / lapsed
+1361,25,6,591.44,0,Loyal regulars
+1362,70,11,1203.46,0,Loyal regulars
+1363,8,3,208.9,0,Loyal regulars
+1364,565,1,57.56,1,At risk / lapsed
+1365,8,6,680.46,0,Loyal regulars
+1366,23,10,825.57,0,Loyal regulars
+1367,109,4,256.3,1,At risk / lapsed
+1368,82,3,182.52,1,At risk / lapsed
+1369,33,31,2662.17,2,Champions
+1370,130,6,364.02,0,Loyal regulars
+1371,6,13,1195.7,2,Champions
+1372,13,5,273.47,0,Loyal regulars
+1373,58,4,406.95,0,Loyal regulars
+1374,162,9,1157.67,0,Loyal regulars
+1375,106,1,189.93,1,At risk / lapsed
+1376,271,5,347.84,1,At risk / lapsed
+1377,303,5,361.85,1,At risk / lapsed
+1378,39,4,224.5,0,Loyal regulars
+1379,9,38,3483.25,2,Champions
+1380,15,10,717.73,0,Loyal regulars
+1381,5,7,582.52,0,Loyal regulars
+1382,32,3,240.51,0,Loyal regulars
+1383,52,7,540.98,0,Loyal regulars
+1384,6,11,1283.84,2,Champions
+1385,108,4,360.68,0,Loyal regulars
+1386,205,1,38.77,1,At risk / lapsed
+1387,109,13,972.23,0,Loyal regulars
+1388,3,6,446.84,0,Loyal regulars
+1389,169,5,533.85,0,Loyal regulars
+1390,79,42,4629.96,2,Champions
+1391,4,50,4417.74,2,Champions
+1392,59,15,1339.97,0,Loyal regulars
+1393,245,3,394.48,1,At risk / lapsed
+1394,13,11,1354.86,2,Champions
+1395,1,40,3365.77,2,Champions
+1396,109,7,441.05,0,Loyal regulars
+1397,15,12,777.03,0,Loyal regulars
+1398,380,6,512.09,0,Loyal regulars
+1399,5,16,1379.03,2,Champions
+1400,5,3,284.07,0,Loyal regulars
+1401,10,11,947.93,2,Champions
+1402,53,10,818.98,0,Loyal regulars
+1403,84,8,661.8,0,Loyal regulars
+1404,637,1,58.97,1,At risk / lapsed
+1405,46,2,276.29,1,At risk / lapsed
+1406,10,13,1850.7,2,Champions
+1407,148,11,1012.43,0,Loyal regulars
+1408,10,3,266.9,0,Loyal regulars
+1409,230,10,834.72,0,Loyal regulars
+1410,514,2,168.11,1,At risk / lapsed
+1411,189,1,54.96,1,At risk / lapsed
+1412,59,6,676.29,0,Loyal regulars
+1413,2,2,202.92,0,Loyal regulars
+1414,437,1,30.99,1,At risk / lapsed
+1415,7,5,509.8,0,Loyal regulars
+1416,13,9,888.73,0,Loyal regulars
+1417,345,3,246.71,1,At risk / lapsed
+1418,2,17,1729.28,2,Champions
+1419,17,7,689.88,0,Loyal regulars
+1420,224,1,105.96,1,At risk / lapsed
+1421,9,14,1452.16,2,Champions
+1422,206,4,375.04,1,At risk / lapsed
+1423,76,4,552.99,0,Loyal regulars
+1424,95,5,617.42,0,Loyal regulars
+1426,5,81,6544.8,2,Champions
+1427,104,3,125.95,1,At risk / lapsed
+1429,1,24,2445.24,2,Champions
+1431,139,2,376.16,1,At risk / lapsed
+1432,21,14,1014.17,2,Champions
+1433,64,7,715.28,0,Loyal regulars
+1434,48,5,607.17,0,Loyal regulars
+1435,4,4,147.5,0,Loyal regulars
+1436,80,14,1121.22,0,Loyal regulars
+1437,355,4,495.54,1,At risk / lapsed
+1438,27,7,833.41,0,Loyal regulars
+1439,4,17,1789.57,2,Champions
+1440,41,5,237.77,0,Loyal regulars
+1441,269,2,244.82,1,At risk / lapsed
+1442,52,23,1763.58,2,Champions
+1443,35,9,1197.43,0,Loyal regulars
+1444,0,5,494.57,2,Champions
+1445,200,3,370.99,1,At risk / lapsed
+1446,59,13,1441.87,0,Loyal regulars
+1447,382,1,24.99,1,At risk / lapsed
+1448,47,11,832.51,0,Loyal regulars
+1449,25,2,160.92,1,At risk / lapsed
+1450,449,1,175.42,1,At risk / lapsed
+1451,3,24,1847.87,2,Champions
+1452,9,37,3895.34,2,Champions
+1453,250,4,263.27,1,At risk / lapsed
+1454,461,6,591.81,0,Loyal regulars
+1455,141,6,370.46,0,Loyal regulars
+1456,116,4,345.63,0,Loyal regulars
+1457,3,10,1143.36,2,Champions
+1458,144,2,276.1,1,At risk / lapsed
+1459,53,5,529.89,0,Loyal regulars
+1461,6,14,1204.3,2,Champions
+1462,1,11,1034.49,2,Champions
+1463,27,10,828.62,0,Loyal regulars
+1464,20,6,525.44,0,Loyal regulars
+1465,371,6,295.55,1,At risk / lapsed
+1466,52,24,1930.35,2,Champions
+1467,5,22,1953.59,2,Champions
+1468,4,5,537.77,0,Loyal regulars
+1469,374,4,652.12,1,At risk / lapsed
+1470,411,3,283.2,1,At risk / lapsed
+1471,44,4,318.97,0,Loyal regulars
+1472,296,3,154.44,1,At risk / lapsed
+1473,0,10,741.51,2,Champions
+1474,6,27,2616.59,2,Champions
+1475,25,17,1508.23,2,Champions
+1476,570,1,130.96,1,At risk / lapsed
+1477,15,14,1388.53,2,Champions
+1478,10,24,2047.71,2,Champions
+1479,13,16,1735.08,2,Champions
+1480,123,3,338.26,1,At risk / lapsed
+1481,23,18,1775.45,2,Champions
+1482,30,10,1201.97,0,Loyal regulars
+1483,49,9,886.27,0,Loyal regulars
+1484,265,4,337.88,1,At risk / lapsed
+1485,5,10,1201.62,2,Champions
+1486,0,48,4640.0,2,Champions
+1487,198,2,167.94,1,At risk / lapsed
+1488,196,1,59.98,1,At risk / lapsed
+1489,109,4,299.56,1,At risk / lapsed
+1490,35,24,2058.67,2,Champions
+1491,81,1,39.98,1,At risk / lapsed
+1492,164,5,311.88,1,At risk / lapsed
+1494,66,3,592.51,0,Loyal regulars
+1495,80,8,833.55,0,Loyal regulars
+1496,26,12,799.07,0,Loyal regulars
+1498,39,10,1111.79,0,Loyal regulars
+1499,4,16,1502.29,2,Champions
+1500,87,14,1435.56,0,Loyal regulars
+1501,302,5,532.4,0,Loyal regulars
+1502,431,1,86.37,1,At risk / lapsed
+1503,61,14,1277.2,0,Loyal regulars
+1504,187,2,124.14,1,At risk / lapsed
+1505,333,1,91.97,1,At risk / lapsed
+1506,133,1,7.19,1,At risk / lapsed
+1507,73,5,521.41,0,Loyal regulars
+1509,4,30,2804.33,2,Champions
+1511,143,2,110.74,1,At risk / lapsed
+1512,25,6,607.23,0,Loyal regulars
+1513,105,22,2379.28,2,Champions
+1514,10,16,1421.59,2,Champions
+1515,1,12,929.23,2,Champions
+1516,5,3,290.88,0,Loyal regulars
+1517,45,7,449.62,0,Loyal regulars
+1518,1,29,2736.98,2,Champions
+1519,5,17,1924.52,2,Champions
+1520,14,7,726.03,0,Loyal regulars
+1521,27,16,1380.08,2,Champions
+1522,33,9,1097.56,0,Loyal regulars
+1524,179,4,493.82,0,Loyal regulars
+1525,49,3,309.76,0,Loyal regulars
+1526,36,7,731.44,0,Loyal regulars
+1527,47,6,402.8,0,Loyal regulars
+1529,13,9,942.02,0,Loyal regulars
+1530,1,7,525.79,2,Champions
+1531,23,4,470.5,0,Loyal regulars
+1532,691,1,54.77,1,At risk / lapsed
+1533,17,9,1123.73,0,Loyal regulars
+1534,4,11,476.77,2,Champions
+1535,90,12,812.41,0,Loyal regulars
+1536,14,5,480.77,0,Loyal regulars
+1537,36,26,2059.2,2,Champions
+1538,16,21,1768.67,2,Champions
+1539,78,14,1439.8,0,Loyal regulars
+1540,390,3,277.81,1,At risk / lapsed
+1541,511,2,146.84,1,At risk / lapsed
+1542,64,24,2255.06,2,Champions
+1543,557,1,169.96,1,At risk / lapsed
+1544,4,10,1137.52,2,Champions
+1545,421,3,230.22,1,At risk / lapsed
+1546,183,4,259.9,1,At risk / lapsed
+1547,72,17,1344.02,0,Loyal regulars
+1548,14,8,751.78,0,Loyal regulars
+1549,3,14,1039.63,2,Champions
+1550,145,7,658.69,0,Loyal regulars
+1553,15,15,1126.01,2,Champions
+1554,151,3,176.0,1,At risk / lapsed
+1555,9,39,3814.01,2,Champions
+1557,2,7,655.03,2,Champions
+1559,17,5,260.19,0,Loyal regulars
+1560,13,3,127.92,1,At risk / lapsed
+1561,25,4,282.85,0,Loyal regulars
+1562,2,15,1471.47,2,Champions
+1563,235,2,296.9,1,At risk / lapsed
+1564,50,9,671.73,0,Loyal regulars
+1565,29,1,97.96,1,At risk / lapsed
+1566,38,16,1107.56,0,Loyal regulars
+1567,17,15,1685.54,2,Champions
+1568,20,6,658.54,0,Loyal regulars
+1569,4,6,474.11,0,Loyal regulars
+1570,29,10,1157.29,0,Loyal regulars
+1571,698,1,79.96,1,At risk / lapsed
+1572,62,7,650.18,0,Loyal regulars
+1573,4,106,10180.32,2,Champions
+1574,349,1,258.89,1,At risk / lapsed
+1575,25,19,1718.65,2,Champions
+1576,8,40,4063.64,2,Champions
+1577,41,7,695.29,0,Loyal regulars
+1578,366,1,83.97,1,At risk / lapsed
+1579,182,6,640.56,0,Loyal regulars
+1580,21,6,508.78,0,Loyal regulars
+1581,2,21,2006.51,2,Champions
+1582,4,41,3347.8,2,Champions
+1583,76,8,650.71,0,Loyal regulars
+1584,124,13,866.33,0,Loyal regulars
+1585,36,9,503.03,0,Loyal regulars
+1586,16,9,812.26,0,Loyal regulars
+1587,3,4,255.86,0,Loyal regulars
+1588,31,6,709.43,0,Loyal regulars
+1589,56,8,680.69,0,Loyal regulars
+1590,54,7,572.28,0,Loyal regulars
+1591,14,16,1188.98,2,Champions
+1592,151,3,281.48,1,At risk / lapsed
+1593,19,5,528.33,0,Loyal regulars
+1594,162,25,2437.18,2,Champions
+1595,11,22,2218.8,2,Champions
+1596,97,6,599.77,0,Loyal regulars
+1597,420,2,181.93,1,At risk / lapsed
+1598,0,12,968.86,2,Champions
+1599,52,15,1494.88,0,Loyal regulars
+1600,102,10,1380.27,0,Loyal regulars
+1601,33,35,2609.1,2,Champions
+1602,54,6,571.81,0,Loyal regulars
+1603,0,31,2795.44,2,Champions
+1604,423,2,246.92,1,At risk / lapsed
+1605,40,3,230.86,1,At risk / lapsed
+1606,27,9,1134.22,0,Loyal regulars
+1607,18,4,381.55,0,Loyal regulars
+1608,2,27,2220.76,2,Champions
+1609,93,7,567.53,0,Loyal regulars
+1610,9,17,1533.27,2,Champions
+1613,33,3,232.68,0,Loyal regulars
+1614,13,18,1589.64,2,Champions
+1615,128,6,312.13,0,Loyal regulars
+1616,8,40,4102.75,2,Champions
+1617,33,18,1607.1,2,Champions
+1618,443,1,56.98,1,At risk / lapsed
+1619,117,2,193.22,1,At risk / lapsed
+1622,258,3,103.72,1,At risk / lapsed
+1623,24,34,2650.45,2,Champions
+1624,62,4,472.81,0,Loyal regulars
+1625,62,11,912.42,0,Loyal regulars
+1626,52,15,1705.44,2,Champions
+1627,28,21,1840.91,2,Champions
+1628,181,3,152.32,1,At risk / lapsed
+1629,2,14,1062.61,2,Champions
+1630,7,26,2118.26,2,Champions
+1631,40,7,543.8,0,Loyal regulars
+1632,45,4,318.65,0,Loyal regulars
+1633,96,8,421.02,0,Loyal regulars
+1634,9,35,3233.47,2,Champions
+1635,12,3,183.41,0,Loyal regulars
+1636,24,10,843.32,0,Loyal regulars
+1637,7,16,1768.65,2,Champions
+1638,18,25,2236.87,2,Champions
+1639,5,36,3494.14,2,Champions
+1640,61,8,650.15,0,Loyal regulars
+1641,109,8,391.76,0,Loyal regulars
+1643,7,19,1908.68,2,Champions
+1644,150,4,620.03,0,Loyal regulars
+1645,428,3,335.27,1,At risk / lapsed
+1646,60,9,868.2,0,Loyal regulars
+1647,715,1,138.94,1,At risk / lapsed
+1648,157,6,354.28,0,Loyal regulars
+1649,35,21,1857.72,2,Champions
+1650,77,9,1039.15,0,Loyal regulars
+1651,131,7,289.87,0,Loyal regulars
+1652,154,7,654.05,0,Loyal regulars
+1653,2,18,1362.32,2,Champions
+1654,0,7,617.56,2,Champions
+1655,452,1,99.96,1,At risk / lapsed
+1656,33,7,707.54,0,Loyal regulars
+1657,384,2,254.63,1,At risk / lapsed
+1659,452,2,51.97,1,At risk / lapsed
+1660,349,3,235.93,1,At risk / lapsed
+1661,11,18,1885.1,2,Champions
+1662,47,4,272.9,0,Loyal regulars
+1663,22,9,1377.46,0,Loyal regulars
+1664,40,9,1083.0,0,Loyal regulars
+1666,111,4,516.72,0,Loyal regulars
+1667,60,6,579.23,0,Loyal regulars
+1668,136,3,227.69,1,At risk / lapsed
+1669,37,8,450.6,0,Loyal regulars
+1670,60,1,186.95,1,At risk / lapsed
+1671,152,9,839.41,0,Loyal regulars
+1672,150,2,162.31,1,At risk / lapsed
+1673,128,3,359.88,1,At risk / lapsed
+1674,4,5,426.55,0,Loyal regulars
+1675,2,25,1967.3,2,Champions
+1676,10,6,452.58,0,Loyal regulars
+1677,16,28,2466.99,2,Champions
+1678,6,15,1295.63,2,Champions
+1679,2,20,2349.95,2,Champions
+1680,3,31,2896.57,2,Champions
+1682,16,16,1346.33,2,Champions
+1683,3,9,731.98,2,Champions
+1684,25,15,1444.99,2,Champions
+1685,9,11,765.23,2,Champions
+1686,98,1,145.46,1,At risk / lapsed
+1687,15,42,3916.89,2,Champions
+1688,14,14,1058.4,2,Champions
+1689,4,11,1234.95,2,Champions
+1691,14,18,1756.91,2,Champions
+1692,10,36,3652.76,2,Champions
+1693,145,6,409.84,0,Loyal regulars
+1695,97,7,673.65,0,Loyal regulars
+1696,203,2,191.9,1,At risk / lapsed
+1697,68,11,926.73,0,Loyal regulars
+1698,1,4,413.07,0,Loyal regulars
+1699,424,1,38.98,1,At risk / lapsed
+1700,32,15,1522.5,2,Champions
+1701,1,7,805.44,2,Champions
+1702,17,13,953.59,2,Champions
+1703,32,4,177.1,0,Loyal regulars
+1704,70,25,1929.12,2,Champions
+1705,35,2,44.97,1,At risk / lapsed
+1707,167,4,145.72,1,At risk / lapsed
+1708,13,16,1289.81,2,Champions
+1709,4,5,389.82,0,Loyal regulars
+1710,12,5,311.84,0,Loyal regulars
+1711,6,55,6187.34,2,Champions
+1712,14,6,660.8,0,Loyal regulars
+1713,79,7,577.16,0,Loyal regulars
+1714,365,5,268.56,1,At risk / lapsed
+1715,101,19,1984.96,2,Champions
+1716,22,18,1697.19,2,Champions
+1717,11,17,1501.58,2,Champions
+1718,10,17,1631.52,2,Champions
+1720,66,17,1659.21,2,Champions
+1721,9,17,1668.74,2,Champions
+1722,138,1,46.88,1,At risk / lapsed
+1723,0,37,3709.0,2,Champions
+1724,445,1,79.96,1,At risk / lapsed
+1725,102,5,434.95,0,Loyal regulars
+1726,297,1,27.99,1,At risk / lapsed
+1728,39,10,1172.91,0,Loyal regulars
+1729,36,9,879.04,0,Loyal regulars
+1730,240,10,1000.42,0,Loyal regulars
+1731,9,14,1424.75,2,Champions
+1732,3,16,1818.75,2,Champions
+1733,17,15,1013.35,2,Champions
+1734,39,5,222.64,0,Loyal regulars
+1736,6,2,120.96,1,At risk / lapsed
+1737,117,6,492.99,0,Loyal regulars
+1738,45,4,404.43,0,Loyal regulars
+1739,332,2,94.53,1,At risk / lapsed
+1741,270,2,212.9,1,At risk / lapsed
+1743,220,9,841.89,0,Loyal regulars
+1745,158,5,271.29,1,At risk / lapsed
+1746,31,20,1372.02,2,Champions
+1747,510,2,117.43,1,At risk / lapsed
+1748,53,12,1391.21,0,Loyal regulars
+1749,38,5,543.62,0,Loyal regulars
+1750,206,5,559.35,0,Loyal regulars
+1752,160,7,490.41,0,Loyal regulars
+1754,11,49,4260.23,2,Champions
+1755,59,15,1637.15,0,Loyal regulars
+1756,1,24,2214.51,2,Champions
+1758,35,11,914.61,0,Loyal regulars
+1759,11,30,2912.78,2,Champions
+1760,172,7,693.31,0,Loyal regulars
+1761,18,14,1295.56,2,Champions
+1762,10,21,1798.58,2,Champions
+1763,24,18,1171.59,2,Champions
+1764,1,17,1425.67,2,Champions
+1765,9,14,1345.86,2,Champions
+1766,26,12,1393.17,2,Champions
+1767,11,35,3029.67,2,Champions
+1768,27,7,522.73,0,Loyal regulars
+1769,11,8,686.16,0,Loyal regulars
+1770,153,7,460.42,0,Loyal regulars
+1771,7,43,4242.11,2,Champions
+1773,248,3,271.48,1,At risk / lapsed
+1774,4,14,1261.99,2,Champions
+1775,204,2,202.92,1,At risk / lapsed
+1776,3,47,4965.04,2,Champions
+1777,11,28,2214.75,2,Champions
+1778,318,4,413.0,1,At risk / lapsed
+1779,633,1,127.98,1,At risk / lapsed
+1780,137,5,417.06,0,Loyal regulars
+1781,137,1,0.0,1,At risk / lapsed
+1782,19,7,542.87,0,Loyal regulars
+1783,3,27,1946.64,2,Champions
+1784,274,8,887.48,0,Loyal regulars
+1785,273,4,387.82,1,At risk / lapsed
+1786,60,12,908.11,0,Loyal regulars
+1787,414,2,216.9,1,At risk / lapsed
+1788,410,5,566.71,0,Loyal regulars
+1789,62,6,260.49,0,Loyal regulars
+1790,93,3,244.89,1,At risk / lapsed
+1791,205,5,382.86,0,Loyal regulars
+1792,268,1,50.97,1,At risk / lapsed
+1793,25,10,984.81,0,Loyal regulars
+1794,14,11,772.59,0,Loyal regulars
+1796,3,28,2298.01,2,Champions
+1797,1,15,1217.48,2,Champions
+1798,31,6,571.55,0,Loyal regulars
+1799,14,3,139.13,0,Loyal regulars
+1800,3,5,356.33,0,Loyal regulars
+1801,381,1,55.97,1,At risk / lapsed
+1802,37,11,1185.27,0,Loyal regulars
+1803,0,7,609.34,2,Champions
+1804,29,12,849.0,0,Loyal regulars
+1805,7,14,1681.46,2,Champions
+1806,5,17,1559.79,2,Champions
+1807,36,15,1801.55,2,Champions
+1808,135,12,895.24,0,Loyal regulars
+1809,4,15,1484.23,2,Champions
+1810,42,12,925.34,0,Loyal regulars
+1811,31,7,598.09,0,Loyal regulars
+1812,20,12,1049.69,0,Loyal regulars
+1813,387,3,462.81,1,At risk / lapsed
+1814,472,1,39.77,1,At risk / lapsed
+1815,5,31,2690.81,2,Champions
+1816,24,8,701.35,0,Loyal regulars
+1817,110,7,594.54,0,Loyal regulars
+1818,57,8,889.61,0,Loyal regulars
+1819,395,2,264.92,1,At risk / lapsed
+1820,6,21,2089.8,2,Champions
+1821,37,31,2958.29,2,Champions
+1822,6,5,344.46,0,Loyal regulars
+1823,75,4,295.88,0,Loyal regulars
+1824,22,8,977.63,0,Loyal regulars
+1825,376,3,345.27,1,At risk / lapsed
+1826,21,23,2518.05,2,Champions
+1827,15,5,585.78,0,Loyal regulars
+1828,116,2,112.96,1,At risk / lapsed
+1829,33,11,619.47,0,Loyal regulars
+1830,179,5,562.34,0,Loyal regulars
+1831,91,2,133.94,1,At risk / lapsed
+1832,75,2,161.93,1,At risk / lapsed
+1834,193,7,383.81,0,Loyal regulars
+1835,33,2,216.6,1,At risk / lapsed
+1836,383,1,127.93,1,At risk / lapsed
+1837,171,4,168.92,1,At risk / lapsed
+1838,11,31,3272.01,2,Champions
+1839,25,13,718.32,0,Loyal regulars
+1840,88,10,1122.87,0,Loyal regulars
+1841,104,4,432.82,0,Loyal regulars
+1842,71,10,986.46,0,Loyal regulars
+1843,26,6,696.26,0,Loyal regulars
+1844,84,3,90.96,1,At risk / lapsed
+1845,160,4,297.89,1,At risk / lapsed
+1846,14,4,506.01,0,Loyal regulars
+1847,129,4,339.87,1,At risk / lapsed
+1848,0,18,1374.67,2,Champions
+1849,22,7,527.63,0,Loyal regulars
+1850,5,4,343.68,0,Loyal regulars
+1851,69,9,677.39,0,Loyal regulars
+1852,151,5,713.23,0,Loyal regulars
+1853,2,3,312.89,0,Loyal regulars
+1854,26,7,683.09,0,Loyal regulars
+1855,365,1,79.14,1,At risk / lapsed
+1856,180,4,481.34,0,Loyal regulars
+1857,0,27,2398.32,2,Champions
+1859,121,9,1050.42,0,Loyal regulars
+1860,61,12,1298.92,0,Loyal regulars
+1861,49,20,1838.12,2,Champions
+1862,15,8,818.18,0,Loyal regulars
+1863,148,1,97.57,1,At risk / lapsed
+1864,25,4,340.65,0,Loyal regulars
+1865,16,19,1807.04,2,Champions
+1866,75,18,1272.15,0,Loyal regulars
+1867,41,7,642.83,0,Loyal regulars
+1868,46,6,368.26,0,Loyal regulars
+1870,28,16,1677.42,2,Champions
+1871,10,5,702.6,0,Loyal regulars
+1872,29,17,1335.39,2,Champions
+1873,4,30,3049.64,2,Champions
+1874,47,12,1389.48,0,Loyal regulars
+1875,44,3,306.92,0,Loyal regulars
+1876,185,1,84.77,1,At risk / lapsed
+1877,0,12,1147.08,2,Champions
+1878,0,18,1651.82,2,Champions
+1879,8,15,1474.98,2,Champions
+1880,9,26,2378.81,2,Champions
+1881,13,30,2426.38,2,Champions
+1882,18,4,254.89,0,Loyal regulars
+1883,8,9,923.38,2,Champions
+1884,116,4,390.89,0,Loyal regulars
+1885,14,8,1065.62,0,Loyal regulars
+1886,18,6,474.88,0,Loyal regulars
+1888,4,15,1494.49,2,Champions
+1889,122,14,1269.42,0,Loyal regulars
+1890,60,10,833.15,0,Loyal regulars
+1891,27,16,1482.83,2,Champions
+1892,0,9,702.81,2,Champions
+1893,4,8,572.21,0,Loyal regulars
+1894,14,10,770.15,0,Loyal regulars
+1895,51,3,249.2,1,At risk / lapsed
+1897,620,1,52.37,1,At risk / lapsed
+1898,7,54,4749.7,2,Champions
+1899,20,7,578.07,0,Loyal regulars
+1900,17,18,1581.59,2,Champions
+1901,192,2,165.41,1,At risk / lapsed
+1902,208,5,564.76,0,Loyal regulars
+1903,677,1,53.99,1,At risk / lapsed
+1904,22,7,822.98,0,Loyal regulars
+1905,104,5,495.3,0,Loyal regulars
+1906,8,36,3966.76,2,Champions
+1907,16,12,1469.55,2,Champions
+1908,4,18,1692.27,2,Champions
+1909,18,7,650.98,0,Loyal regulars
+1910,67,3,314.87,1,At risk / lapsed
+1911,7,17,1616.93,2,Champions
+1912,87,4,335.56,0,Loyal regulars
+1913,15,10,864.76,0,Loyal regulars
+1914,57,8,999.34,0,Loyal regulars
+1915,209,14,1538.22,0,Loyal regulars
+1916,564,1,106.96,1,At risk / lapsed
+1917,36,3,223.49,1,At risk / lapsed
+1918,111,12,1446.74,0,Loyal regulars
+1919,25,18,1508.22,2,Champions
+1920,12,12,899.47,2,Champions
+1922,0,14,1235.82,2,Champions
+1924,0,3,243.54,0,Loyal regulars
+1925,104,5,453.24,0,Loyal regulars
+1926,19,7,486.09,0,Loyal regulars
+1927,11,50,4290.67,2,Champions
+1928,19,12,998.72,0,Loyal regulars
+1929,21,10,841.85,0,Loyal regulars
+1930,3,11,1054.67,2,Champions
+1931,58,10,890.46,0,Loyal regulars
+1932,127,13,1416.16,0,Loyal regulars
+1933,17,12,871.43,0,Loyal regulars
+1934,21,11,1277.32,0,Loyal regulars
+1935,2,6,327.57,0,Loyal regulars
+1936,357,5,388.77,1,At risk / lapsed
+1937,115,3,219.5,1,At risk / lapsed
+1938,10,14,1492.31,2,Champions
+1939,179,4,431.21,1,At risk / lapsed
+1940,36,19,2050.74,2,Champions
+1942,32,24,2349.93,2,Champions
+1943,95,2,196.71,1,At risk / lapsed
+1944,26,14,1651.37,2,Champions
+1945,97,8,746.03,0,Loyal regulars
+1946,4,3,172.94,0,Loyal regulars
+1947,394,3,385.88,1,At risk / lapsed
+1948,2,10,978.73,2,Champions
+1949,51,13,1290.84,0,Loyal regulars
+1950,34,18,1560.68,2,Champions
+1952,103,6,595.84,0,Loyal regulars
+1953,29,3,202.91,0,Loyal regulars
+1954,157,1,108.96,1,At risk / lapsed
+1955,6,20,1503.84,2,Champions
+1956,14,8,529.66,0,Loyal regulars
+1957,118,1,115.06,1,At risk / lapsed
+1958,19,33,2861.76,2,Champions
+1959,666,1,81.08,1,At risk / lapsed
+1960,9,4,563.82,0,Loyal regulars
+1962,32,9,929.25,0,Loyal regulars
+1963,12,19,1628.82,2,Champions
+1964,12,10,1185.19,2,Champions
+1965,7,8,754.32,0,Loyal regulars
+1966,85,11,996.33,0,Loyal regulars
+1967,24,14,1310.2,2,Champions
+1968,117,6,610.65,0,Loyal regulars
+1969,25,9,909.09,0,Loyal regulars
+1970,26,3,329.83,0,Loyal regulars
+1971,162,4,327.04,1,At risk / lapsed
+1973,97,3,504.08,0,Loyal regulars
+1974,312,4,226.9,1,At risk / lapsed
+1975,6,14,1438.38,2,Champions
+1977,369,1,369.99,1,At risk / lapsed
+1978,75,7,1031.52,0,Loyal regulars
+1979,40,7,598.03,0,Loyal regulars
+1980,52,10,1100.19,0,Loyal regulars
+1981,58,3,267.9,1,At risk / lapsed
+1982,29,15,1274.49,2,Champions
+1983,237,2,231.92,1,At risk / lapsed
+1984,313,2,146.71,1,At risk / lapsed
+1985,73,13,1367.05,0,Loyal regulars
+1986,136,2,209.62,1,At risk / lapsed
+1987,15,11,863.65,0,Loyal regulars
+1988,205,5,513.85,0,Loyal regulars
+1989,8,16,1137.52,2,Champions
+1990,3,14,1153.2,2,Champions
+1992,13,15,1251.2,2,Champions
+1993,16,11,781.06,0,Loyal regulars
+1994,477,3,313.3,1,At risk / lapsed
+1995,257,1,143.64,1,At risk / lapsed
+1996,16,14,1240.94,2,Champions
+1997,158,5,540.17,0,Loyal regulars
+1998,139,1,42.36,1,At risk / lapsed
+1999,104,5,431.04,0,Loyal regulars
+2000,21,25,2317.71,2,Champions
+2001,109,7,876.9,0,Loyal regulars
+2002,48,4,255.87,0,Loyal regulars
+2003,500,3,277.9,1,At risk / lapsed
+2004,3,3,294.08,0,Loyal regulars
+2005,6,22,2366.57,2,Champions
+2006,1,4,219.7,0,Loyal regulars
+2007,102,8,611.05,0,Loyal regulars
+2008,56,2,126.95,1,At risk / lapsed
+2009,38,7,647.33,0,Loyal regulars
+2010,22,14,1123.49,2,Champions
+2011,617,1,104.96,1,At risk / lapsed
+2012,13,8,554.56,0,Loyal regulars
+2013,378,4,245.38,1,At risk / lapsed
+2014,3,22,1726.89,2,Champions
+2015,37,3,233.49,0,Loyal regulars
+2016,15,27,2452.94,2,Champions
+2017,46,33,3056.95,2,Champions
+2018,34,3,343.83,0,Loyal regulars
+2019,4,12,1141.26,2,Champions
+2021,163,6,393.2,0,Loyal regulars
+2022,67,16,1328.77,0,Loyal regulars
+2023,82,9,1102.68,0,Loyal regulars
+2025,27,25,1895.59,2,Champions
+2026,172,3,314.16,1,At risk / lapsed
+2027,23,10,727.06,0,Loyal regulars
+2028,163,13,1323.58,0,Loyal regulars
+2029,80,3,377.46,0,Loyal regulars
+2030,40,10,507.17,0,Loyal regulars
+2031,408,1,237.73,1,At risk / lapsed
+2034,4,27,2742.96,2,Champions
+2035,603,2,321.91,1,At risk / lapsed
+2036,33,3,291.36,0,Loyal regulars
+2037,48,17,1534.35,2,Champions
+2038,26,8,918.69,0,Loyal regulars
+2039,50,20,1766.92,2,Champions
+2040,41,17,1869.76,2,Champions
+2041,58,10,678.91,0,Loyal regulars
+2042,69,2,148.93,1,At risk / lapsed
+2043,60,10,568.97,0,Loyal regulars
+2045,262,3,277.97,1,At risk / lapsed
+2046,72,1,48.97,1,At risk / lapsed
+2047,18,19,1531.72,2,Champions
+2048,5,8,611.38,0,Loyal regulars
+2049,136,2,305.73,1,At risk / lapsed
+2050,21,7,756.36,0,Loyal regulars
+2051,141,5,458.83,0,Loyal regulars
+2052,126,11,870.66,0,Loyal regulars
+2053,386,3,206.48,1,At risk / lapsed
+2055,18,7,962.75,0,Loyal regulars
+2056,614,1,70.98,1,At risk / lapsed
+2057,0,13,1423.98,2,Champions
+2058,502,1,204.94,1,At risk / lapsed
+2059,120,2,220.7,1,At risk / lapsed
+2060,58,8,713.86,0,Loyal regulars
+2061,24,5,540.01,0,Loyal regulars
+2062,60,4,461.15,0,Loyal regulars
+2063,10,10,891.09,0,Loyal regulars
+2064,61,3,397.82,0,Loyal regulars
+2065,7,7,658.52,0,Loyal regulars
+2066,33,16,1580.16,2,Champions
+2067,164,3,360.37,1,At risk / lapsed
+2068,15,3,344.41,0,Loyal regulars
+2069,2,23,2537.81,2,Champions
+2070,17,25,2118.2,2,Champions
+2071,70,4,340.34,0,Loyal regulars
+2072,49,8,715.87,0,Loyal regulars
+2073,38,6,516.41,0,Loyal regulars
+2074,258,1,107.97,1,At risk / lapsed
+2075,207,4,358.75,1,At risk / lapsed
+2076,546,1,95.97,1,At risk / lapsed
+2078,217,6,453.42,0,Loyal regulars
+2079,18,5,342.87,0,Loyal regulars
+2081,264,6,507.93,0,Loyal regulars
+2082,14,19,1504.19,2,Champions
+2084,13,8,826.06,0,Loyal regulars
+2085,114,4,423.67,0,Loyal regulars
+2086,4,23,2096.14,2,Champions
+2089,91,3,370.74,1,At risk / lapsed
+2090,99,2,301.3,1,At risk / lapsed
+2091,18,14,890.52,2,Champions
+2092,233,1,13.99,1,At risk / lapsed
+2093,195,5,484.2,0,Loyal regulars
+2094,2,29,2404.44,2,Champions
+2095,112,1,207.96,1,At risk / lapsed
+2096,405,7,604.33,0,Loyal regulars
+2097,621,2,93.53,1,At risk / lapsed
+2098,43,4,376.74,0,Loyal regulars
+2099,65,12,822.52,0,Loyal regulars
+2100,2,16,1217.43,2,Champions
+2101,25,23,2155.29,2,Champions
+2102,74,13,1094.53,0,Loyal regulars
+2103,0,10,989.36,2,Champions
+2104,281,1,27.89,1,At risk / lapsed
+2105,39,9,534.55,0,Loyal regulars
+2106,236,9,1122.52,0,Loyal regulars
+2107,16,11,1057.59,0,Loyal regulars
+2108,90,5,617.62,0,Loyal regulars
+2109,16,5,717.57,0,Loyal regulars
+2110,9,16,1698.48,2,Champions
+2111,138,2,142.54,1,At risk / lapsed
+2112,12,49,5562.64,2,Champions
+2113,20,33,2939.45,2,Champions
+2114,0,35,3106.9,2,Champions
+2115,10,6,264.45,0,Loyal regulars
+2116,37,8,832.99,0,Loyal regulars
+2117,2,41,4309.53,2,Champions
+2118,112,5,567.15,0,Loyal regulars
+2119,21,16,1295.9,2,Champions
+2120,30,11,1294.69,0,Loyal regulars
+2121,11,3,196.6,0,Loyal regulars
+2122,125,11,945.57,0,Loyal regulars
+2123,2,25,2777.9,2,Champions
+2124,107,6,599.93,0,Loyal regulars
+2126,11,23,2296.72,2,Champions
+2127,30,25,2172.3,2,Champions
+2128,89,4,626.57,0,Loyal regulars
+2129,52,5,572.77,0,Loyal regulars
+2130,647,3,378.83,1,At risk / lapsed
+2131,211,3,271.99,1,At risk / lapsed
+2132,459,2,291.9,1,At risk / lapsed
+2133,5,14,912.54,2,Champions
+2134,27,7,1042.96,0,Loyal regulars
+2135,142,3,127.7,1,At risk / lapsed
+2136,27,51,4849.26,2,Champions
+2137,5,9,798.21,2,Champions
+2138,11,11,1187.65,2,Champions
+2139,11,8,1099.38,0,Loyal regulars
+2140,11,13,1138.95,2,Champions
+2141,22,9,819.19,0,Loyal regulars
+2143,1,9,778.58,2,Champions
+2144,18,11,617.51,0,Loyal regulars
+2145,367,3,297.9,1,At risk / lapsed
+2146,0,10,1114.79,2,Champions
+2147,1,20,2277.63,2,Champions
+2148,500,1,156.14,1,At risk / lapsed
+2149,363,3,219.71,1,At risk / lapsed
+2150,157,1,87.17,1,At risk / lapsed
+2151,167,3,221.6,1,At risk / lapsed
+2152,34,5,321.16,0,Loyal regulars
+2153,0,20,2169.35,2,Champions
+2154,34,14,1164.32,0,Loyal regulars
+2155,99,7,762.52,0,Loyal regulars
+2156,4,3,53.35,1,At risk / lapsed
+2157,20,10,746.66,0,Loyal regulars
+2158,52,5,469.46,0,Loyal regulars
+2159,17,6,611.75,0,Loyal regulars
+2160,109,12,806.34,0,Loyal regulars
+2161,23,20,1565.82,2,Champions
+2162,254,8,766.69,0,Loyal regulars
+2163,30,14,1430.95,2,Champions
+2164,344,2,175.9,1,At risk / lapsed
+2165,227,4,486.62,1,At risk / lapsed
+2166,2,62,5627.1,2,Champions
+2167,38,3,179.52,1,At risk / lapsed
+2168,11,6,416.61,0,Loyal regulars
+2169,0,2,415.88,0,Loyal regulars
+2170,22,17,1292.33,2,Champions
+2173,48,18,1875.45,2,Champions
+2175,38,3,306.98,0,Loyal regulars
+2176,32,19,1599.28,2,Champions
+2177,8,25,2357.21,2,Champions
+2178,20,10,1125.93,0,Loyal regulars
+2179,41,5,515.29,0,Loyal regulars
+2180,39,21,2459.97,2,Champions
+2182,31,5,263.38,0,Loyal regulars
+2183,4,32,2722.59,2,Champions
+2184,26,20,2332.76,2,Champions
+2185,4,38,3440.51,2,Champions
+2186,47,2,328.61,1,At risk / lapsed
+2187,110,2,90.74,1,At risk / lapsed
+2188,74,11,936.9,0,Loyal regulars
+2189,3,28,2481.03,2,Champions
+2190,101,7,563.89,0,Loyal regulars
+2191,435,3,447.85,1,At risk / lapsed
+2192,26,37,3505.79,2,Champions
+2193,18,1,124.95,1,At risk / lapsed
+2194,4,3,231.9,0,Loyal regulars
+2195,21,45,4603.01,2,Champions
+2196,15,4,326.77,0,Loyal regulars
+2197,51,14,1078.48,0,Loyal regulars
+2199,32,17,1451.88,2,Champions
+2200,436,1,53.97,1,At risk / lapsed
+2201,48,9,732.71,0,Loyal regulars
+2202,20,1,8.99,1,At risk / lapsed
+2203,19,14,1334.15,2,Champions
+2204,15,14,1138.89,2,Champions
+2205,18,4,209.71,0,Loyal regulars
+2206,16,15,1686.15,2,Champions
+2207,2,22,1891.24,2,Champions
+2208,152,1,49.26,1,At risk / lapsed
+2209,18,16,1439.31,2,Champions
+2210,51,4,325.87,0,Loyal regulars
+2211,73,5,429.96,0,Loyal regulars
+2212,122,6,315.87,0,Loyal regulars
+2213,275,3,298.28,1,At risk / lapsed
+2214,2,55,4810.15,2,Champions
+2215,166,4,320.53,1,At risk / lapsed
+2216,73,7,811.3,0,Loyal regulars
+2217,24,9,744.3,0,Loyal regulars
+2218,43,5,330.42,0,Loyal regulars
+2219,116,4,577.82,0,Loyal regulars
+2220,0,18,1341.18,2,Champions
+2221,74,3,254.2,1,At risk / lapsed
+2222,4,5,406.85,0,Loyal regulars
+2223,39,6,410.0,0,Loyal regulars
+2224,1,63,6209.09,2,Champions
+2225,15,16,1268.67,2,Champions
+2226,89,9,811.06,0,Loyal regulars
+2228,3,31,2433.65,2,Champions
+2229,31,8,806.1,0,Loyal regulars
+2230,35,13,1122.47,0,Loyal regulars
+2231,103,5,333.46,0,Loyal regulars
+2233,18,2,271.95,0,Loyal regulars
+2234,14,24,2078.72,2,Champions
+2235,95,6,605.48,0,Loyal regulars
+2236,129,6,806.49,0,Loyal regulars
+2237,45,3,148.93,1,At risk / lapsed
+2238,4,29,2776.84,2,Champions
+2239,305,3,213.31,1,At risk / lapsed
+2240,21,5,751.77,0,Loyal regulars
+2241,21,12,1582.2,2,Champions
+2242,11,16,1207.86,2,Champions
+2243,12,10,896.99,0,Loyal regulars
+2245,58,3,329.4,0,Loyal regulars
+2247,2,14,985.09,2,Champions
+2248,53,11,984.02,0,Loyal regulars
+2249,6,4,462.74,0,Loyal regulars
+2250,2,12,1179.72,2,Champions
+2251,0,13,1292.41,2,Champions
+2252,27,14,1569.56,2,Champions
+2253,21,12,1056.4,0,Loyal regulars
+2254,59,15,1105.34,0,Loyal regulars
+2255,287,4,383.35,1,At risk / lapsed
+2256,96,6,462.83,0,Loyal regulars
+2257,12,18,2137.67,2,Champions
+2258,582,1,224.92,1,At risk / lapsed
+2259,60,5,209.01,0,Loyal regulars
+2260,34,13,1083.84,0,Loyal regulars
+2261,31,1,65.97,1,At risk / lapsed
+2263,4,32,2848.35,2,Champions
+2264,1,25,2349.72,2,Champions
+2265,36,26,2769.17,2,Champions
+2266,5,13,1185.44,2,Champions
+2267,36,7,572.88,0,Loyal regulars
+2268,464,2,126.94,1,At risk / lapsed
+2269,4,9,844.69,2,Champions
+2270,330,1,112.96,1,At risk / lapsed
+2271,3,56,5533.55,2,Champions
+2272,308,4,295.85,1,At risk / lapsed
+2273,96,3,270.38,1,At risk / lapsed
+2274,7,14,1879.59,2,Champions
+2275,366,1,65.16,1,At risk / lapsed
+2276,5,6,721.88,0,Loyal regulars
+2277,76,6,492.81,0,Loyal regulars
+2279,125,2,214.51,1,At risk / lapsed
+2280,179,3,434.29,1,At risk / lapsed
+2281,0,18,1369.31,2,Champions
+2282,20,18,1874.96,2,Champions
+2283,36,8,688.5,0,Loyal regulars
+2284,4,12,1241.54,2,Champions
+2285,4,17,1674.84,2,Champions
+2286,109,12,1408.37,0,Loyal regulars
+2287,5,32,2714.23,2,Champions
+2288,92,1,130.54,1,At risk / lapsed
+2289,13,20,1709.82,2,Champions
+2290,7,9,891.87,2,Champions
+2292,125,8,612.46,0,Loyal regulars
+2293,3,24,2514.99,2,Champions
+2295,31,12,1194.27,0,Loyal regulars
+2296,13,20,2041.96,2,Champions
+2297,11,12,1003.2,2,Champions
+2298,0,12,1270.02,2,Champions
+2299,93,3,272.29,1,At risk / lapsed
+2300,17,1,0.0,1,At risk / lapsed
+2301,376,1,35.98,1,At risk / lapsed
+2302,241,5,321.45,1,At risk / lapsed
+2303,27,5,600.77,0,Loyal regulars
+2304,320,1,99.97,1,At risk / lapsed
+2305,10,4,406.6,0,Loyal regulars
+2306,23,9,661.75,0,Loyal regulars
+2307,24,11,1097.07,0,Loyal regulars
+2308,142,3,77.93,1,At risk / lapsed
+2309,22,14,1312.95,2,Champions
+2310,203,7,500.09,0,Loyal regulars
+2311,501,1,70.17,1,At risk / lapsed
+2312,32,30,2519.47,2,Champions
+2313,5,12,840.39,2,Champions
+2314,636,1,47.98,1,At risk / lapsed
+2315,28,5,359.83,0,Loyal regulars
+2316,11,34,2883.55,2,Champions
+2317,29,9,847.71,0,Loyal regulars
+2318,211,5,339.06,1,At risk / lapsed
+2319,1,28,2401.3,2,Champions
+2320,8,33,2807.76,2,Champions
+2321,42,14,1721.68,2,Champions
+2322,46,9,957.58,0,Loyal regulars
+2323,403,1,55.28,1,At risk / lapsed
+2324,71,3,526.94,0,Loyal regulars
+2325,4,35,3650.83,2,Champions
+2327,3,19,1652.93,2,Champions
+2328,11,10,603.77,0,Loyal regulars
+2329,64,5,603.16,0,Loyal regulars
+2330,5,24,2429.15,2,Champions
+2331,133,6,308.16,0,Loyal regulars
+2332,14,5,700.77,0,Loyal regulars
+2333,3,18,1694.55,2,Champions
+2334,413,3,216.92,1,At risk / lapsed
+2335,61,4,372.85,0,Loyal regulars
+2336,538,1,38.98,1,At risk / lapsed
+2337,18,4,333.37,0,Loyal regulars
+2338,19,21,1698.26,2,Champions
+2339,257,1,153.34,1,At risk / lapsed
+2340,53,4,401.82,0,Loyal regulars
+2341,9,13,1131.67,2,Champions
+2342,59,12,1040.7,0,Loyal regulars
+2343,81,10,1035.65,0,Loyal regulars
+2345,10,13,1186.74,2,Champions
+2346,4,54,4327.34,2,Champions
+2347,119,10,1097.97,0,Loyal regulars
+2348,375,5,438.7,1,At risk / lapsed
+2349,23,3,251.89,0,Loyal regulars
+2350,67,2,84.96,1,At risk / lapsed
+2351,74,9,936.33,0,Loyal regulars
+2352,177,9,853.05,0,Loyal regulars
+2353,177,5,274.27,1,At risk / lapsed
+2354,32,21,1892.72,2,Champions
+2355,6,27,2489.72,2,Champions
+2357,4,6,703.83,0,Loyal regulars
+2358,381,1,38.98,1,At risk / lapsed
+2360,185,5,686.74,0,Loyal regulars
+2361,157,3,281.52,1,At risk / lapsed
+2362,27,11,1164.3,0,Loyal regulars
+2363,22,10,892.53,0,Loyal regulars
+2364,56,4,222.59,1,At risk / lapsed
+2365,3,7,391.61,0,Loyal regulars
+2366,18,18,1519.15,2,Champions
+2367,214,5,445.73,0,Loyal regulars
+2368,386,3,475.45,1,At risk / lapsed
+2369,11,32,3523.98,2,Champions
+2370,388,2,138.53,1,At risk / lapsed
+2371,8,4,484.33,0,Loyal regulars
+2372,264,3,348.87,1,At risk / lapsed
+2373,21,5,674.71,0,Loyal regulars
+2374,622,1,117.97,1,At risk / lapsed
+2375,10,9,1074.88,2,Champions
+2376,16,12,1007.54,2,Champions
+2377,103,4,487.83,0,Loyal regulars
+2378,409,1,99.67,1,At risk / lapsed
+2379,62,2,230.36,1,At risk / lapsed
+2380,44,7,672.15,0,Loyal regulars
+2381,374,1,60.77,1,At risk / lapsed
+2382,47,20,1881.7,2,Champions
+2383,8,12,1363.89,2,Champions
+2384,16,4,711.91,0,Loyal regulars
+2385,4,8,887.78,2,Champions
+2386,27,4,591.79,0,Loyal regulars
+2387,559,1,118.96,1,At risk / lapsed
+2389,86,9,447.82,0,Loyal regulars
+2390,121,2,164.02,1,At risk / lapsed
+2391,28,3,483.08,0,Loyal regulars
+2392,18,20,2118.29,2,Champions
+2393,38,2,207.74,1,At risk / lapsed
+2394,50,12,1174.24,0,Loyal regulars
+2395,30,17,1453.14,2,Champions
+2396,0,12,1223.69,2,Champions
+2398,242,2,127.92,1,At risk / lapsed
+2399,158,9,998.22,0,Loyal regulars
+2401,8,23,2183.28,2,Champions
+2402,2,41,4143.77,2,Champions
+2403,29,8,629.48,0,Loyal regulars
+2404,32,12,1229.16,0,Loyal regulars
+2405,3,15,1593.07,2,Champions
+2406,262,7,563.78,0,Loyal regulars
+2407,9,11,991.32,2,Champions
+2408,0,29,2353.52,2,Champions
+2409,32,3,349.86,0,Loyal regulars
+2410,2,11,1447.71,2,Champions
+2412,4,5,282.58,0,Loyal regulars
+2413,45,8,607.24,0,Loyal regulars
+2414,12,31,2705.35,2,Champions
+2415,3,36,4006.33,2,Champions
+2416,144,16,1359.98,0,Loyal regulars
+2417,36,11,924.94,0,Loyal regulars
+2418,210,3,246.91,1,At risk / lapsed
+2420,54,4,334.45,0,Loyal regulars
+2421,79,14,1597.4,0,Loyal regulars
+2423,10,25,2321.78,2,Champions
+2424,28,5,553.32,0,Loyal regulars
+2425,7,7,653.0,0,Loyal regulars
+2426,393,3,217.8,1,At risk / lapsed
+2427,53,3,392.88,0,Loyal regulars
+2428,2,16,1149.71,2,Champions
+2429,35,11,981.47,0,Loyal regulars
+2430,468,3,581.38,1,At risk / lapsed
+2431,12,2,108.14,1,At risk / lapsed
+2432,24,5,499.82,0,Loyal regulars
+2433,524,2,346.89,1,At risk / lapsed
+2434,48,26,2897.68,2,Champions
+2435,14,14,1062.73,2,Champions
+2436,19,5,488.81,0,Loyal regulars
+2437,247,5,395.05,1,At risk / lapsed
+2438,17,11,1180.54,2,Champions
+2440,71,9,1054.23,0,Loyal regulars
+2442,68,7,874.25,0,Loyal regulars
+2443,0,11,970.27,2,Champions
+2445,154,2,154.9,1,At risk / lapsed
+2446,18,3,260.48,0,Loyal regulars
+2447,242,3,303.85,1,At risk / lapsed
+2448,11,31,2718.31,2,Champions
+2449,71,2,265.92,1,At risk / lapsed
+2450,8,38,4207.77,2,Champions
+2451,13,11,1314.41,2,Champions
+2452,11,6,647.52,0,Loyal regulars
+2453,1,10,941.61,2,Champions
+2454,26,6,598.45,0,Loyal regulars
+2455,80,7,521.64,0,Loyal regulars
+2456,76,28,2219.81,2,Champions
+2457,102,4,204.27,1,At risk / lapsed
+2458,11,12,903.97,2,Champions
+2459,4,8,479.93,0,Loyal regulars
+2460,15,6,399.03,0,Loyal regulars
+2461,1,8,425.7,2,Champions
+2462,58,5,523.05,0,Loyal regulars
+2463,11,9,694.33,0,Loyal regulars
+2464,355,1,80.95,1,At risk / lapsed
+2465,6,19,1773.72,2,Champions
+2466,153,3,219.69,1,At risk / lapsed
+2467,223,10,794.45,0,Loyal regulars
+2468,250,2,102.95,1,At risk / lapsed
+2469,50,20,1905.6,2,Champions
+2470,272,2,111.95,1,At risk / lapsed
+2471,33,8,966.8,0,Loyal regulars
+2472,101,11,953.14,0,Loyal regulars
+2473,6,5,507.57,0,Loyal regulars
+2474,52,8,751.81,0,Loyal regulars
+2475,20,5,304.36,0,Loyal regulars
+2476,4,30,3055.22,2,Champions
+2477,31,7,518.47,0,Loyal regulars
+2478,24,38,2928.1,2,Champions
+2479,5,21,2017.43,2,Champions
+2480,117,3,361.09,1,At risk / lapsed
+2482,3,32,2617.08,2,Champions
+2483,186,17,1608.2,0,Loyal regulars
+2484,6,40,3483.54,2,Champions
+2485,19,8,484.56,0,Loyal regulars
+2486,40,8,962.68,0,Loyal regulars
+2487,16,8,930.52,0,Loyal regulars
+2488,133,1,47.97,1,At risk / lapsed
+2489,86,6,445.79,0,Loyal regulars
+2490,52,15,1399.9,0,Loyal regulars
+2491,47,6,669.13,0,Loyal regulars
+2492,25,10,1059.51,0,Loyal regulars
+2493,11,40,4229.67,2,Champions
+2494,59,2,423.84,0,Loyal regulars
+2495,2,60,5846.04,2,Champions
+2496,4,2,249.52,0,Loyal regulars
+2497,0,12,1240.55,2,Champions
+2498,108,8,482.66,0,Loyal regulars
+2499,18,8,670.65,0,Loyal regulars
+2500,8,20,1998.92,2,Champions
+2502,4,16,1167.24,2,Champions
+2503,46,8,672.6,0,Loyal regulars
+2504,15,41,4678.02,2,Champions
+2505,50,5,391.67,0,Loyal regulars
+2506,32,9,796.56,0,Loyal regulars
+2507,13,6,614.75,0,Loyal regulars
+2508,4,15,1124.37,2,Champions
+2509,13,11,779.92,0,Loyal regulars
+2510,52,15,1414.01,0,Loyal regulars
+2511,4,15,1342.3,2,Champions
+2512,28,5,426.79,0,Loyal regulars
+2513,37,4,195.51,0,Loyal regulars
+2514,51,18,1359.49,2,Champions
+2515,158,9,734.24,0,Loyal regulars
+2516,244,3,157.33,1,At risk / lapsed
+2517,19,19,1263.26,2,Champions
+2518,15,32,2611.87,2,Champions
+2519,99,3,399.77,1,At risk / lapsed
+2520,417,1,68.67,1,At risk / lapsed
+2521,365,2,127.25,1,At risk / lapsed
+2522,179,5,239.46,1,At risk / lapsed
+2524,93,17,1504.74,0,Loyal regulars
+2525,63,13,1351.33,0,Loyal regulars
+2526,17,8,527.79,0,Loyal regulars
+2527,25,11,1239.93,0,Loyal regulars
+2528,67,2,94.94,1,At risk / lapsed
+2529,7,8,838.96,0,Loyal regulars
+2530,35,9,614.86,0,Loyal regulars
+2531,12,18,2026.02,2,Champions
+2532,61,2,131.85,1,At risk / lapsed
+2533,31,40,3038.42,2,Champions
+2534,0,110,11818.13,2,Champions
+2535,46,14,1409.74,0,Loyal regulars
+2536,80,8,611.58,0,Loyal regulars
+2537,81,5,281.86,0,Loyal regulars
+2538,230,7,345.31,0,Loyal regulars
+2539,209,11,935.27,0,Loyal regulars
+2540,58,6,592.61,0,Loyal regulars
+2541,3,15,1660.75,2,Champions
+2542,44,9,565.6,0,Loyal regulars
+2543,14,62,5895.64,2,Champions
+2544,52,3,150.93,1,At risk / lapsed
+2545,111,5,701.76,0,Loyal regulars
+2546,4,18,1279.28,2,Champions
+2547,17,15,1482.26,2,Champions
+2548,35,12,827.99,0,Loyal regulars
+2549,4,10,884.38,2,Champions
+2550,34,3,98.43,1,At risk / lapsed
+2551,14,2,220.93,0,Loyal regulars
+2552,108,4,749.02,0,Loyal regulars
+2553,21,16,1517.8,2,Champions
+2554,7,3,285.55,0,Loyal regulars
+2555,13,47,4468.8,2,Champions
+2556,7,8,873.27,0,Loyal regulars
+2557,10,17,1416.88,2,Champions
+2558,18,36,3337.33,2,Champions
+2559,16,6,478.33,0,Loyal regulars
+2560,165,11,858.44,0,Loyal regulars
+2561,131,5,679.29,0,Loyal regulars
+2562,59,8,694.71,0,Loyal regulars
+2563,4,25,2221.64,2,Champions
+2564,41,2,93.95,1,At risk / lapsed
+2565,37,5,476.83,0,Loyal regulars
+2566,7,9,803.5,0,Loyal regulars
+2567,152,3,239.41,1,At risk / lapsed
+2568,163,5,339.74,0,Loyal regulars
+2569,1,37,3632.07,2,Champions
+2570,594,1,188.95,1,At risk / lapsed
+2571,403,1,83.86,1,At risk / lapsed
+2572,95,7,521.58,0,Loyal regulars
+2573,51,13,1210.95,0,Loyal regulars
+2574,659,1,29.98,1,At risk / lapsed
+2576,14,14,1030.68,2,Champions
+2577,60,29,2424.99,2,Champions
+2578,135,4,248.29,1,At risk / lapsed
+2579,0,56,5535.8,2,Champions
+2580,285,2,185.71,1,At risk / lapsed
+2581,18,4,442.84,0,Loyal regulars
+2582,8,19,1854.57,2,Champions
+2583,4,22,1953.94,2,Champions
+2584,22,4,297.57,0,Loyal regulars
+2585,17,13,1346.21,2,Champions
+2586,74,17,1890.21,2,Champions
+2587,4,14,1340.7,2,Champions
+2588,38,10,753.28,0,Loyal regulars
+2589,20,17,1757.28,2,Champions
+2591,6,23,1806.12,2,Champions
+2592,39,14,1328.68,0,Loyal regulars
+2593,431,1,202.95,1,At risk / lapsed
+2594,42,1,85.96,1,At risk / lapsed
+2595,9,3,143.95,0,Loyal regulars
+2596,47,14,1218.46,0,Loyal regulars
+2597,23,7,649.44,0,Loyal regulars
+2598,18,18,1153.17,2,Champions
+2599,26,12,1096.15,0,Loyal regulars
+2600,192,11,1002.78,0,Loyal regulars
+2602,53,20,2102.76,2,Champions
+2603,30,15,1424.44,2,Champions
+2604,31,20,1770.59,2,Champions
+2605,7,20,1716.25,2,Champions
+2606,45,6,464.51,0,Loyal regulars
+2607,13,8,1055.97,0,Loyal regulars
+2608,700,1,0.0,1,At risk / lapsed
+2609,17,13,966.21,2,Champions
+2610,269,4,229.9,1,At risk / lapsed
+2611,86,17,1725.72,0,Loyal regulars
+2612,153,11,887.31,0,Loyal regulars
+2613,39,46,4788.53,2,Champions
+2614,467,3,421.84,1,At risk / lapsed
+2615,122,8,952.52,0,Loyal regulars
+2616,7,16,1428.14,2,Champions
+2617,12,6,588.55,0,Loyal regulars
+2618,29,3,222.86,0,Loyal regulars
+2619,123,5,457.31,0,Loyal regulars
+2620,25,26,2606.52,2,Champions
+2621,60,12,1353.25,0,Loyal regulars
+2623,185,9,736.27,0,Loyal regulars
+2624,3,18,1852.64,2,Champions
+2625,100,6,544.51,0,Loyal regulars
+2626,0,17,1348.92,2,Champions
+2627,10,16,1521.07,2,Champions
+2628,3,33,3698.58,2,Champions
+2629,37,9,1083.43,0,Loyal regulars
+2631,499,1,70.07,1,At risk / lapsed
+2632,589,1,247.51,1,At risk / lapsed
+2633,38,12,815.18,0,Loyal regulars
+2634,290,1,7.99,1,At risk / lapsed
+2635,56,1,25.98,1,At risk / lapsed
+2636,6,38,3095.86,2,Champions
+2637,15,27,2847.32,2,Champions
+2639,22,38,3274.13,2,Champions
+2640,317,3,90.97,1,At risk / lapsed
+2641,84,6,393.6,0,Loyal regulars
+2642,19,1,66.97,1,At risk / lapsed
+2643,516,1,95.97,1,At risk / lapsed
+2644,12,25,1824.29,2,Champions
+2645,60,5,281.15,0,Loyal regulars
+2646,6,32,3152.47,2,Champions
+2647,81,1,191.64,1,At risk / lapsed
+2648,142,4,332.86,1,At risk / lapsed
+2649,5,42,4259.83,2,Champions
+2650,209,3,531.94,1,At risk / lapsed
+2651,77,5,405.45,0,Loyal regulars
+2652,87,2,110.95,1,At risk / lapsed
+2653,88,13,1206.62,0,Loyal regulars
+2654,128,4,225.72,1,At risk / lapsed
+2655,26,5,488.09,0,Loyal regulars
+2656,15,8,936.62,0,Loyal regulars
+2657,10,15,1265.91,2,Champions
+2658,14,8,697.25,0,Loyal regulars
+2659,21,36,2712.94,2,Champions
+2660,513,2,172.53,1,At risk / lapsed
+2661,14,15,1507.78,2,Champions
+2662,34,11,592.63,0,Loyal regulars
+2663,64,4,597.8,0,Loyal regulars
+2664,25,10,1076.39,0,Loyal regulars
+2665,2,14,1157.67,2,Champions
+2667,22,1,66.96,1,At risk / lapsed
+2668,48,7,674.43,0,Loyal regulars
+2670,30,7,545.08,0,Loyal regulars
+2672,38,1,123.84,1,At risk / lapsed
+2673,21,8,853.21,0,Loyal regulars
+2674,5,8,573.57,0,Loyal regulars
+2675,6,4,670.61,0,Loyal regulars
+2676,27,7,599.23,0,Loyal regulars
+2677,10,21,1827.96,2,Champions
+2678,0,31,3117.8,2,Champions
+2679,3,52,3954.8,2,Champions
+2680,72,7,760.86,0,Loyal regulars
+2681,322,1,86.96,1,At risk / lapsed
+2682,10,53,4548.65,2,Champions
+2683,14,14,1666.76,2,Champions
+2684,144,7,995.63,0,Loyal regulars
+2685,90,7,727.58,0,Loyal regulars
+2686,0,9,833.69,2,Champions
+2687,25,9,755.97,0,Loyal regulars
+2688,22,6,341.07,0,Loyal regulars
+2689,38,2,222.63,1,At risk / lapsed
+2690,20,22,1901.01,2,Champions
+2691,11,34,3549.97,2,Champions
+2692,11,30,2544.26,2,Champions
+2694,398,2,180.8,1,At risk / lapsed
+2696,16,35,3689.25,2,Champions
+2697,9,4,340.87,0,Loyal regulars
+2698,2,28,2453.82,2,Champions
+2699,19,9,662.27,0,Loyal regulars
+2700,59,12,1034.56,0,Loyal regulars
+2701,1,19,1520.63,2,Champions
+2702,5,11,1218.72,2,Champions
+2703,189,3,277.8,1,At risk / lapsed
+2704,24,18,1585.28,2,Champions
+2705,123,6,460.22,0,Loyal regulars
+2706,1,18,2390.26,2,Champions
+2707,515,1,41.47,1,At risk / lapsed
+2708,184,6,842.91,0,Loyal regulars
+2709,42,12,1290.16,0,Loyal regulars
+2710,215,4,477.46,1,At risk / lapsed
+2711,119,2,229.93,1,At risk / lapsed
+2712,14,12,820.68,0,Loyal regulars
+2713,292,2,128.95,1,At risk / lapsed
+2715,10,3,178.92,0,Loyal regulars
+2716,51,8,905.2,0,Loyal regulars
+2717,205,2,172.05,1,At risk / lapsed
+2718,80,8,668.94,0,Loyal regulars
+2719,22,5,573.67,0,Loyal regulars
+2720,9,20,1934.93,2,Champions
+2721,59,7,489.38,0,Loyal regulars
+2722,141,5,507.5,0,Loyal regulars
+2723,399,2,194.13,1,At risk / lapsed
+2725,43,4,513.73,0,Loyal regulars
+2726,270,8,679.01,0,Loyal regulars
+2728,4,11,1292.98,2,Champions
+2729,280,3,281.26,1,At risk / lapsed
+2730,176,2,116.73,1,At risk / lapsed
+2731,591,1,185.74,1,At risk / lapsed
+2732,2,32,2940.15,2,Champions
+2734,20,27,2535.52,2,Champions
+2736,27,20,2024.56,2,Champions
+2738,10,9,641.06,0,Loyal regulars
+2739,15,14,1158.83,2,Champions
+2740,20,16,1859.11,2,Champions
+2741,33,19,1739.11,2,Champions
+2742,4,14,974.35,2,Champions
+2743,584,1,57.98,1,At risk / lapsed
+2744,4,23,2012.1,2,Champions
+2745,3,32,2230.95,2,Champions
+2746,96,7,899.64,0,Loyal regulars
+2747,115,5,262.0,1,At risk / lapsed
+2748,6,77,7142.02,2,Champions
+2749,152,3,355.34,1,At risk / lapsed
+2750,25,8,566.56,0,Loyal regulars
+2751,38,9,851.78,0,Loyal regulars
+2753,405,1,122.96,1,At risk / lapsed
+2754,80,6,370.23,0,Loyal regulars
+2756,3,4,339.48,0,Loyal regulars
+2757,185,3,179.51,1,At risk / lapsed
+2758,53,7,459.78,0,Loyal regulars
+2759,2,12,1065.99,2,Champions
+2760,104,4,258.9,1,At risk / lapsed
+2761,102,7,563.44,0,Loyal regulars
+2762,108,10,714.7,0,Loyal regulars
+2763,9,6,552.36,0,Loyal regulars
+2764,42,13,1294.41,0,Loyal regulars
+2765,1,15,1579.34,2,Champions
+2767,91,3,282.27,1,At risk / lapsed
+2768,231,6,407.12,0,Loyal regulars
+2769,37,6,578.37,0,Loyal regulars
+2770,12,9,1004.63,0,Loyal regulars
+2771,26,25,2434.74,2,Champions
+2772,18,3,349.55,0,Loyal regulars
+2773,46,15,1457.88,2,Champions
+2774,0,44,4655.06,2,Champions
+2775,80,2,229.51,1,At risk / lapsed
+2776,4,34,3435.19,2,Champions
+2777,6,29,2595.48,2,Champions
+2778,47,11,1338.97,0,Loyal regulars
+2779,15,5,473.52,0,Loyal regulars
+2780,79,3,187.91,1,At risk / lapsed
+2781,151,6,438.05,0,Loyal regulars
+2783,5,17,1231.6,2,Champions
+2784,114,6,404.01,0,Loyal regulars
+2786,182,5,616.8,0,Loyal regulars
+2787,52,19,1813.82,2,Champions
+2788,56,14,1242.65,0,Loyal regulars
+2789,137,1,113.05,1,At risk / lapsed
+2790,1,55,5010.84,2,Champions
+2791,42,15,943.14,0,Loyal regulars
+2792,181,1,134.96,1,At risk / lapsed
+2793,65,2,82.97,1,At risk / lapsed
+2795,6,19,1656.23,2,Champions
+2796,4,32,3329.7,2,Champions
+2797,76,2,192.91,1,At risk / lapsed
+2798,18,10,515.25,0,Loyal regulars
+2799,21,10,910.62,0,Loyal regulars
+2800,5,37,3230.8,2,Champions
+2802,32,10,807.99,0,Loyal regulars
+2803,16,11,841.85,0,Loyal regulars
+2804,340,1,64.67,1,At risk / lapsed
+2805,20,18,1444.02,2,Champions
+2806,7,16,1756.11,2,Champions
+2809,117,8,612.84,0,Loyal regulars
+2811,15,4,273.57,0,Loyal regulars
+2812,5,11,1289.94,2,Champions
+2813,4,60,4976.81,2,Champions
+2814,7,24,2147.06,2,Champions
+2816,387,2,105.96,1,At risk / lapsed
+2817,7,17,1382.68,2,Champions
+2818,81,23,2053.47,2,Champions
+2819,95,7,618.94,0,Loyal regulars
+2820,45,1,57.98,1,At risk / lapsed
+2821,31,6,1279.22,0,Loyal regulars
+2822,587,1,245.14,1,At risk / lapsed
+2823,22,4,561.52,0,Loyal regulars
+2824,11,10,1015.47,2,Champions
+2825,42,6,423.78,0,Loyal regulars
+2826,317,1,12.99,1,At risk / lapsed
+2827,0,16,1266.53,2,Champions
+2828,14,8,1068.69,0,Loyal regulars
+2829,231,3,473.29,1,At risk / lapsed
+2830,118,14,1292.03,0,Loyal regulars
+2831,337,6,449.33,0,Loyal regulars
+2832,272,2,168.93,1,At risk / lapsed
+2833,8,18,1909.22,2,Champions
+2834,13,8,570.15,0,Loyal regulars
+2835,273,1,122.97,1,At risk / lapsed
+2836,9,7,794.79,0,Loyal regulars
+2837,151,5,535.18,0,Loyal regulars
+2838,166,3,375.99,1,At risk / lapsed
+2839,4,3,313.93,0,Loyal regulars
+2841,53,5,549.22,0,Loyal regulars
+2842,17,18,1933.18,2,Champions
+2843,404,2,198.6,1,At risk / lapsed
+2844,389,1,19.99,1,At risk / lapsed
+2845,4,69,6783.22,2,Champions
+2846,82,9,724.78,0,Loyal regulars
+2847,181,4,358.06,1,At risk / lapsed
+2849,222,2,246.92,1,At risk / lapsed
+2850,186,5,513.94,0,Loyal regulars
+2851,103,8,1094.72,0,Loyal regulars
+2852,67,13,1323.9,0,Loyal regulars
+2853,108,8,1146.73,0,Loyal regulars
+2854,116,1,135.92,1,At risk / lapsed
+2855,69,6,733.72,0,Loyal regulars
+2856,80,13,687.62,0,Loyal regulars
+2857,26,18,2023.71,2,Champions
+2858,10,4,286.09,0,Loyal regulars
+2859,10,16,1518.2,2,Champions
+2860,3,40,3951.63,2,Champions
+2861,33,22,1835.41,2,Champions
+2862,13,26,2365.43,2,Champions
+2863,155,6,425.67,0,Loyal regulars
+2864,94,10,1201.44,0,Loyal regulars
+2865,124,9,654.02,0,Loyal regulars
+2866,135,16,1307.35,0,Loyal regulars
+2867,81,15,1409.61,0,Loyal regulars
+2868,4,8,902.58,2,Champions
+2869,15,8,673.76,0,Loyal regulars
+2870,25,17,1580.53,2,Champions
+2871,50,6,556.55,0,Loyal regulars
+2872,179,3,341.88,1,At risk / lapsed
+2874,274,1,121.96,1,At risk / lapsed
+2875,53,3,222.2,1,At risk / lapsed
+2876,1,10,543.29,2,Champions
+2877,74,12,1012.69,0,Loyal regulars
+2878,164,5,546.32,0,Loyal regulars
+2879,224,4,275.87,1,At risk / lapsed
+2880,86,3,314.91,1,At risk / lapsed
+2881,46,1,73.98,1,At risk / lapsed
+2882,527,2,162.96,1,At risk / lapsed
+2883,607,3,385.87,1,At risk / lapsed
+2884,8,15,1393.77,2,Champions
+2885,1,23,1632.05,2,Champions
+2886,3,39,3141.64,2,Champions
+2887,21,3,199.04,0,Loyal regulars
+2888,38,11,833.29,0,Loyal regulars
+2889,26,22,1725.54,2,Champions
+2890,49,6,536.69,0,Loyal regulars
+2892,646,1,60.99,1,At risk / lapsed
+2893,25,14,1271.42,2,Champions
+2894,367,3,207.42,1,At risk / lapsed
+2895,12,4,547.7,0,Loyal regulars
+2896,15,21,1884.79,2,Champions
+2897,17,13,1237.92,2,Champions
+2898,166,4,206.4,1,At risk / lapsed
+2899,64,5,444.77,0,Loyal regulars
+2900,75,12,994.43,0,Loyal regulars
+2901,5,40,3547.54,2,Champions
+2902,315,1,32.98,1,At risk / lapsed
+2903,245,12,962.14,0,Loyal regulars
+2904,17,2,261.91,0,Loyal regulars
+2905,21,5,293.97,0,Loyal regulars
+2906,26,23,1928.29,2,Champions
+2907,45,12,1415.16,0,Loyal regulars
+2908,726,1,63.97,1,At risk / lapsed
+2909,239,1,127.34,1,At risk / lapsed
+2910,4,19,1981.3,2,Champions
+2911,53,10,576.59,0,Loyal regulars
+2912,401,1,159.23,1,At risk / lapsed
+2913,20,12,1217.63,2,Champions
+2914,24,18,1197.8,2,Champions
+2915,1,10,965.96,2,Champions
+2916,67,15,1777.57,0,Loyal regulars
+2917,147,2,190.81,1,At risk / lapsed
+2918,25,5,372.43,0,Loyal regulars
+2919,14,29,2172.8,2,Champions
+2921,5,31,2486.54,2,Champions
+2922,238,2,276.93,1,At risk / lapsed
+2923,14,25,2385.77,2,Champions
+2924,381,5,470.0,1,At risk / lapsed
+2925,19,10,470.7,0,Loyal regulars
+2926,718,1,94.97,1,At risk / lapsed
+2927,245,2,83.96,1,At risk / lapsed
+2928,3,14,1268.62,2,Champions
+2929,184,1,37.97,1,At risk / lapsed
+2930,255,3,338.6,1,At risk / lapsed
+2931,80,3,269.5,1,At risk / lapsed
+2932,16,14,1018.63,2,Champions
+2933,29,17,2188.12,2,Champions
+2934,12,25,1857.78,2,Champions
+2935,206,2,105.95,1,At risk / lapsed
+2936,2,22,2100.82,2,Champions
+2937,86,11,961.79,0,Loyal regulars
+2938,370,2,171.22,1,At risk / lapsed
+2939,5,21,1352.86,2,Champions
+2940,232,3,145.34,1,At risk / lapsed
+2941,8,22,2012.35,2,Champions
+2942,7,9,599.63,0,Loyal regulars
+2943,225,3,235.7,1,At risk / lapsed
+2944,87,4,369.54,0,Loyal regulars
+2945,21,6,580.57,0,Loyal regulars
+2946,1,16,1522.48,2,Champions
+2947,9,15,1286.26,2,Champions
+2948,541,1,114.96,1,At risk / lapsed
+2949,3,6,755.75,0,Loyal regulars
+2950,21,38,2554.55,2,Champions
+2951,33,1,17.59,1,At risk / lapsed
+2952,25,10,927.3,0,Loyal regulars
+2953,7,34,2777.05,2,Champions
+2954,18,14,1390.88,2,Champions
+2955,324,2,298.89,1,At risk / lapsed
+2956,26,4,325.87,0,Loyal regulars
+2957,84,11,1193.01,0,Loyal regulars
+2958,2,24,2122.03,2,Champions
+2959,1,34,3500.74,2,Champions
+2960,7,24,2310.63,2,Champions
+2961,242,3,225.12,1,At risk / lapsed
+2963,21,6,677.75,0,Loyal regulars
+2964,22,23,2823.42,2,Champions
+2965,2,17,1399.4,2,Champions
+2966,388,1,53.17,1,At risk / lapsed
+2967,0,5,736.28,2,Champions
+2968,211,2,162.94,1,At risk / lapsed
+2969,18,24,2221.04,2,Champions
+2970,102,12,1022.36,0,Loyal regulars
+2971,21,8,568.75,0,Loyal regulars
+2972,60,10,790.1,0,Loyal regulars
+2973,4,35,3367.34,2,Champions
+2975,166,3,146.93,1,At risk / lapsed
+2976,18,1,44.98,1,At risk / lapsed
+2977,5,16,1305.97,2,Champions
+2978,100,11,575.84,0,Loyal regulars
+2979,16,7,603.19,0,Loyal regulars
+2981,8,38,3003.14,2,Champions
+2982,6,21,2024.83,2,Champions
+2983,75,4,252.91,1,At risk / lapsed
+2984,60,18,1789.37,2,Champions
+2986,54,3,377.89,0,Loyal regulars
+2987,155,7,672.7,0,Loyal regulars
+2988,37,5,341.45,0,Loyal regulars
+2989,0,46,4113.95,2,Champions
+2990,11,18,1508.36,2,Champions
+2991,40,24,2328.63,2,Champions
+2993,38,14,1930.83,2,Champions
+2994,211,2,143.43,1,At risk / lapsed
+2995,38,12,952.61,0,Loyal regulars
+2996,171,2,188.42,1,At risk / lapsed
+2997,14,7,967.05,0,Loyal regulars
+2998,294,2,170.94,1,At risk / lapsed
+2999,16,13,1074.49,2,Champions
+3000,28,9,571.82,0,Loyal regulars
+3002,8,25,1757.16,2,Champions
+3003,30,25,1707.68,2,Champions
+3004,25,14,1747.28,2,Champions
+3005,11,3,317.69,0,Loyal regulars
+3006,0,13,1305.28,2,Champions
+3007,2,24,2390.75,2,Champions
+3008,33,8,904.75,0,Loyal regulars
+3009,98,11,1032.58,0,Loyal regulars
+3010,1,13,1307.66,2,Champions
+3011,12,8,822.17,0,Loyal regulars
+3012,30,7,802.8,0,Loyal regulars
+3013,134,6,357.52,0,Loyal regulars
+3014,417,4,397.65,1,At risk / lapsed
+3015,8,8,782.47,0,Loyal regulars
+3016,4,28,2503.16,2,Champions
+3017,184,1,36.99,1,At risk / lapsed
+3018,113,3,188.41,1,At risk / lapsed
+3019,34,3,135.63,1,At risk / lapsed
+3020,99,10,1153.77,0,Loyal regulars
+3021,1,13,1137.81,2,Champions
+3022,309,3,464.66,1,At risk / lapsed
+3023,18,10,1013.24,0,Loyal regulars
+3024,28,8,720.52,0,Loyal regulars
+3025,56,4,439.62,0,Loyal regulars
+3026,7,18,1579.57,2,Champions
+3027,44,4,303.37,0,Loyal regulars
+3028,40,12,1109.69,0,Loyal regulars
+3029,11,7,481.63,0,Loyal regulars
+3030,4,24,2198.48,2,Champions
+3031,6,12,849.83,2,Champions
+3032,2,19,1649.4,2,Champions
+3033,5,26,3155.62,2,Champions
+3034,144,1,127.33,1,At risk / lapsed
+3035,30,17,1233.75,2,Champions
+3036,5,6,638.47,0,Loyal regulars
+3037,232,4,400.86,1,At risk / lapsed
+3038,2,18,2123.01,2,Champions
+3039,131,10,738.08,0,Loyal regulars
+3041,3,5,652.55,0,Loyal regulars
+3042,18,12,1512.32,2,Champions
+3043,52,2,315.73,1,At risk / lapsed
+3044,67,3,343.9,0,Loyal regulars
+3045,2,4,412.83,0,Loyal regulars
+3046,69,3,189.9,1,At risk / lapsed
+3047,174,3,325.87,1,At risk / lapsed
+3048,449,2,140.54,1,At risk / lapsed
+3049,27,10,659.03,0,Loyal regulars
+3051,14,14,1107.06,2,Champions
+3052,222,5,426.25,0,Loyal regulars
+3054,18,22,1678.18,2,Champions
+3055,8,13,1185.64,2,Champions
+3056,59,7,364.44,0,Loyal regulars
+3058,90,15,1392.53,0,Loyal regulars
+3059,557,1,64.97,1,At risk / lapsed
+3060,17,16,1904.46,2,Champions
+3061,39,2,113.83,1,At risk / lapsed
+3062,10,35,3940.19,2,Champions
+3063,32,4,244.38,0,Loyal regulars
+3064,467,2,271.89,1,At risk / lapsed
+3065,22,7,489.61,0,Loyal regulars
+3066,12,3,196.51,0,Loyal regulars
+3067,650,1,44.78,1,At risk / lapsed
+3068,37,13,1478.59,0,Loyal regulars
+3069,99,20,2045.91,2,Champions
+3070,246,2,60.35,1,At risk / lapsed
+3072,137,3,334.89,1,At risk / lapsed
+3073,4,5,330.31,0,Loyal regulars
+3074,16,29,2640.44,2,Champions
+3075,0,4,570.0,2,Champions
+3077,139,4,245.78,1,At risk / lapsed
+3078,18,4,386.84,0,Loyal regulars
+3079,95,2,224.91,1,At risk / lapsed
+3081,152,5,605.97,0,Loyal regulars
+3082,581,1,0.0,1,At risk / lapsed
+3083,116,8,589.56,0,Loyal regulars
+3084,18,13,1051.59,2,Champions
+3085,21,9,773.86,0,Loyal regulars
+3086,4,15,1562.27,2,Champions
+3087,391,2,62.86,1,At risk / lapsed
+3088,14,11,828.27,0,Loyal regulars
+3089,193,4,220.87,1,At risk / lapsed
+3091,30,7,498.22,0,Loyal regulars
+3092,19,18,1493.33,2,Champions
+3093,237,3,474.88,1,At risk / lapsed
+3094,26,26,3067.63,2,Champions
+3095,25,10,923.72,0,Loyal regulars
+3096,13,1,72.96,1,At risk / lapsed
+3097,18,3,218.91,0,Loyal regulars
+3098,309,4,209.93,1,At risk / lapsed
+3099,11,14,1152.87,2,Champions
+3100,150,5,349.26,0,Loyal regulars
+3101,11,14,1720.51,2,Champions
+3102,22,17,1660.66,2,Champions
+3103,542,2,291.21,1,At risk / lapsed
+3104,67,2,229.59,1,At risk / lapsed
+3105,1,19,1909.19,2,Champions
+3106,5,4,240.88,0,Loyal regulars
+3107,237,3,168.89,1,At risk / lapsed
+3108,73,5,265.87,0,Loyal regulars
+3109,12,2,110.96,1,At risk / lapsed
+3110,12,13,1078.58,2,Champions
+3111,117,5,704.79,0,Loyal regulars
+3112,58,3,196.9,1,At risk / lapsed
+3113,108,14,1254.94,0,Loyal regulars
+3114,43,1,203.92,1,At risk / lapsed
+3115,35,9,543.26,0,Loyal regulars
+3116,90,6,553.82,0,Loyal regulars
+3117,58,4,488.74,0,Loyal regulars
+3118,53,11,751.55,0,Loyal regulars
+3119,314,2,97.33,1,At risk / lapsed
+3120,4,6,400.97,0,Loyal regulars
+3121,8,20,1480.77,2,Champions
+3122,119,6,405.83,0,Loyal regulars
+3123,18,15,1182.22,2,Champions
+3124,8,2,67.37,1,At risk / lapsed
+3125,1,4,313.83,0,Loyal regulars
+3126,4,9,781.59,2,Champions
+3127,27,16,1333.28,2,Champions
+3128,69,7,642.2,0,Loyal regulars
+3129,1,13,819.66,2,Champions
+3130,123,3,247.71,1,At risk / lapsed
+3132,246,2,137.94,1,At risk / lapsed
+3133,67,10,391.09,0,Loyal regulars
+3134,40,7,733.57,0,Loyal regulars
+3135,264,1,67.86,1,At risk / lapsed
+3136,126,3,220.7,1,At risk / lapsed
+3137,53,19,1897.18,2,Champions
+3138,21,29,2299.33,2,Champions
+3139,60,9,546.01,0,Loyal regulars
+3140,162,4,293.76,1,At risk / lapsed
+3141,239,1,143.96,1,At risk / lapsed
+3143,90,9,904.81,0,Loyal regulars
+3144,17,15,1894.66,2,Champions
+3145,18,25,2458.68,2,Champions
+3146,205,10,858.46,0,Loyal regulars
+3147,24,6,617.76,0,Loyal regulars
+3149,6,9,910.56,2,Champions
+3150,309,3,215.91,1,At risk / lapsed
+3151,53,10,859.05,0,Loyal regulars
+3152,25,19,1644.76,2,Champions
+3153,338,1,11.99,1,At risk / lapsed
+3154,200,2,318.92,1,At risk / lapsed
+3155,2,20,2017.83,2,Champions
+3156,113,4,390.03,0,Loyal regulars
+3157,13,31,2583.48,2,Champions
+3158,37,6,751.45,0,Loyal regulars
+3159,10,3,304.88,0,Loyal regulars
+3161,44,8,683.7,0,Loyal regulars
+3162,104,12,643.0,0,Loyal regulars
+3163,10,21,2067.21,2,Champions
+3164,74,8,764.06,0,Loyal regulars
+3165,21,11,766.82,0,Loyal regulars
+3166,52,4,334.98,0,Loyal regulars
+3167,43,9,958.54,0,Loyal regulars
+3168,67,7,891.23,0,Loyal regulars
+3169,0,66,5799.36,2,Champions
+3171,59,3,268.91,1,At risk / lapsed
+3172,13,16,1453.12,2,Champions
+3173,26,6,698.64,0,Loyal regulars
+3174,46,7,889.63,0,Loyal regulars
+3175,683,1,124.63,1,At risk / lapsed
+3176,212,1,48.98,1,At risk / lapsed
+3179,10,35,4205.57,2,Champions
+3180,2,5,444.83,0,Loyal regulars
+3181,9,78,7106.6,2,Champions
+3182,17,8,793.95,0,Loyal regulars
+3183,98,2,101.75,1,At risk / lapsed
+3184,4,17,1691.93,2,Champions
+3185,165,9,700.7,0,Loyal regulars
+3186,115,3,159.42,1,At risk / lapsed
+3187,63,2,69.97,1,At risk / lapsed
+3188,17,9,854.68,0,Loyal regulars
+3189,189,2,117.03,1,At risk / lapsed
+3190,10,17,1810.42,2,Champions
+3191,180,1,242.92,1,At risk / lapsed
+3192,24,5,550.38,0,Loyal regulars
+3193,82,6,560.15,0,Loyal regulars
+3194,290,2,108.74,1,At risk / lapsed
+3195,5,20,2451.05,2,Champions
+3196,469,3,114.92,1,At risk / lapsed
+3197,9,15,1268.27,2,Champions
+3198,32,12,1633.05,2,Champions
+3199,10,70,5587.81,2,Champions
+3200,20,18,1441.9,2,Champions
+3202,1,8,763.57,2,Champions
+3203,75,7,751.63,0,Loyal regulars
+3204,55,4,397.89,0,Loyal regulars
+3205,420,1,26.99,1,At risk / lapsed
+3206,3,25,2180.65,2,Champions
+3207,80,8,1039.94,0,Loyal regulars
+3208,419,2,288.46,1,At risk / lapsed
+3209,49,5,420.03,0,Loyal regulars
+3210,10,29,3001.05,2,Champions
+3211,161,9,494.14,0,Loyal regulars
+3212,149,7,528.81,0,Loyal regulars
+3213,25,19,1390.82,2,Champions
+3215,45,6,584.32,0,Loyal regulars
+3216,12,4,490.73,0,Loyal regulars
+3217,100,3,291.9,1,At risk / lapsed
+3218,45,19,1809.13,2,Champions
+3219,459,1,6.39,1,At risk / lapsed
+3220,340,2,152.54,1,At risk / lapsed
+3221,137,9,898.88,0,Loyal regulars
+3222,18,15,1221.98,2,Champions
+3223,2,1,94.96,1,At risk / lapsed
+3224,24,24,2136.86,2,Champions
+3225,44,10,827.89,0,Loyal regulars
+3226,60,11,1130.56,0,Loyal regulars
+3227,1,36,3538.74,2,Champions
+3228,173,6,653.49,0,Loyal regulars
+3229,21,22,1505.76,2,Champions
+3231,392,3,213.92,1,At risk / lapsed
+3232,30,34,3513.35,2,Champions
+3233,29,6,661.81,0,Loyal regulars
+3234,88,10,740.1,0,Loyal regulars
+3235,1,10,1003.81,2,Champions
+3236,11,8,789.3,0,Loyal regulars
+3238,8,16,1569.89,2,Champions
+3239,11,11,818.08,0,Loyal regulars
+3241,402,2,248.71,1,At risk / lapsed
+3242,65,1,63.07,1,At risk / lapsed
+3243,227,2,397.9,1,At risk / lapsed
+3244,49,14,1248.01,0,Loyal regulars
+3245,64,8,555.74,0,Loyal regulars
+3246,31,6,702.9,0,Loyal regulars
+3247,205,3,110.94,1,At risk / lapsed
+3248,3,14,1279.34,2,Champions
+3249,59,12,1157.78,0,Loyal regulars
+3250,57,4,335.68,0,Loyal regulars
+3251,61,2,287.72,1,At risk / lapsed
+3252,153,3,212.42,1,At risk / lapsed
+3253,145,2,70.54,1,At risk / lapsed
+3254,18,5,377.65,0,Loyal regulars
+3255,291,5,541.16,0,Loyal regulars
+3256,63,6,503.8,0,Loyal regulars
+3257,57,14,1453.75,0,Loyal regulars
+3258,23,11,830.06,0,Loyal regulars
+3259,63,7,428.37,0,Loyal regulars
+3260,15,31,2582.9,2,Champions
+3261,326,2,219.94,1,At risk / lapsed
+3262,11,11,939.92,2,Champions
+3263,18,13,1162.24,2,Champions
+3264,2,50,5056.63,2,Champions
+3265,18,21,1910.2,2,Champions
+3266,195,1,87.96,1,At risk / lapsed
+3267,118,5,752.66,0,Loyal regulars
+3268,110,7,861.69,0,Loyal regulars
+3269,29,12,723.83,0,Loyal regulars
+3270,15,9,986.89,0,Loyal regulars
+3271,140,7,328.26,0,Loyal regulars
+3272,158,10,1181.72,0,Loyal regulars
+3273,238,7,970.96,0,Loyal regulars
+3274,41,22,1991.45,2,Champions
+3275,262,4,498.83,1,At risk / lapsed
+3276,53,18,1852.09,2,Champions
+3277,3,21,1814.28,2,Champions
+3278,15,49,4024.83,2,Champions
+3279,414,2,25.98,1,At risk / lapsed
+3281,4,7,522.85,0,Loyal regulars
+3282,18,53,4336.3,2,Champions
+3283,123,4,206.69,1,At risk / lapsed
+3284,17,40,3749.51,2,Champions
+3285,96,4,389.41,0,Loyal regulars
+3286,584,2,313.89,1,At risk / lapsed
+3287,215,2,163.94,1,At risk / lapsed
+3288,0,59,5500.93,2,Champions
+3289,80,2,56.37,1,At risk / lapsed
+3290,221,3,185.91,1,At risk / lapsed
+3291,19,3,259.67,0,Loyal regulars
+3292,3,8,794.51,2,Champions
+3293,40,10,780.98,0,Loyal regulars
+3294,13,10,808.78,0,Loyal regulars
+3295,7,15,1255.45,2,Champions
+3296,18,12,1393.69,2,Champions
+3297,25,4,328.88,0,Loyal regulars
+3298,37,3,246.59,0,Loyal regulars
+3299,53,12,882.78,0,Loyal regulars
+3300,1,16,1119.41,2,Champions
+3301,404,3,553.76,1,At risk / lapsed
+3303,80,19,1903.95,2,Champions
+3304,151,3,213.3,1,At risk / lapsed
+3305,127,12,969.75,0,Loyal regulars
+3306,4,32,3656.46,2,Champions
+3307,59,10,717.05,0,Loyal regulars
+3308,423,1,132.95,1,At risk / lapsed
+3309,39,6,975.59,0,Loyal regulars
+3310,206,3,427.18,1,At risk / lapsed
+3311,95,4,488.96,0,Loyal regulars
+3312,17,14,1993.73,2,Champions
+3313,1,20,2230.39,2,Champions
+3314,2,45,4607.8,2,Champions
+3315,10,9,1071.41,2,Champions
+3316,606,1,102.96,1,At risk / lapsed
+3317,241,3,290.5,1,At risk / lapsed
+3318,59,4,353.22,0,Loyal regulars
+3319,82,1,24.99,1,At risk / lapsed
+3320,11,5,403.79,0,Loyal regulars
+3321,179,1,166.95,1,At risk / lapsed
+3322,11,9,639.39,0,Loyal regulars
+3323,21,10,859.82,0,Loyal regulars
+3324,302,1,37.98,1,At risk / lapsed
+3325,25,7,530.34,0,Loyal regulars
+3326,89,3,361.86,1,At risk / lapsed
+3327,17,9,789.0,0,Loyal regulars
+3328,7,14,1755.4,2,Champions
+3329,13,24,2355.54,2,Champions
+3330,20,9,843.16,0,Loyal regulars
+3331,25,5,654.51,0,Loyal regulars
+3332,19,12,1199.26,2,Champions
+3333,2,22,2132.29,2,Champions
+3334,5,41,3904.01,2,Champions
+3335,3,56,5157.74,2,Champions
+3336,15,5,348.56,0,Loyal regulars
+3337,610,1,90.27,1,At risk / lapsed
+3338,11,5,787.96,0,Loyal regulars
+3339,3,49,5114.97,2,Champions
+3340,7,7,550.97,0,Loyal regulars
+3341,145,2,296.99,1,At risk / lapsed
+3343,25,19,1369.53,2,Champions
+3344,76,16,1521.24,0,Loyal regulars
+3345,198,5,350.84,1,At risk / lapsed
+3346,137,12,1014.07,0,Loyal regulars
+3347,408,1,109.97,1,At risk / lapsed
+3348,306,1,3.99,1,At risk / lapsed
+3349,117,3,343.39,1,At risk / lapsed
+3350,20,8,613.51,0,Loyal regulars
+3351,4,7,742.74,0,Loyal regulars
+3352,89,7,613.36,0,Loyal regulars
+3353,365,3,371.89,1,At risk / lapsed
+3354,58,4,384.54,0,Loyal regulars
+3355,137,10,829.64,0,Loyal regulars
+3356,10,7,569.96,0,Loyal regulars
+3357,5,26,2542.52,2,Champions
+3358,101,2,162.85,1,At risk / lapsed
+3359,8,38,3269.33,2,Champions
+3360,109,1,84.73,1,At risk / lapsed
+3362,117,9,878.15,0,Loyal regulars
+3363,18,2,241.5,0,Loyal regulars
+3364,150,8,654.73,0,Loyal regulars
+3365,1,44,3507.38,2,Champions
+3366,619,1,44.67,1,At risk / lapsed
+3367,120,5,420.65,0,Loyal regulars
+3368,39,8,663.73,0,Loyal regulars
+3369,165,3,149.92,1,At risk / lapsed
+3370,11,11,1157.09,2,Champions
+3371,4,21,1799.97,2,Champions
+3372,132,6,657.34,0,Loyal regulars
+3373,82,13,1374.92,0,Loyal regulars
+3375,5,2,73.98,1,At risk / lapsed
+3376,15,3,348.67,0,Loyal regulars
+3377,42,5,719.46,0,Loyal regulars
+3378,4,14,1354.76,2,Champions
+3379,1,2,147.45,0,Loyal regulars
+3380,11,17,1775.1,2,Champions
+3382,8,5,484.24,0,Loyal regulars
+3383,2,81,8466.92,2,Champions
+3384,17,8,563.77,0,Loyal regulars
+3385,19,9,935.01,0,Loyal regulars
+3386,59,8,655.85,0,Loyal regulars
+3387,367,2,152.95,1,At risk / lapsed
+3388,10,7,546.97,0,Loyal regulars
+3389,143,4,419.38,0,Loyal regulars
+3390,27,23,1812.9,2,Champions
+3391,2,61,5356.12,2,Champions
+3393,5,20,1767.22,2,Champions
+3394,528,2,286.11,1,At risk / lapsed
+3395,29,8,435.6,0,Loyal regulars
+3396,13,8,970.38,0,Loyal regulars
+3398,183,3,320.89,1,At risk / lapsed
+3399,42,6,542.94,0,Loyal regulars
+3400,24,13,1366.03,2,Champions
+3401,27,14,714.37,0,Loyal regulars
+3402,4,47,3815.58,2,Champions
+3403,21,11,1407.14,2,Champions
+3404,3,13,1094.13,2,Champions
+3405,3,23,2022.73,2,Champions
+3406,363,1,98.97,1,At risk / lapsed
+3407,29,14,1311.28,2,Champions
+3408,159,4,203.26,1,At risk / lapsed
+3409,374,4,396.84,1,At risk / lapsed
+3410,74,3,257.5,1,At risk / lapsed
+3411,49,2,227.92,1,At risk / lapsed
+3412,0,7,748.72,2,Champions
+3413,27,6,339.64,0,Loyal regulars
+3414,152,5,522.92,0,Loyal regulars
+3415,17,5,478.39,0,Loyal regulars
+3416,713,1,84.94,1,At risk / lapsed
+3417,78,3,407.53,0,Loyal regulars
+3419,3,5,278.66,0,Loyal regulars
+3420,269,4,198.37,1,At risk / lapsed
+3421,20,7,653.04,0,Loyal regulars
+3422,0,14,1255.04,2,Champions
+3423,130,3,192.69,1,At risk / lapsed
+3424,1,14,1019.09,2,Champions
+3425,105,1,171.26,1,At risk / lapsed
+3426,1,66,5829.26,2,Champions
+3427,8,19,1435.86,2,Champions
+3428,62,2,168.92,1,At risk / lapsed
+3429,539,1,113.96,1,At risk / lapsed
+3430,36,21,1653.94,2,Champions
+3432,157,6,463.9,0,Loyal regulars
+3434,193,2,281.94,1,At risk / lapsed
+3435,0,5,632.9,2,Champions
+3436,353,1,75.95,1,At risk / lapsed
+3438,210,8,650.74,0,Loyal regulars
+3439,1,39,3896.13,2,Champions
+3440,26,6,521.64,0,Loyal regulars
+3441,4,30,2853.75,2,Champions
+3443,471,3,269.89,1,At risk / lapsed
+3444,253,1,76.96,1,At risk / lapsed
+3445,3,4,450.83,0,Loyal regulars
+3446,19,11,1059.39,0,Loyal regulars
+3447,81,9,682.44,0,Loyal regulars
+3448,7,14,1150.24,2,Champions
+3449,4,8,861.59,2,Champions
+3450,98,10,625.18,0,Loyal regulars
+3451,3,36,3178.74,2,Champions
+3452,87,9,884.65,0,Loyal regulars
+3453,434,1,42.98,1,At risk / lapsed
+3454,11,45,4305.42,2,Champions
+3455,31,11,710.02,0,Loyal regulars
+3456,63,2,52.47,1,At risk / lapsed
+3457,420,1,26.98,1,At risk / lapsed
+3458,3,17,1985.47,2,Champions
+3459,8,8,864.42,0,Loyal regulars
+3461,109,3,328.88,1,At risk / lapsed
+3462,32,2,361.04,0,Loyal regulars
+3463,111,5,448.81,0,Loyal regulars
+3464,36,3,182.0,1,At risk / lapsed
+3465,51,11,974.13,0,Loyal regulars
+3466,26,11,1266.91,0,Loyal regulars
+3467,242,2,246.95,1,At risk / lapsed
+3468,88,3,354.86,1,At risk / lapsed
+3469,31,11,892.96,0,Loyal regulars
+3470,653,2,274.92,1,At risk / lapsed
+3471,69,21,1610.16,2,Champions
+3472,216,5,445.11,0,Loyal regulars
+3473,52,13,1435.42,0,Loyal regulars
+3474,125,8,613.1,0,Loyal regulars
+3475,69,6,504.34,0,Loyal regulars
+3476,36,5,412.03,0,Loyal regulars
+3478,0,9,553.45,2,Champions
+3479,28,19,1856.26,2,Champions
+3480,53,15,1268.5,0,Loyal regulars
+3481,439,2,64.97,1,At risk / lapsed
+3482,28,7,604.74,0,Loyal regulars
+3483,600,1,102.97,1,At risk / lapsed
+3484,117,7,846.41,0,Loyal regulars
+3486,283,3,314.3,1,At risk / lapsed
+3487,114,7,603.98,0,Loyal regulars
+3488,137,4,255.85,1,At risk / lapsed
+3489,387,4,220.9,1,At risk / lapsed
+3490,15,12,1259.83,2,Champions
+3491,31,17,1106.58,2,Champions
+3492,150,2,318.29,1,At risk / lapsed
+3493,26,8,691.84,0,Loyal regulars
+3494,4,9,986.09,2,Champions
+3495,3,8,515.68,0,Loyal regulars
+3496,31,20,1674.37,2,Champions
+3497,4,7,590.95,0,Loyal regulars
+3498,308,1,334.94,1,At risk / lapsed
+3499,24,5,461.05,0,Loyal regulars
+3500,24,8,800.23,0,Loyal regulars
+3501,6,20,1766.34,2,Champions
+3502,10,7,802.02,0,Loyal regulars
+3503,14,7,747.71,0,Loyal regulars
+3504,11,18,1781.34,2,Champions
+3505,48,18,1532.18,2,Champions
+3506,10,33,3301.28,2,Champions
+3507,67,6,596.77,0,Loyal regulars
+3508,89,8,1026.14,0,Loyal regulars
+3509,417,3,405.88,1,At risk / lapsed
+3511,1,1,227.54,0,Loyal regulars
+3512,47,3,435.44,0,Loyal regulars
+3513,222,1,67.76,1,At risk / lapsed
+3514,42,15,1207.35,0,Loyal regulars
+3515,163,24,2195.11,2,Champions
+3516,110,8,750.63,0,Loyal regulars
+3517,150,3,229.99,1,At risk / lapsed
+3518,29,2,148.85,1,At risk / lapsed
+3519,6,6,403.83,0,Loyal regulars
+3520,6,25,2536.81,2,Champions
+3521,9,14,1815.09,2,Champions
+3522,7,16,1139.93,2,Champions
+3523,14,14,1198.54,2,Champions
+3524,12,29,2385.01,2,Champions
+3525,0,38,3338.65,2,Champions
+3526,22,3,240.89,0,Loyal regulars
+3527,9,4,387.82,0,Loyal regulars
+3528,493,1,86.98,1,At risk / lapsed
+3529,1,17,1504.93,2,Champions
+3531,24,23,2002.1,2,Champions
+3532,37,8,739.23,0,Loyal regulars
+3533,36,21,2063.26,2,Champions
+3534,48,4,316.38,0,Loyal regulars
+3535,332,3,203.67,1,At risk / lapsed
+3536,284,1,28.98,1,At risk / lapsed
+3537,384,3,243.59,1,At risk / lapsed
+3538,41,12,939.85,0,Loyal regulars
+3539,590,1,141.96,1,At risk / lapsed
+3540,4,47,4811.87,2,Champions
+3541,3,25,2220.76,2,Champions
+3542,49,6,470.43,0,Loyal regulars
+3543,199,2,266.93,1,At risk / lapsed
+3544,33,15,1268.81,2,Champions
+3545,7,19,1350.25,2,Champions
+3546,18,5,534.37,0,Loyal regulars
+3547,6,19,1462.46,2,Champions
+3548,135,6,246.98,1,At risk / lapsed
+3551,3,32,2880.36,2,Champions
+3552,40,6,593.46,0,Loyal regulars
+3553,145,2,318.45,1,At risk / lapsed
+3554,45,6,864.39,0,Loyal regulars
+3556,6,10,813.14,2,Champions
+3557,123,5,367.87,0,Loyal regulars
+3558,13,5,492.81,0,Loyal regulars
+3560,170,6,237.47,1,At risk / lapsed
+3561,31,4,262.87,0,Loyal regulars
+3562,5,3,240.91,0,Loyal regulars
+3563,18,7,580.27,0,Loyal regulars
+3564,8,15,1444.68,2,Champions
+3566,0,12,1017.29,2,Champions
+3568,369,2,238.91,1,At risk / lapsed
+3569,10,18,2189.1,2,Champions
+3570,455,1,59.98,1,At risk / lapsed
+3571,394,2,134.44,1,At risk / lapsed
+3572,10,26,1827.63,2,Champions
+3573,10,23,2304.2,2,Champions
+3574,4,15,1256.93,2,Champions
+3575,62,1,54.68,1,At risk / lapsed
+3576,1,25,2251.14,2,Champions
+3577,515,1,48.95,1,At risk / lapsed
+3578,15,12,1260.08,2,Champions
+3579,33,7,673.28,0,Loyal regulars
+3580,590,1,58.94,1,At risk / lapsed
+3581,66,6,318.74,0,Loyal regulars
+3582,7,10,909.04,2,Champions
+3583,592,1,24.98,1,At risk / lapsed
+3584,180,4,449.84,0,Loyal regulars
+3585,100,6,589.57,0,Loyal regulars
+3586,5,19,1486.4,2,Champions
+3587,10,8,858.67,0,Loyal regulars
+3588,11,46,4434.52,2,Champions
+3589,15,10,1144.42,0,Loyal regulars
+3590,16,8,809.84,0,Loyal regulars
+3591,1,99,8918.6,2,Champions
+3592,67,11,869.11,0,Loyal regulars
+3593,8,29,3043.81,2,Champions
+3594,5,44,4420.47,2,Champions
+3595,18,2,193.03,1,At risk / lapsed
+3596,384,3,243.69,1,At risk / lapsed
+3598,94,9,975.43,0,Loyal regulars
+3599,11,8,684.07,0,Loyal regulars
+3600,51,4,468.35,0,Loyal regulars
+3602,14,16,1779.98,2,Champions
+3604,2,4,277.27,0,Loyal regulars
+3605,13,24,1961.74,2,Champions
+3606,55,3,208.09,1,At risk / lapsed
+3607,61,14,1695.95,0,Loyal regulars
+3608,131,3,411.06,1,At risk / lapsed
+3609,407,3,222.2,1,At risk / lapsed
+3610,237,2,135.42,1,At risk / lapsed
+3611,24,22,1995.35,2,Champions
+3612,32,6,615.15,0,Loyal regulars
+3613,37,3,189.71,1,At risk / lapsed
+3614,14,10,984.46,0,Loyal regulars
+3616,17,17,1007.77,2,Champions
+3617,91,7,832.99,0,Loyal regulars
+3618,367,2,211.28,1,At risk / lapsed
+3619,47,17,1946.57,2,Champions
+3620,7,6,567.9,0,Loyal regulars
+3621,130,5,626.6,0,Loyal regulars
+3622,168,3,217.89,1,At risk / lapsed
+3623,77,8,836.62,0,Loyal regulars
+3624,441,1,250.96,1,At risk / lapsed
+3625,13,22,2037.95,2,Champions
+3627,42,3,139.96,1,At risk / lapsed
+3628,22,11,850.73,0,Loyal regulars
+3629,259,1,21.99,1,At risk / lapsed
+3630,11,6,591.38,0,Loyal regulars
+3631,11,17,1468.36,2,Champions
+3632,6,49,4795.67,2,Champions
+3633,13,7,558.78,0,Loyal regulars
+3634,95,10,690.56,0,Loyal regulars
+3635,17,5,264.98,0,Loyal regulars
+3636,8,6,501.1,0,Loyal regulars
+3637,68,6,622.93,0,Loyal regulars
+3638,1,52,4197.58,2,Champions
+3640,0,26,2597.31,2,Champions
+3641,246,3,323.71,1,At risk / lapsed
+3642,20,7,457.8,0,Loyal regulars
+3643,100,1,31.99,1,At risk / lapsed
+3644,343,2,263.92,1,At risk / lapsed
+3645,11,21,2033.58,2,Champions
+3646,135,4,499.58,0,Loyal regulars
+3647,197,4,388.65,1,At risk / lapsed
+3648,91,11,890.27,0,Loyal regulars
+3649,45,16,1814.71,2,Champions
+3650,544,1,37.98,1,At risk / lapsed
+3651,2,52,4434.85,2,Champions
+3652,74,10,967.9,0,Loyal regulars
+3653,126,9,917.44,0,Loyal regulars
+3654,17,6,405.4,0,Loyal regulars
+3655,5,6,424.7,0,Loyal regulars
+3657,5,35,3315.77,2,Champions
+3659,59,3,189.69,1,At risk / lapsed
+3660,11,24,2786.52,2,Champions
+3661,96,8,1052.92,0,Loyal regulars
+3662,175,3,297.92,1,At risk / lapsed
+3663,290,5,494.46,0,Loyal regulars
+3664,212,4,311.89,1,At risk / lapsed
+3665,274,2,74.97,1,At risk / lapsed
+3668,17,7,490.01,0,Loyal regulars
+3669,3,22,1413.49,2,Champions
+3670,137,2,155.94,1,At risk / lapsed
+3671,2,16,1412.43,2,Champions
+3672,50,11,1212.77,0,Loyal regulars
+3673,12,29,3013.6,2,Champions
+3674,56,12,1457.04,0,Loyal regulars
+3675,26,10,897.46,0,Loyal regulars
+3676,6,30,2666.73,2,Champions
+3677,27,26,2080.84,2,Champions
+3678,52,29,2187.41,2,Champions
+3679,7,17,1779.52,2,Champions
+3680,73,7,736.44,0,Loyal regulars
+3681,25,19,1446.36,2,Champions
+3682,25,8,963.85,0,Loyal regulars
+3683,69,12,1355.31,0,Loyal regulars
+3684,5,6,674.33,0,Loyal regulars
+3685,14,2,210.94,0,Loyal regulars
+3686,726,1,69.98,1,At risk / lapsed
+3687,31,1,34.17,1,At risk / lapsed
+3688,83,15,1220.5,0,Loyal regulars
+3689,0,42,3774.64,2,Champions
+3690,130,9,1085.52,0,Loyal regulars
+3691,7,12,1596.49,2,Champions
+3692,9,13,1095.45,2,Champions
+3693,98,5,394.84,0,Loyal regulars
+3694,22,7,767.52,0,Loyal regulars
+3695,18,6,530.77,0,Loyal regulars
+3696,3,12,1125.85,2,Champions
+3697,109,7,967.53,0,Loyal regulars
+3698,10,38,3028.26,2,Champions
+3699,2,11,1271.48,2,Champions
+3701,1,25,1940.32,2,Champions
+3702,48,9,777.92,0,Loyal regulars
+3703,34,20,1689.99,2,Champions
+3705,86,3,280.38,1,At risk / lapsed
+3706,73,6,464.8,0,Loyal regulars
+3707,101,10,1235.15,0,Loyal regulars
+3708,4,9,903.99,2,Champions
+3709,25,10,1208.16,0,Loyal regulars
+3710,40,6,800.03,0,Loyal regulars
+3712,55,4,316.59,0,Loyal regulars
+3713,31,2,106.93,1,At risk / lapsed
+3714,96,3,276.94,1,At risk / lapsed
+3715,165,1,119.95,1,At risk / lapsed
+3716,66,15,1228.0,0,Loyal regulars
+3717,28,16,1561.83,2,Champions
+3718,40,8,713.22,0,Loyal regulars
+3719,487,2,126.96,1,At risk / lapsed
+3721,60,6,594.13,0,Loyal regulars
+3722,47,7,575.6,0,Loyal regulars
+3723,179,2,128.14,1,At risk / lapsed
+3724,443,1,146.13,1,At risk / lapsed
+3725,178,3,327.48,1,At risk / lapsed
+3726,9,44,3779.13,2,Champions
+3727,17,31,2900.03,2,Champions
+3728,14,7,838.96,0,Loyal regulars
+3730,15,19,1687.72,2,Champions
+3731,31,6,411.24,0,Loyal regulars
+3732,26,27,2592.39,2,Champions
+3733,283,5,301.66,1,At risk / lapsed
+3734,2,32,2983.96,2,Champions
+3735,596,2,186.91,1,At risk / lapsed
+3736,3,12,1454.62,2,Champions
+3737,19,17,1790.62,2,Champions
+3738,30,8,1065.95,0,Loyal regulars
+3739,20,6,555.41,0,Loyal regulars
+3740,13,11,1059.86,2,Champions
+3741,35,8,877.58,0,Loyal regulars
+3742,268,2,125.52,1,At risk / lapsed
+3743,18,5,615.19,0,Loyal regulars
+3744,13,57,5142.26,2,Champions
+3745,20,2,197.91,1,At risk / lapsed
+3746,6,4,261.9,0,Loyal regulars
+3747,38,3,347.25,0,Loyal regulars
+3748,0,11,978.64,2,Champions
+3749,7,5,628.19,0,Loyal regulars
+3750,485,3,309.29,1,At risk / lapsed
+3751,21,33,2851.93,2,Champions
+3752,7,24,1964.58,2,Champions
+3753,139,6,517.4,0,Loyal regulars
+3754,14,7,535.28,0,Loyal regulars
+3755,243,6,592.65,0,Loyal regulars
+3756,9,7,758.65,0,Loyal regulars
+3757,38,32,2872.23,2,Champions
+3758,143,7,883.48,0,Loyal regulars
+3759,288,1,99.98,1,At risk / lapsed
+3760,417,2,299.87,1,At risk / lapsed
+3761,2,3,346.86,0,Loyal regulars
+3763,41,4,424.87,0,Loyal regulars
+3764,9,38,3765.27,2,Champions
+3765,189,2,249.93,1,At risk / lapsed
+3766,306,2,193.9,1,At risk / lapsed
+3767,99,7,763.71,0,Loyal regulars
+3768,5,17,2101.12,2,Champions
+3769,1,15,1866.32,2,Champions
+3771,4,31,3206.2,2,Champions
+3773,212,4,384.46,1,At risk / lapsed
+3774,186,6,694.28,0,Loyal regulars
+3775,167,5,732.77,0,Loyal regulars
+3776,109,1,23.99,1,At risk / lapsed
+3777,27,7,1033.32,0,Loyal regulars
+3778,70,2,194.52,1,At risk / lapsed
+3779,11,6,804.83,0,Loyal regulars
+3780,152,4,312.43,1,At risk / lapsed
+3781,505,1,25.38,1,At risk / lapsed
+3782,8,16,1472.28,2,Champions
+3783,102,6,842.15,0,Loyal regulars
+3784,9,7,726.79,0,Loyal regulars
+3785,0,15,1408.58,2,Champions
+3788,48,5,389.07,0,Loyal regulars
+3790,48,3,140.94,1,At risk / lapsed
+3791,25,10,764.99,0,Loyal regulars
+3792,29,7,399.72,0,Loyal regulars
+3793,28,6,508.17,0,Loyal regulars
+3794,396,1,129.55,1,At risk / lapsed
+3795,7,15,1865.04,2,Champions
+3796,8,14,1294.67,2,Champions
+3797,16,27,2215.2,2,Champions
+3798,41,26,2181.15,2,Champions
+3799,30,8,829.88,0,Loyal regulars
+3800,17,15,1169.54,2,Champions
+3801,112,16,1625.2,0,Loyal regulars
+3803,139,3,139.73,1,At risk / lapsed
+3804,25,20,1936.48,2,Champions
+3805,8,12,895.19,2,Champions
+3806,17,29,2569.67,2,Champions
+3807,29,9,762.1,0,Loyal regulars
+3808,12,39,3126.06,2,Champions
+3809,229,4,165.9,1,At risk / lapsed
+3810,10,18,1980.59,2,Champions
+3811,13,28,2691.42,2,Champions
+3812,10,22,2421.54,2,Champions
+3813,314,4,385.86,1,At risk / lapsed
+3814,73,5,449.01,0,Loyal regulars
+3815,2,7,338.94,0,Loyal regulars
+3816,186,5,251.68,1,At risk / lapsed
+3817,26,10,958.48,0,Loyal regulars
+3818,47,22,2436.32,2,Champions
+3819,67,12,1114.76,0,Loyal regulars
+3820,126,4,256.47,1,At risk / lapsed
+3821,53,8,623.16,0,Loyal regulars
+3822,232,2,284.8,1,At risk / lapsed
+3823,345,3,437.87,1,At risk / lapsed
+3824,21,28,2562.35,2,Champions
+3825,24,7,383.29,0,Loyal regulars
+3826,125,2,129.14,1,At risk / lapsed
+3827,15,16,1907.55,2,Champions
+3828,535,1,114.54,1,At risk / lapsed
+3830,19,12,1560.33,2,Champions
+3831,11,36,3183.02,2,Champions
+3832,4,23,2133.95,2,Champions
+3833,3,35,3320.43,2,Champions
+3834,179,2,124.14,1,At risk / lapsed
+3835,1,35,3958.41,2,Champions
+3838,198,4,344.67,1,At risk / lapsed
+3839,10,20,1884.44,2,Champions
+3840,22,18,1628.94,2,Champions
+3841,70,6,861.47,0,Loyal regulars
+3842,13,22,2296.36,2,Champions
+3843,2,35,3382.44,2,Champions
+3844,13,5,303.28,0,Loyal regulars
+3845,155,4,338.85,1,At risk / lapsed
+3846,28,18,1775.65,2,Champions
+3847,333,2,113.96,1,At risk / lapsed
+3848,258,1,166.97,1,At risk / lapsed
+3849,46,11,1187.28,0,Loyal regulars
+3850,4,24,2571.91,2,Champions
+3851,22,4,413.21,0,Loyal regulars
+3852,8,6,794.16,0,Loyal regulars
+3853,21,11,1007.91,0,Loyal regulars
+3854,384,2,44.97,1,At risk / lapsed
+3855,21,3,239.9,0,Loyal regulars
+3856,38,3,240.17,0,Loyal regulars
+3857,56,6,419.63,0,Loyal regulars
+3858,321,3,344.89,1,At risk / lapsed
+3859,10,7,667.92,0,Loyal regulars
+3860,28,15,1678.2,2,Champions
+3861,17,14,1245.01,2,Champions
+3862,7,10,718.86,2,Champions
+3863,129,7,691.52,0,Loyal regulars
+3864,247,1,41.97,1,At risk / lapsed
+3865,389,2,248.91,1,At risk / lapsed
+3867,24,3,404.84,0,Loyal regulars
+3868,47,5,601.07,0,Loyal regulars
+3869,61,6,515.3,0,Loyal regulars
+3870,33,17,1310.7,2,Champions
+3871,3,44,3913.51,2,Champions
+3872,17,7,523.08,0,Loyal regulars
+3873,172,6,672.71,0,Loyal regulars
+3875,38,1,102.17,1,At risk / lapsed
+3876,192,2,113.91,1,At risk / lapsed
+3877,4,14,1096.52,2,Champions
+3878,291,1,46.38,1,At risk / lapsed
+3879,18,21,1711.86,2,Champions
+3880,109,10,1231.79,0,Loyal regulars
+3881,4,11,735.91,2,Champions
+3882,244,2,84.54,1,At risk / lapsed
+3883,3,2,104.94,0,Loyal regulars
+3884,27,2,202.85,1,At risk / lapsed
+3885,21,11,1138.98,0,Loyal regulars
+3886,13,9,497.19,0,Loyal regulars
+3887,5,51,5124.63,2,Champions
+3888,7,22,1742.43,2,Champions
+3889,44,8,897.56,0,Loyal regulars
+3891,95,3,224.02,1,At risk / lapsed
+3892,4,37,3092.4,2,Champions
+3893,530,1,50.96,1,At risk / lapsed
+3894,24,8,677.18,0,Loyal regulars
+3895,114,3,410.78,1,At risk / lapsed
+3896,23,28,2806.27,2,Champions
+3897,30,9,859.34,0,Loyal regulars
+3898,132,4,336.95,1,At risk / lapsed
+3899,102,7,906.15,0,Loyal regulars
+3901,82,5,689.98,0,Loyal regulars
+3902,13,15,1376.74,2,Champions
+3904,2,23,2702.63,2,Champions
+3905,11,39,4967.1,2,Champions
+3906,42,1,39.99,1,At risk / lapsed
+3907,27,10,968.91,0,Loyal regulars
+3908,12,12,1044.3,2,Champions
+3909,292,7,754.62,0,Loyal regulars
+3910,39,6,405.03,0,Loyal regulars
+3911,17,4,522.76,0,Loyal regulars
+3912,2,6,349.39,0,Loyal regulars
+3913,28,10,602.09,0,Loyal regulars
+3915,137,3,192.91,1,At risk / lapsed
+3916,730,1,277.92,1,At risk / lapsed
+3917,62,6,526.49,0,Loyal regulars
+3918,11,8,1059.59,0,Loyal regulars
+3919,222,5,680.64,0,Loyal regulars
+3920,42,4,334.17,0,Loyal regulars
+3921,274,1,92.95,1,At risk / lapsed
+3922,18,5,356.35,0,Loyal regulars
+3923,21,6,413.84,0,Loyal regulars
+3924,31,13,1077.27,0,Loyal regulars
+3925,161,9,938.08,0,Loyal regulars
+3926,20,18,1484.96,2,Champions
+3927,18,13,1303.29,2,Champions
+3928,25,15,1363.18,2,Champions
+3930,9,15,1222.82,2,Champions
+3931,98,8,777.07,0,Loyal regulars
+3932,4,28,2326.87,2,Champions
+3933,2,21,1721.19,2,Champions
+3934,27,17,1635.37,2,Champions
+3935,313,3,276.89,1,At risk / lapsed
+3936,99,9,911.39,0,Loyal regulars
+3937,1,23,2165.42,2,Champions
+3938,64,3,236.89,1,At risk / lapsed
+3939,24,8,552.14,0,Loyal regulars
+3940,3,30,2614.33,2,Champions
+3941,58,2,118.95,1,At risk / lapsed
+3942,38,27,2638.94,2,Champions
+3943,59,25,2731.04,2,Champions
+3944,314,1,11.99,1,At risk / lapsed
+3945,24,42,4348.57,2,Champions
+3946,615,1,128.97,1,At risk / lapsed
+3947,17,11,1199.12,2,Champions
+3948,4,9,721.01,2,Champions
+3949,31,10,1463.97,0,Loyal regulars
+3950,20,26,2403.93,2,Champions
+3951,13,15,1017.7,2,Champions
+3952,229,3,130.4,1,At risk / lapsed
+3953,705,1,74.96,1,At risk / lapsed
+3954,52,11,1055.21,0,Loyal regulars
+3955,1,24,2247.62,2,Champions
+3956,14,43,4304.59,2,Champions
+3957,9,1,9.99,1,At risk / lapsed
+3958,52,10,1014.16,0,Loyal regulars
+3959,9,14,1447.14,2,Champions
+3962,144,9,876.9,0,Loyal regulars
+3964,8,21,1684.77,2,Champions
+3965,46,4,224.81,0,Loyal regulars
+3966,29,21,2130.32,2,Champions
+3967,66,5,368.58,0,Loyal regulars
+3968,47,12,1188.96,0,Loyal regulars
+3969,124,6,357.84,0,Loyal regulars
+3970,40,8,994.12,0,Loyal regulars
+3971,9,11,1141.97,2,Champions
+3972,83,18,1896.13,2,Champions
+3973,6,7,860.39,0,Loyal regulars
+3974,15,36,3375.59,2,Champions
+3975,71,4,225.0,1,At risk / lapsed
+3976,13,18,1668.77,2,Champions
+3977,32,7,541.78,0,Loyal regulars
+3978,47,10,934.98,0,Loyal regulars
+3979,541,1,189.02,1,At risk / lapsed
+3980,27,9,910.84,0,Loyal regulars
+3981,23,14,1512.57,2,Champions
+3982,48,3,267.9,0,Loyal regulars
+3983,428,1,13.98,1,At risk / lapsed
+3984,370,1,18.99,1,At risk / lapsed
+3985,8,18,1751.95,2,Champions
+3986,30,12,1074.8,0,Loyal regulars
+3987,13,11,773.45,0,Loyal regulars
+3988,30,5,433.92,0,Loyal regulars
+3989,398,2,132.55,1,At risk / lapsed
+3990,80,6,543.07,0,Loyal regulars
+3991,19,4,613.99,0,Loyal regulars
+3992,19,25,2159.97,2,Champions
+3994,80,1,32.98,1,At risk / lapsed
+3995,400,1,143.04,1,At risk / lapsed
+3996,651,1,44.38,1,At risk / lapsed
+3997,19,56,5414.73,2,Champions
+3998,82,4,203.4,1,At risk / lapsed
+3999,0,23,2056.98,2,Champions
+4000,394,2,226.52,1,At risk / lapsed
+4001,363,5,446.91,1,At risk / lapsed
+4002,2,43,3980.28,2,Champions
+4003,24,4,292.9,0,Loyal regulars
+4004,70,4,216.98,1,At risk / lapsed
+4005,18,18,1365.04,2,Champions
+4006,4,19,1555.11,2,Champions
+4007,18,27,2090.97,2,Champions
+4008,17,39,2928.44,2,Champions
+4009,93,8,792.12,0,Loyal regulars
+4010,4,5,799.93,0,Loyal regulars
+4011,5,10,1137.64,2,Champions
+4012,382,1,112.96,1,At risk / lapsed
+4013,629,1,90.97,1,At risk / lapsed
+4014,117,14,1247.8,0,Loyal regulars
+4015,369,5,241.89,1,At risk / lapsed
+4016,64,6,561.91,0,Loyal regulars
+4017,26,3,264.86,0,Loyal regulars
+4018,68,14,1565.52,0,Loyal regulars
+4019,13,1,91.98,1,At risk / lapsed
+4020,110,9,882.19,0,Loyal regulars
+4021,3,26,2406.61,2,Champions
+4022,27,3,240.67,0,Loyal regulars
+4023,131,4,174.21,1,At risk / lapsed
+4024,170,5,424.41,0,Loyal regulars
+4026,142,7,645.96,0,Loyal regulars
+4027,44,19,1679.58,2,Champions
+4028,16,3,297.7,0,Loyal regulars
+4029,15,36,4348.43,2,Champions
+4030,137,1,148.92,1,At risk / lapsed
+4031,163,3,212.89,1,At risk / lapsed
+4032,389,3,438.71,1,At risk / lapsed
+4033,4,20,2162.22,2,Champions
+4034,27,10,1337.53,0,Loyal regulars
+4035,18,6,334.82,0,Loyal regulars
+4036,228,3,190.73,1,At risk / lapsed
+4037,53,11,946.45,0,Loyal regulars
+4038,13,34,3043.39,2,Champions
+4039,123,9,877.2,0,Loyal regulars
+4040,191,12,1097.32,0,Loyal regulars
+4041,376,1,82.96,1,At risk / lapsed
+4042,139,7,610.2,0,Loyal regulars
+4043,13,69,7052.28,2,Champions
+4044,301,4,530.4,1,At risk / lapsed
+4045,96,7,645.66,0,Loyal regulars
+4046,4,8,647.51,0,Loyal regulars
+4047,40,1,52.98,1,At risk / lapsed
+4048,386,3,269.79,1,At risk / lapsed
+4049,14,23,1683.88,2,Champions
+4050,3,7,786.52,2,Champions
+4051,67,25,1778.7,2,Champions
+4053,39,18,1244.31,2,Champions
+4054,1,29,2538.22,2,Champions
+4055,1,13,1334.23,2,Champions
+4056,110,15,1256.87,0,Loyal regulars
+4057,634,1,64.97,1,At risk / lapsed
+4058,123,1,64.98,1,At risk / lapsed
+4061,57,14,1172.52,0,Loyal regulars
+4062,54,3,331.5,0,Loyal regulars
+4063,47,10,901.66,0,Loyal regulars
+4064,4,11,882.85,2,Champions
+4065,11,14,1002.61,2,Champions
+4066,584,1,65.97,1,At risk / lapsed
+4067,27,5,695.79,0,Loyal regulars
+4068,3,8,982.16,2,Champions
+4069,7,9,779.18,0,Loyal regulars
+4070,138,1,84.65,1,At risk / lapsed
+4071,25,11,786.58,0,Loyal regulars
+4072,406,3,470.85,1,At risk / lapsed
+4073,31,12,1061.75,0,Loyal regulars
+4075,51,30,2406.5,2,Champions
+4076,3,11,820.24,2,Champions
+4077,229,8,548.64,0,Loyal regulars
+4078,256,3,421.17,1,At risk / lapsed
+4079,38,17,1524.85,2,Champions
+4081,6,14,1568.01,2,Champions
+4082,427,5,841.28,0,Loyal regulars
+4083,166,12,1311.17,0,Loyal regulars
+4084,108,13,1291.08,0,Loyal regulars
+4085,1,12,1054.35,2,Champions
+4086,156,5,637.52,0,Loyal regulars
+4087,52,7,562.51,0,Loyal regulars
+4088,263,5,308.92,1,At risk / lapsed
+4089,10,25,2459.54,2,Champions
+4090,24,15,1368.75,2,Champions
+4091,45,6,407.6,0,Loyal regulars
+4093,148,7,530.65,0,Loyal regulars
+4095,30,25,2629.78,2,Champions
+4096,68,14,1205.44,0,Loyal regulars
+4097,200,1,150.95,1,At risk / lapsed
+4098,45,8,705.8,0,Loyal regulars
+4099,65,4,256.18,0,Loyal regulars
+4100,58,4,150.83,1,At risk / lapsed
+4101,24,14,1460.01,2,Champions
+4102,11,19,2031.93,2,Champions
+4103,128,4,159.92,1,At risk / lapsed
+4104,13,14,1392.67,2,Champions
+4106,81,5,406.32,0,Loyal regulars
+4107,17,13,1302.58,2,Champions
+4108,173,2,197.91,1,At risk / lapsed
+4109,26,1,80.97,1,At risk / lapsed
+4110,28,3,138.32,1,At risk / lapsed
+4111,55,9,1273.08,0,Loyal regulars
+4112,3,16,1820.87,2,Champions
+4113,147,5,392.36,0,Loyal regulars
+4114,88,12,801.04,0,Loyal regulars
+4115,17,18,1903.97,2,Champions
+4116,23,5,370.88,0,Loyal regulars
+4118,7,12,1030.72,2,Champions
+4119,0,14,1181.47,2,Champions
+4120,1,11,1182.69,2,Champions
+4121,9,36,3846.3,2,Champions
+4122,16,11,1050.8,0,Loyal regulars
+4123,0,37,3805.05,2,Champions
+4124,19,18,1851.35,2,Champions
+4125,304,4,220.9,1,At risk / lapsed
+4126,121,11,911.31,0,Loyal regulars
+4127,20,28,2823.32,2,Champions
+4128,7,17,1622.3,2,Champions
+4129,3,11,975.59,2,Champions
+4130,16,10,1266.06,2,Champions
+4131,1,36,3549.0,2,Champions
+4132,18,27,2676.08,2,Champions
+4133,41,1,55.98,1,At risk / lapsed
+4134,36,15,1123.41,0,Loyal regulars
+4135,3,20,2249.22,2,Champions
+4136,26,8,973.87,0,Loyal regulars
+4137,4,5,522.19,0,Loyal regulars
+4138,134,5,498.83,0,Loyal regulars
+4139,1,34,3735.63,2,Champions
+4141,129,1,99.97,1,At risk / lapsed
+4142,137,7,470.41,0,Loyal regulars
+4143,9,33,2855.46,2,Champions
+4144,157,4,281.38,1,At risk / lapsed
+4145,7,7,1031.96,0,Loyal regulars
+4146,12,12,1055.55,2,Champions
+4147,60,2,157.74,1,At risk / lapsed
+4148,227,6,688.88,0,Loyal regulars
+4149,39,12,1159.24,0,Loyal regulars
+4150,5,14,1156.19,2,Champions
+4151,95,5,244.72,0,Loyal regulars
+4152,66,15,1082.04,0,Loyal regulars
+4153,96,20,1640.89,2,Champions
+4154,33,6,653.82,0,Loyal regulars
+4155,21,3,241.61,0,Loyal regulars
+4156,2,74,7862.42,2,Champions
+4157,53,9,579.9,0,Loyal regulars
+4158,3,2,102.96,0,Loyal regulars
+4159,20,15,1585.73,2,Champions
+4160,32,12,1102.71,0,Loyal regulars
+4161,4,4,189.17,0,Loyal regulars
+4163,5,8,389.59,0,Loyal regulars
+4164,69,3,304.91,1,At risk / lapsed
+4165,108,8,610.25,0,Loyal regulars
+4166,38,3,306.87,0,Loyal regulars
+4167,23,13,1308.0,2,Champions
+4168,6,11,1084.0,2,Champions
+4169,6,9,1041.66,2,Champions
+4170,12,18,1546.35,2,Champions
+4171,9,23,2804.4,2,Champions
+4172,127,4,402.93,0,Loyal regulars
+4173,30,12,1165.68,0,Loyal regulars
+4174,84,5,381.06,0,Loyal regulars
+4175,17,13,1376.74,2,Champions
+4176,1,27,3181.74,2,Champions
+4177,90,5,436.41,0,Loyal regulars
+4178,18,16,1477.96,2,Champions
+4179,6,3,306.9,0,Loyal regulars
+4180,10,7,1150.19,0,Loyal regulars
+4181,140,2,180.72,1,At risk / lapsed
+4182,603,2,184.93,1,At risk / lapsed
+4183,57,4,374.87,0,Loyal regulars
+4184,4,5,581.71,0,Loyal regulars
+4185,21,20,1759.36,2,Champions
+4186,6,17,2218.5,2,Champions
+4187,20,26,2279.1,2,Champions
+4188,4,27,2210.1,2,Champions
+4189,76,4,395.83,0,Loyal regulars
+4190,18,10,1161.34,0,Loyal regulars
+4191,188,3,274.69,1,At risk / lapsed
+4192,24,9,976.56,0,Loyal regulars
+4193,23,16,1208.62,2,Champions
+4194,24,10,1168.86,0,Loyal regulars
+4195,334,4,444.83,1,At risk / lapsed
+4196,201,5,518.71,0,Loyal regulars
+4197,4,28,2759.46,2,Champions
+4198,15,8,709.7,0,Loyal regulars
+4199,5,13,1164.85,2,Champions
+4200,5,9,782.41,2,Champions
+4201,97,3,282.93,1,At risk / lapsed
+4203,3,11,1000.21,2,Champions
+4204,62,6,677.13,0,Loyal regulars
+4205,2,6,577.38,0,Loyal regulars
+4206,25,12,1386.4,2,Champions
+4207,354,2,153.93,1,At risk / lapsed
+4208,74,5,422.51,0,Loyal regulars
+4209,502,1,205.95,1,At risk / lapsed
+4210,0,42,3237.11,2,Champions
+4211,18,4,528.18,0,Loyal regulars
+4212,41,8,851.29,0,Loyal regulars
+4213,4,3,311.88,0,Loyal regulars
+4214,92,10,989.31,0,Loyal regulars
+4215,24,19,1119.56,2,Champions
+4216,326,8,323.34,0,Loyal regulars
+4217,80,10,649.57,0,Loyal regulars
+4218,299,3,508.84,1,At risk / lapsed
+4219,487,2,163.93,1,At risk / lapsed
+4220,18,14,1500.37,2,Champions
+4221,452,2,181.93,1,At risk / lapsed
+4222,24,13,1151.34,2,Champions
+4223,34,3,223.28,0,Loyal regulars
+4225,38,5,403.61,0,Loyal regulars
+4226,100,12,1038.7,0,Loyal regulars
+4227,37,3,178.51,1,At risk / lapsed
+4228,116,6,398.33,0,Loyal regulars
+4229,59,5,356.52,0,Loyal regulars
+4230,17,18,1108.85,2,Champions
+4231,78,4,479.82,0,Loyal regulars
+4232,45,8,815.78,0,Loyal regulars
+4234,31,9,915.53,0,Loyal regulars
+4235,550,1,113.66,1,At risk / lapsed
+4236,50,8,646.3,0,Loyal regulars
+4238,35,18,1972.09,2,Champions
+4239,4,15,1390.43,2,Champions
+4241,224,9,524.75,0,Loyal regulars
+4242,240,1,60.97,1,At risk / lapsed
+4243,15,5,513.11,0,Loyal regulars
+4244,34,25,2746.89,2,Champions
+4245,79,19,1854.73,2,Champions
+4246,88,2,59.26,1,At risk / lapsed
+4248,13,3,175.92,0,Loyal regulars
+4249,0,56,6078.85,2,Champions
+4250,1,5,355.12,0,Loyal regulars
+4251,206,16,1135.74,0,Loyal regulars
+4252,53,11,756.87,0,Loyal regulars
+4253,38,18,1283.58,2,Champions
+4254,152,2,208.72,1,At risk / lapsed
+4255,56,5,347.49,0,Loyal regulars
+4256,41,8,667.83,0,Loyal regulars
+4258,31,3,275.44,0,Loyal regulars
+4259,68,7,861.57,0,Loyal regulars
+4260,53,2,234.5,1,At risk / lapsed
+4261,28,4,312.7,0,Loyal regulars
+4262,66,11,1086.76,0,Loyal regulars
+4263,4,14,1630.62,2,Champions
+4264,39,14,1613.74,2,Champions
+4265,5,17,1315.53,2,Champions
+4266,4,19,1841.38,2,Champions
+4267,19,12,1500.68,2,Champions
+4268,345,4,294.85,1,At risk / lapsed
+4269,166,8,728.21,0,Loyal regulars
+4270,89,25,2018.85,2,Champions
+4271,655,2,151.75,1,At risk / lapsed
+4273,27,5,629.97,0,Loyal regulars
+4274,78,2,253.51,1,At risk / lapsed
+4275,673,1,129.22,1,At risk / lapsed
+4276,28,11,1179.58,0,Loyal regulars
+4277,18,7,884.21,0,Loyal regulars
+4278,4,30,2465.5,2,Champions
+4279,4,60,5499.75,2,Champions
+4280,370,3,371.24,1,At risk / lapsed
+4281,76,4,160.9,1,At risk / lapsed
+4283,77,13,1175.79,0,Loyal regulars
+4284,59,6,462.31,0,Loyal regulars
+4285,188,7,465.71,0,Loyal regulars
+4286,475,2,155.91,1,At risk / lapsed
+4287,445,5,372.12,1,At risk / lapsed
+4289,3,11,888.21,2,Champions
+4290,10,23,2053.41,2,Champions
+4291,51,4,554.91,0,Loyal regulars
+4292,3,22,1926.41,2,Champions
+4293,122,7,773.24,0,Loyal regulars
+4295,51,12,1360.4,0,Loyal regulars
+4296,24,7,745.81,0,Loyal regulars
+4297,448,3,355.57,1,At risk / lapsed
+4298,34,3,335.66,0,Loyal regulars
+4299,79,1,10.99,1,At risk / lapsed
+4300,101,2,165.95,1,At risk / lapsed
+4301,4,8,816.88,2,Champions
+4302,272,2,277.88,1,At risk / lapsed
+4303,1,16,1579.88,2,Champions
+4304,17,7,520.6,0,Loyal regulars
+4305,67,11,1132.13,0,Loyal regulars
+4306,3,6,359.53,0,Loyal regulars
+4309,44,18,1727.33,2,Champions
+4310,35,6,698.4,0,Loyal regulars
+4311,3,6,365.91,0,Loyal regulars
+4312,136,7,599.75,0,Loyal regulars
+4313,12,14,875.1,2,Champions
+4314,19,4,480.53,0,Loyal regulars
+4315,5,22,2083.77,2,Champions
+4316,258,2,59.96,1,At risk / lapsed
+4317,19,13,1137.42,2,Champions
+4318,74,3,202.92,1,At risk / lapsed
+4319,33,11,800.19,0,Loyal regulars
+4320,64,14,1439.73,0,Loyal regulars
+4321,488,1,42.98,1,At risk / lapsed
+4322,3,17,1241.98,2,Champions
+4323,19,6,538.43,0,Loyal regulars
+4324,117,6,420.04,0,Loyal regulars
+4325,48,1,46.97,1,At risk / lapsed
+4326,89,6,448.65,0,Loyal regulars
+4328,212,4,194.71,1,At risk / lapsed
+4329,26,8,778.48,0,Loyal regulars
+4331,387,8,822.02,0,Loyal regulars
+4333,136,2,120.33,1,At risk / lapsed
+4334,221,2,115.53,1,At risk / lapsed
+4335,10,27,2881.64,2,Champions
+4336,19,25,2271.3,2,Champions
+4337,13,4,342.9,0,Loyal regulars
+4338,12,35,2918.57,2,Champions
+4339,375,2,92.94,1,At risk / lapsed
+4340,20,25,2863.12,2,Champions
+4341,1,5,277.14,0,Loyal regulars
+4342,401,1,115.96,1,At risk / lapsed
+4343,7,25,2530.21,2,Champions
+4344,52,23,2492.73,2,Champions
+4345,11,10,718.97,0,Loyal regulars
+4346,40,12,1151.69,0,Loyal regulars
+4347,40,14,942.99,0,Loyal regulars
+4348,64,13,1187.55,0,Loyal regulars
+4350,55,6,668.73,0,Loyal regulars
+4351,185,3,381.69,1,At risk / lapsed
+4352,19,4,343.85,0,Loyal regulars
+4353,314,2,53.07,1,At risk / lapsed
+4354,55,8,490.52,0,Loyal regulars
+4356,2,16,1154.17,2,Champions
+4357,2,27,2090.8,2,Champions
+4358,125,4,361.88,0,Loyal regulars
+4359,27,28,1916.87,2,Champions
+4360,189,3,352.26,1,At risk / lapsed
+4361,83,1,193.16,1,At risk / lapsed
+4362,3,16,1650.18,2,Champions
+4363,170,2,151.11,1,At risk / lapsed
+4365,36,27,2622.08,2,Champions
+4366,17,15,1104.94,2,Champions
+4367,20,11,947.57,0,Loyal regulars
+4368,15,45,3226.37,2,Champions
+4369,125,11,909.32,0,Loyal regulars
+4370,2,34,3324.76,2,Champions
+4371,178,1,135.95,1,At risk / lapsed
+4372,152,10,963.71,0,Loyal regulars
+4373,8,11,884.02,2,Champions
+4374,32,4,607.07,0,Loyal regulars
+4375,41,1,62.98,1,At risk / lapsed
+4376,437,2,102.95,1,At risk / lapsed
+4377,7,9,875.67,2,Champions
+4379,488,2,69.07,1,At risk / lapsed
+4380,14,2,443.89,0,Loyal regulars
+4381,112,10,632.12,0,Loyal regulars
+4382,54,11,827.71,0,Loyal regulars
+4383,0,12,1013.07,2,Champions
+4384,54,2,434.86,0,Loyal regulars
+4385,27,9,757.09,0,Loyal regulars
+4386,6,38,3094.65,2,Champions
+4387,19,6,396.55,0,Loyal regulars
+4388,87,7,686.67,0,Loyal regulars
+4389,75,6,680.07,0,Loyal regulars
+4390,155,10,756.88,0,Loyal regulars
+4392,19,16,1513.82,2,Champions
+4393,93,6,649.08,0,Loyal regulars
+4394,31,14,1084.48,0,Loyal regulars
+4395,5,33,2476.94,2,Champions
+4396,17,7,823.87,0,Loyal regulars
+4397,33,9,872.69,0,Loyal regulars
+4398,122,9,679.53,0,Loyal regulars
+4399,4,14,1052.14,2,Champions
+4400,366,2,272.9,1,At risk / lapsed
+4401,129,3,311.49,1,At risk / lapsed
+4402,25,28,2147.69,2,Champions
+4403,15,8,775.9,0,Loyal regulars
+4404,3,22,1753.67,2,Champions
+4405,19,8,757.17,0,Loyal regulars
+4406,4,12,1176.31,2,Champions
+4407,4,24,2226.71,2,Champions
+4408,9,23,1690.18,2,Champions
+4409,627,1,59.98,1,At risk / lapsed
+4410,4,19,1784.37,2,Champions
+4411,493,1,186.94,1,At risk / lapsed
+4412,6,7,809.28,0,Loyal regulars
+4413,5,19,1425.09,2,Champions
+4414,30,27,2419.19,2,Champions
+4415,11,19,1342.58,2,Champions
+4416,223,3,418.17,1,At risk / lapsed
+4417,592,2,289.86,1,At risk / lapsed
+4418,89,2,79.74,1,At risk / lapsed
+4419,3,23,1976.56,2,Champions
+4420,641,1,192.94,1,At risk / lapsed
+4421,10,4,431.14,0,Loyal regulars
+4422,425,2,117.56,1,At risk / lapsed
+4423,478,1,66.77,1,At risk / lapsed
+4425,37,3,185.9,1,At risk / lapsed
+4426,46,8,932.54,0,Loyal regulars
+4427,74,3,208.3,1,At risk / lapsed
+4428,38,6,551.55,0,Loyal regulars
+4429,16,11,1290.03,2,Champions
+4430,8,3,420.37,0,Loyal regulars
+4431,146,2,146.03,1,At risk / lapsed
+4432,0,12,1038.78,2,Champions
+4433,374,3,285.91,1,At risk / lapsed
+4434,19,27,2931.96,2,Champions
+4435,6,35,3141.05,2,Champions
+4437,130,3,97.95,1,At risk / lapsed
+4438,193,3,253.91,1,At risk / lapsed
+4439,157,1,92.87,1,At risk / lapsed
+4440,244,5,506.9,0,Loyal regulars
+4442,25,2,229.93,1,At risk / lapsed
+4443,30,16,1291.67,2,Champions
+4444,46,17,1863.42,2,Champions
+4445,55,8,753.13,0,Loyal regulars
+4446,368,1,76.16,1,At risk / lapsed
+4447,47,21,2231.48,2,Champions
+4448,328,2,373.84,1,At risk / lapsed
+4449,11,15,1272.21,2,Champions
+4450,17,28,3170.6,2,Champions
+4451,368,3,644.45,1,At risk / lapsed
+4452,119,13,1421.26,0,Loyal regulars
+4453,396,2,112.06,1,At risk / lapsed
+4454,424,1,356.89,1,At risk / lapsed
+4455,24,3,103.96,1,At risk / lapsed
+4456,30,10,1148.99,0,Loyal regulars
+4457,175,5,222.89,1,At risk / lapsed
+4458,6,8,679.16,0,Loyal regulars
+4459,22,14,1488.66,2,Champions
+4460,264,2,207.92,1,At risk / lapsed
+4461,39,9,644.1,0,Loyal regulars
+4462,60,16,1792.63,2,Champions
+4463,195,8,710.81,0,Loyal regulars
+4464,522,1,112.96,1,At risk / lapsed
+4465,77,2,137.91,1,At risk / lapsed
+4466,22,23,1703.3,2,Champions
+4467,662,1,115.96,1,At risk / lapsed
+4468,9,27,1764.11,2,Champions
+4469,20,5,411.25,0,Loyal regulars
+4470,60,1,79.97,1,At risk / lapsed
+4471,4,15,1429.21,2,Champions
+4473,17,14,1173.77,2,Champions
+4474,167,4,308.86,1,At risk / lapsed
+4475,19,4,378.88,0,Loyal regulars
+4476,25,14,1403.86,2,Champions
+4477,28,19,1863.02,2,Champions
+4478,23,3,447.76,0,Loyal regulars
+4479,21,29,2872.87,2,Champions
+4480,2,44,4085.56,2,Champions
+4481,2,17,1597.71,2,Champions
+4482,104,4,216.92,1,At risk / lapsed
+4483,5,3,365.74,0,Loyal regulars
+4484,87,8,869.18,0,Loyal regulars
+4485,37,3,219.81,1,At risk / lapsed
+4486,137,8,575.34,0,Loyal regulars
+4487,5,27,2657.05,2,Champions
+4488,10,14,1606.99,2,Champions
+4489,26,20,1481.9,2,Champions
+4490,22,10,977.45,0,Loyal regulars
+4491,724,1,116.95,1,At risk / lapsed
+4492,9,18,1371.14,2,Champions
+4493,13,12,1240.63,2,Champions
+4494,39,33,2185.03,2,Champions
+4495,5,69,7456.71,2,Champions
+4496,39,3,258.76,0,Loyal regulars
+4497,103,14,1234.54,0,Loyal regulars
+4498,10,13,1497.43,2,Champions
+4499,356,2,189.92,1,At risk / lapsed
+4500,167,2,156.95,1,At risk / lapsed
+4501,52,14,1087.04,0,Loyal regulars
+4502,24,24,1799.63,2,Champions
+4504,2,14,1305.92,2,Champions
+4505,31,2,121.73,1,At risk / lapsed
+4506,46,9,735.5,0,Loyal regulars
+4507,48,4,205.91,0,Loyal regulars
+4508,4,29,2792.09,2,Champions
+4509,485,3,523.83,1,At risk / lapsed
+4510,5,23,1812.52,2,Champions
+4511,155,4,294.25,1,At risk / lapsed
+4512,67,8,887.73,0,Loyal regulars
+4513,50,3,265.9,1,At risk / lapsed
+4514,61,6,572.52,0,Loyal regulars
+4515,17,8,572.97,0,Loyal regulars
+4516,2,30,2773.42,2,Champions
+4517,143,4,157.41,1,At risk / lapsed
+4518,7,18,2362.03,2,Champions
+4519,0,24,2814.18,2,Champions
+4520,1,16,1388.82,2,Champions
+4521,41,8,886.36,0,Loyal regulars
+4522,211,2,129.94,1,At risk / lapsed
+4523,37,27,2525.28,2,Champions
+4524,45,12,1337.43,0,Loyal regulars
+4525,38,24,1971.86,2,Champions
+4526,199,3,210.5,1,At risk / lapsed
+4527,16,12,851.27,0,Loyal regulars
+4529,89,14,985.48,0,Loyal regulars
+4530,13,19,2109.4,2,Champions
+4532,147,5,542.89,0,Loyal regulars
+4533,13,6,670.92,0,Loyal regulars
+4534,109,13,1320.0,0,Loyal regulars
+4535,65,8,1067.63,0,Loyal regulars
+4536,6,15,1445.38,2,Champions
+4537,132,5,569.08,0,Loyal regulars
+4538,5,26,2451.3,2,Champions
+4539,435,3,314.47,1,At risk / lapsed
+4540,16,8,844.2,0,Loyal regulars
+4541,107,11,971.5,0,Loyal regulars
+4542,4,8,506.41,0,Loyal regulars
+4543,7,46,3862.36,2,Champions
+4544,16,21,2263.78,2,Champions
+4545,17,5,313.97,0,Loyal regulars
+4546,627,1,186.91,1,At risk / lapsed
+4547,356,1,69.95,1,At risk / lapsed
+4548,36,5,353.47,0,Loyal regulars
+4550,70,6,719.06,0,Loyal regulars
+4551,14,23,2323.73,2,Champions
+4552,2,7,846.99,2,Champions
+4553,0,13,1349.36,2,Champions
+4554,11,2,169.31,0,Loyal regulars
+4556,13,2,280.09,0,Loyal regulars
+4557,599,2,246.89,1,At risk / lapsed
+4559,379,1,44.97,1,At risk / lapsed
+4561,184,2,138.95,1,At risk / lapsed
+4562,60,7,708.11,0,Loyal regulars
+4563,54,5,357.66,0,Loyal regulars
+4564,14,31,2404.43,2,Champions
+4565,254,1,83.97,1,At risk / lapsed
+4566,3,7,830.7,2,Champions
+4567,3,19,1686.99,2,Champions
+4568,10,26,2030.12,2,Champions
+4569,20,29,2786.04,2,Champions
+4570,173,7,843.68,0,Loyal regulars
+4571,65,8,598.11,0,Loyal regulars
+4572,169,3,247.93,1,At risk / lapsed
+4573,74,11,1142.56,0,Loyal regulars
+4574,3,35,2859.55,2,Champions
+4575,298,4,704.91,0,Loyal regulars
+4576,1,25,2477.62,2,Champions
+4577,24,19,1381.11,2,Champions
+4578,15,20,1830.21,2,Champions
+4579,140,9,1157.08,0,Loyal regulars
+4580,60,17,1725.95,2,Champions
+4581,387,3,309.37,1,At risk / lapsed
+4582,279,5,461.31,0,Loyal regulars
+4583,137,6,533.82,0,Loyal regulars
+4584,364,2,178.93,1,At risk / lapsed
+4585,9,15,1278.55,2,Champions
+4586,10,7,626.74,0,Loyal regulars
+4587,23,27,2586.96,2,Champions
+4588,0,31,2632.67,2,Champions
+4589,71,11,1189.84,0,Loyal regulars
+4590,1,18,1520.06,2,Champions
+4591,11,1,113.76,1,At risk / lapsed
+4592,60,3,231.7,1,At risk / lapsed
+4593,11,19,1411.46,2,Champions
+4594,6,9,806.22,2,Champions
+4595,11,5,310.05,0,Loyal regulars
+4596,11,5,406.82,0,Loyal regulars
+4598,17,18,1531.81,2,Champions
+4600,115,8,670.59,0,Loyal regulars
+4601,195,2,158.94,1,At risk / lapsed
+4602,13,9,660.81,0,Loyal regulars
+4603,289,3,256.86,1,At risk / lapsed
+4604,55,22,1900.62,2,Champions
+4605,3,10,821.35,2,Champions
+4606,58,9,1048.51,0,Loyal regulars
+4607,55,1,52.57,1,At risk / lapsed
+4609,116,9,680.59,0,Loyal regulars
+4610,7,12,866.87,2,Champions
+4611,329,5,336.88,1,At risk / lapsed
+4612,22,13,1073.07,2,Champions
+4613,34,8,690.81,0,Loyal regulars
+4614,35,6,586.64,0,Loyal regulars
+4615,206,1,197.92,1,At risk / lapsed
+4616,8,12,995.54,2,Champions
+4617,10,15,1174.23,2,Champions
+4618,130,3,230.31,1,At risk / lapsed
+4619,26,3,421.35,0,Loyal regulars
+4620,56,18,1818.7,2,Champions
+4622,44,11,1120.74,0,Loyal regulars
+4623,17,16,1328.6,2,Champions
+4624,42,12,1328.96,0,Loyal regulars
+4625,29,20,1948.91,2,Champions
+4626,11,7,956.67,0,Loyal regulars
+4627,31,8,637.43,0,Loyal regulars
+4628,391,4,283.75,1,At risk / lapsed
+4629,27,17,1605.87,2,Champions
+4630,78,10,852.06,0,Loyal regulars
+4632,115,13,959.14,0,Loyal regulars
+4633,60,21,1893.6,2,Champions
+4634,242,1,74.65,1,At risk / lapsed
+4635,39,7,503.56,0,Loyal regulars
+4636,12,8,898.33,0,Loyal regulars
+4637,23,17,1661.45,2,Champions
+4638,124,3,321.07,1,At risk / lapsed
+4639,106,6,449.17,0,Loyal regulars
+4640,11,5,300.06,0,Loyal regulars
+4641,7,33,3503.49,2,Champions
+4642,27,13,1422.34,2,Champions
+4643,58,12,1115.36,0,Loyal regulars
+4644,18,49,4121.34,2,Champions
+4645,16,7,500.59,0,Loyal regulars
+4646,9,10,932.83,2,Champions
+4648,1,6,767.71,2,Champions
+4649,4,19,2348.25,2,Champions
+4650,54,14,1352.58,0,Loyal regulars
+4651,0,3,398.9,0,Loyal regulars
+4652,22,11,980.43,0,Loyal regulars
+4653,130,2,182.03,1,At risk / lapsed
+4654,304,2,180.94,1,At risk / lapsed
+4655,55,10,898.86,0,Loyal regulars
+4656,11,26,2095.19,2,Champions
+4657,18,1,30.98,1,At risk / lapsed
+4658,34,7,720.61,0,Loyal regulars
+4659,14,10,899.61,0,Loyal regulars
+4660,53,15,1486.65,0,Loyal regulars
+4662,39,8,536.6,0,Loyal regulars
+4664,6,4,322.66,0,Loyal regulars
+4665,55,14,976.28,0,Loyal regulars
+4666,215,1,272.93,1,At risk / lapsed
+4667,1,20,2080.19,2,Champions
+4668,90,2,110.96,1,At risk / lapsed
+4669,4,6,308.06,0,Loyal regulars
+4670,93,16,1545.12,0,Loyal regulars
+4671,24,16,1284.65,2,Champions
+4672,26,11,762.51,0,Loyal regulars
+4673,4,6,407.21,0,Loyal regulars
+4674,29,18,1822.26,2,Champions
+4675,151,17,1098.45,0,Loyal regulars
+4676,9,24,1990.92,2,Champions
+4677,32,8,754.01,0,Loyal regulars
+4678,156,3,270.87,1,At risk / lapsed
+4679,34,5,432.22,0,Loyal regulars
+4680,14,17,1619.95,2,Champions
+4681,67,12,810.25,0,Loyal regulars
+4682,40,4,299.82,0,Loyal regulars
+4684,34,4,348.22,0,Loyal regulars
+4685,689,1,25.99,1,At risk / lapsed
+4687,8,11,1034.26,2,Champions
+4688,8,32,3142.21,2,Champions
+4689,136,4,166.11,1,At risk / lapsed
+4690,176,2,166.51,1,At risk / lapsed
+4691,0,8,510.2,2,Champions
+4692,256,3,351.87,1,At risk / lapsed
+4693,116,10,746.7,0,Loyal regulars
+4696,18,11,1058.58,0,Loyal regulars
+4697,532,1,29.17,1,At risk / lapsed
+4698,8,10,998.54,2,Champions
+4699,7,34,3178.47,2,Champions
+4700,143,4,646.22,0,Loyal regulars
+4702,105,8,467.07,0,Loyal regulars
+4703,106,13,1009.95,0,Loyal regulars
+4704,2,28,2349.83,2,Champions
+4705,5,11,1016.32,2,Champions
+4706,0,12,1301.86,2,Champions
+4707,68,5,545.55,0,Loyal regulars
+4709,26,18,1135.99,2,Champions
+4710,9,65,5660.68,2,Champions
+4711,15,11,823.86,0,Loyal regulars
+4712,75,8,684.23,0,Loyal regulars
+4713,392,2,189.95,1,At risk / lapsed
+4714,137,7,532.78,0,Loyal regulars
+4716,46,7,652.77,0,Loyal regulars
+4717,403,4,378.77,1,At risk / lapsed
+4718,2,38,3515.15,2,Champions
+4719,88,6,666.85,0,Loyal regulars
+4720,449,1,48.98,1,At risk / lapsed
+4721,16,17,1366.75,2,Champions
+4722,285,6,471.38,0,Loyal regulars
+4723,23,12,1110.78,0,Loyal regulars
+4724,10,13,1399.56,2,Champions
+4725,18,6,452.98,0,Loyal regulars
+4726,46,6,584.01,0,Loyal regulars
+4727,148,3,437.27,1,At risk / lapsed
+4728,20,3,196.61,0,Loyal regulars
+4729,20,16,1611.74,2,Champions
+4730,47,14,1447.43,0,Loyal regulars
+4731,11,3,194.86,0,Loyal regulars
+4732,112,4,271.03,1,At risk / lapsed
+4733,56,22,2106.8,2,Champions
+4735,22,19,1896.28,2,Champions
+4737,613,1,149.75,1,At risk / lapsed
+4738,19,9,771.14,0,Loyal regulars
+4739,102,12,1165.8,0,Loyal regulars
+4740,32,5,509.29,0,Loyal regulars
+4741,83,19,1610.97,2,Champions
+4742,33,26,2727.62,2,Champions
+4743,8,20,1891.34,2,Champions
+4744,14,14,1094.02,2,Champions
+4745,30,14,1823.34,2,Champions
+4746,23,15,1598.43,2,Champions
+4747,58,14,1081.86,0,Loyal regulars
+4748,15,7,317.85,0,Loyal regulars
+4749,53,9,861.93,0,Loyal regulars
+4750,17,7,408.88,0,Loyal regulars
+4751,18,4,445.86,0,Loyal regulars
+4752,2,13,1164.37,2,Champions
+4753,229,9,702.3,0,Loyal regulars
+4754,20,41,4440.54,2,Champions
+4756,178,10,973.72,0,Loyal regulars
+4757,2,22,1700.99,2,Champions
+4758,1,5,408.33,0,Loyal regulars
+4759,169,3,166.94,1,At risk / lapsed
+4760,9,20,1570.1,2,Champions
+4761,43,15,1639.67,2,Champions
+4762,35,13,1135.29,0,Loyal regulars
+4763,327,3,210.92,1,At risk / lapsed
+4764,252,3,88.95,1,At risk / lapsed
+4765,171,4,348.87,1,At risk / lapsed
+4766,43,5,327.86,0,Loyal regulars
+4767,6,3,234.1,0,Loyal regulars
+4768,27,14,1332.5,2,Champions
+4769,248,2,49.98,1,At risk / lapsed
+4771,0,25,2037.87,2,Champions
+4772,21,4,370.06,0,Loyal regulars
+4773,220,2,189.21,1,At risk / lapsed
+4774,114,1,90.97,1,At risk / lapsed
+4775,11,7,569.62,0,Loyal regulars
+4776,381,2,310.69,1,At risk / lapsed
+4778,30,29,2716.99,2,Champions
+4779,17,58,6059.07,2,Champions
+4780,349,4,179.9,1,At risk / lapsed
+4781,10,16,1437.16,2,Champions
+4782,111,4,372.47,0,Loyal regulars
+4783,192,8,554.56,0,Loyal regulars
+4785,8,11,872.02,2,Champions
+4786,16,16,1072.77,2,Champions
+4787,1,55,5411.66,2,Champions
+4788,647,1,236.2,1,At risk / lapsed
+4789,45,18,1674.99,2,Champions
+4790,167,4,267.78,1,At risk / lapsed
+4791,12,5,846.53,0,Loyal regulars
+4792,47,21,1997.49,2,Champions
+4793,163,4,341.68,1,At risk / lapsed
+4794,22,48,4340.05,2,Champions
+4795,136,1,55.99,1,At risk / lapsed
+4796,173,6,505.81,0,Loyal regulars
+4797,12,35,3153.81,2,Champions
+4798,266,1,62.99,1,At risk / lapsed
+4799,214,4,314.56,1,At risk / lapsed
+4800,9,9,754.78,0,Loyal regulars
+4801,0,15,1287.46,2,Champions
+4802,4,4,398.8,0,Loyal regulars
+4803,9,26,2190.36,2,Champions
+4804,133,6,529.37,0,Loyal regulars
+4805,84,6,751.79,0,Loyal regulars
+4806,10,19,1727.15,2,Champions
+4808,46,7,805.89,0,Loyal regulars
+4809,10,36,3464.14,2,Champions
+4810,41,8,382.81,0,Loyal regulars
+4811,32,8,531.15,0,Loyal regulars
+4812,56,22,2017.13,2,Champions
+4813,4,9,488.77,0,Loyal regulars
+4814,298,8,733.51,0,Loyal regulars
+4815,101,12,1556.72,0,Loyal regulars
+4816,563,1,82.66,1,At risk / lapsed
+4817,2,34,2961.02,2,Champions
+4818,8,38,3303.96,2,Champions
+4819,3,10,834.37,2,Champions
+4820,48,11,779.32,0,Loyal regulars
+4821,17,20,2288.93,2,Champions
+4822,124,16,1739.65,0,Loyal regulars
+4823,9,12,884.23,2,Champions
+4824,38,8,695.94,0,Loyal regulars
+4825,14,22,2090.75,2,Champions
+4826,297,1,11.19,1,At risk / lapsed
+4827,214,1,53.97,1,At risk / lapsed
+4828,6,27,2736.25,2,Champions
+4829,7,3,198.09,0,Loyal regulars
+4830,12,14,932.93,2,Champions
+4831,195,3,322.48,1,At risk / lapsed
+4832,36,9,1088.42,0,Loyal regulars
+4833,131,3,505.81,0,Loyal regulars
+4834,189,1,56.97,1,At risk / lapsed
+4835,33,21,1959.79,2,Champions
+4836,69,3,349.84,0,Loyal regulars
+4837,476,1,125.97,1,At risk / lapsed
+4840,12,13,1099.36,2,Champions
+4841,535,2,139.93,1,At risk / lapsed
+4842,45,5,802.44,0,Loyal regulars
+4843,12,8,610.78,0,Loyal regulars
+4844,151,6,256.0,1,At risk / lapsed
+4846,49,4,532.81,0,Loyal regulars
+4847,39,7,1084.94,0,Loyal regulars
+4848,383,1,95.97,1,At risk / lapsed
+4849,16,6,424.81,0,Loyal regulars
+4850,26,13,922.77,0,Loyal regulars
+4851,19,6,605.21,0,Loyal regulars
+4852,21,26,2356.04,2,Champions
+4854,22,19,1741.73,2,Champions
+4855,22,24,2683.56,2,Champions
+4856,33,16,1763.46,2,Champions
+4857,4,27,2423.53,2,Champions
+4858,52,7,898.07,0,Loyal regulars
+4859,14,4,211.9,0,Loyal regulars
+4860,25,4,206.79,0,Loyal regulars
+4861,0,25,2372.01,2,Champions
+4862,6,32,2924.06,2,Champions
+4863,52,17,1996.57,2,Champions
+4864,9,22,1736.43,2,Champions
+4866,116,8,963.82,0,Loyal regulars
+4867,596,1,130.98,1,At risk / lapsed
+4869,15,14,1184.64,2,Champions
+4870,469,1,50.97,1,At risk / lapsed
+4871,6,19,1606.83,2,Champions
+4872,26,14,1290.89,2,Champions
+4873,19,1,50.97,1,At risk / lapsed
+4874,3,24,2254.45,2,Champions
+4875,31,6,474.28,0,Loyal regulars
+4876,300,3,299.7,1,At risk / lapsed
+4877,12,13,1468.9,2,Champions
+4878,9,15,1726.31,2,Champions
+4879,8,16,1251.74,2,Champions
+4880,309,2,170.94,1,At risk / lapsed
+4881,18,13,946.15,2,Champions
+4883,26,13,1379.97,2,Champions
+4884,18,12,943.69,0,Loyal regulars
+4885,333,5,462.88,1,At risk / lapsed
+4886,229,1,38.98,1,At risk / lapsed
+4887,1,7,926.17,2,Champions
+4888,3,9,808.49,2,Champions
+4889,239,1,31.97,1,At risk / lapsed
+4890,124,3,327.7,1,At risk / lapsed
+4891,11,14,1406.6,2,Champions
+4892,3,28,3043.55,2,Champions
+4893,399,6,501.19,0,Loyal regulars
+4894,257,3,440.88,1,At risk / lapsed
+4895,67,4,488.47,0,Loyal regulars
+4896,211,4,261.9,1,At risk / lapsed
+4897,44,9,996.21,0,Loyal regulars
+4898,72,3,233.24,1,At risk / lapsed
+4899,109,6,675.93,0,Loyal regulars
+4900,114,7,720.68,0,Loyal regulars
+4901,189,3,257.9,1,At risk / lapsed
+4902,3,31,3269.82,2,Champions
+4903,43,12,868.73,0,Loyal regulars
+4904,14,3,282.97,0,Loyal regulars
+4905,171,7,597.24,0,Loyal regulars
+4906,12,7,892.68,0,Loyal regulars
+4907,4,13,1368.01,2,Champions
+4908,235,4,274.68,1,At risk / lapsed
+4909,10,1,37.98,1,At risk / lapsed
+4910,268,3,256.89,1,At risk / lapsed
+4911,22,2,129.55,1,At risk / lapsed
+4912,65,8,611.75,0,Loyal regulars
+4913,19,2,316.59,0,Loyal regulars
+4914,410,2,52.95,1,At risk / lapsed
+4916,0,10,701.76,2,Champions
+4917,66,3,202.95,1,At risk / lapsed
+4918,46,3,269.89,0,Loyal regulars
+4919,19,3,411.85,0,Loyal regulars
+4920,16,5,278.85,0,Loyal regulars
+4921,62,7,569.28,0,Loyal regulars
+4922,394,2,128.55,1,At risk / lapsed
+4923,32,7,378.61,0,Loyal regulars
+4924,493,1,56.97,1,At risk / lapsed
+4925,24,27,2229.59,2,Champions
+4926,45,7,537.35,0,Loyal regulars
+4927,120,1,93.97,1,At risk / lapsed
+4928,102,6,435.62,0,Loyal regulars
+4929,25,13,1346.76,2,Champions
+4931,167,3,228.28,1,At risk / lapsed
+4932,57,7,515.19,0,Loyal regulars
+4933,60,17,1529.13,2,Champions
+4934,103,14,940.04,0,Loyal regulars
+4935,6,2,256.92,0,Loyal regulars
+4936,171,4,353.4,1,At risk / lapsed
+4937,125,2,188.22,1,At risk / lapsed
+4939,10,12,1531.75,2,Champions
+4941,17,5,321.63,0,Loyal regulars
+4942,156,3,160.95,1,At risk / lapsed
+4943,34,20,1697.18,2,Champions
+4944,12,3,292.15,0,Loyal regulars
+4945,48,6,655.75,0,Loyal regulars
+4946,0,27,2714.98,2,Champions
+4947,88,13,1510.59,0,Loyal regulars
+4948,51,5,316.36,0,Loyal regulars
+4949,24,2,124.74,1,At risk / lapsed
+4950,17,37,3840.13,2,Champions
+4951,636,1,81.97,1,At risk / lapsed
+4952,83,2,115.25,1,At risk / lapsed
+4953,2,4,532.54,0,Loyal regulars
+4954,13,24,2091.31,2,Champions
+4955,5,12,843.01,2,Champions
+4956,20,8,827.67,0,Loyal regulars
+4957,2,13,1133.59,2,Champions
+4958,212,3,174.93,1,At risk / lapsed
+4959,13,11,799.33,0,Loyal regulars
+4960,108,2,174.92,1,At risk / lapsed
+4961,3,32,2022.52,2,Champions
+4962,29,27,2939.83,2,Champions
+4963,320,2,265.35,1,At risk / lapsed
+4965,727,1,13.99,1,At risk / lapsed
+4966,6,14,1390.94,2,Champions
+4967,348,2,248.94,1,At risk / lapsed
+4968,12,33,2830.97,2,Champions
+4969,138,3,358.29,1,At risk / lapsed
+4970,22,2,255.89,0,Loyal regulars
+4971,428,2,87.97,1,At risk / lapsed
+4972,100,2,214.72,1,At risk / lapsed
+4973,349,1,11.99,1,At risk / lapsed
+4974,5,30,2747.38,2,Champions
+4975,265,3,207.32,1,At risk / lapsed
+4976,19,3,403.86,0,Loyal regulars
+4977,399,2,121.65,1,At risk / lapsed
+4978,3,2,38.57,1,At risk / lapsed
+4980,4,31,3183.02,2,Champions
+4981,341,2,135.32,1,At risk / lapsed
+4982,5,12,1004.09,2,Champions
+4985,3,1,169.95,0,Loyal regulars
+4986,381,2,151.93,1,At risk / lapsed
+4987,47,13,1718.61,0,Loyal regulars
+4988,121,3,160.5,1,At risk / lapsed
+4989,4,14,1482.69,2,Champions
+4990,2,20,1754.1,2,Champions
+4991,33,4,468.89,0,Loyal regulars
+4992,542,1,61.77,1,At risk / lapsed
+4993,67,1,35.68,1,At risk / lapsed
+4994,28,11,1060.25,0,Loyal regulars
+4997,4,45,4006.44,2,Champions
+4998,76,19,1729.61,2,Champions
+4999,402,1,66.17,1,At risk / lapsed
+5000,4,30,3136.35,2,Champions
+5001,9,43,3856.05,2,Champions
+5002,2,18,1242.52,2,Champions
+5003,39,5,454.87,0,Loyal regulars
+5004,15,5,744.51,0,Loyal regulars
+5005,47,10,1101.1,0,Loyal regulars
+5007,0,14,1017.63,2,Champions
+5008,28,15,1819.09,2,Champions
+5009,7,21,2230.22,2,Champions
+5010,109,2,150.69,1,At risk / lapsed
+5011,16,14,1696.31,2,Champions
+5012,39,2,130.92,1,At risk / lapsed
+5013,38,4,312.04,0,Loyal regulars
+5014,28,3,217.93,0,Loyal regulars
+5015,125,9,1082.0,0,Loyal regulars
+5016,21,9,747.57,0,Loyal regulars
+5017,275,3,325.38,1,At risk / lapsed
+5018,21,18,1758.71,2,Champions
+5019,5,23,1902.9,2,Champions
+5020,30,19,1635.54,2,Champions
+5021,1,21,2390.32,2,Champions
+5022,109,4,271.88,1,At risk / lapsed
+5023,11,15,1514.38,2,Champions
+5024,150,5,402.53,0,Loyal regulars
+5025,17,5,553.0,0,Loyal regulars
+5026,374,3,319.88,1,At risk / lapsed
+5027,0,53,5314.19,2,Champions
+5028,77,2,172.54,1,At risk / lapsed
+5029,7,27,2102.39,2,Champions
+5030,6,24,2282.65,2,Champions
+5031,54,1,93.97,1,At risk / lapsed
+5032,367,2,52.98,1,At risk / lapsed
+5033,399,3,241.6,1,At risk / lapsed
+5034,1,19,1855.1,2,Champions
+5035,6,27,2019.82,2,Champions
+5036,32,3,271.48,0,Loyal regulars
+5038,44,21,1894.62,2,Champions
+5039,7,11,1238.56,2,Champions
+5041,2,15,1299.57,2,Champions
+5042,0,9,838.28,2,Champions
+5044,72,2,95.96,1,At risk / lapsed
+5045,4,21,1547.08,2,Champions
+5046,25,1,47.98,1,At risk / lapsed
+5048,37,3,365.56,0,Loyal regulars
+5049,33,15,929.12,0,Loyal regulars
+5050,89,8,759.7,0,Loyal regulars
+5051,19,8,585.58,0,Loyal regulars
+5052,1,7,884.73,2,Champions
+5053,562,2,156.74,1,At risk / lapsed
+5054,2,33,2774.48,2,Champions
+5055,180,5,699.73,0,Loyal regulars
+5056,43,2,168.53,1,At risk / lapsed
+5057,178,4,374.05,1,At risk / lapsed
+5058,11,19,1856.47,2,Champions
+5059,36,15,1439.25,2,Champions
+5060,333,10,1305.54,0,Loyal regulars
+5061,23,9,912.67,0,Loyal regulars
+5062,332,2,81.94,1,At risk / lapsed
+5063,1,16,996.42,2,Champions
+5064,45,7,549.41,0,Loyal regulars
+5065,17,3,228.01,0,Loyal regulars
+5066,221,5,336.13,1,At risk / lapsed
+5067,32,18,1647.54,2,Champions
+5068,376,1,43.96,1,At risk / lapsed
+5069,18,3,373.25,0,Loyal regulars
+5070,68,18,1266.6,0,Loyal regulars
+5071,142,3,308.87,1,At risk / lapsed
+5072,2,57,6276.02,2,Champions
+5073,32,3,123.4,1,At risk / lapsed
+5075,277,1,74.97,1,At risk / lapsed
+5076,35,22,2338.02,2,Champions
+5078,1,10,745.32,2,Champions
+5079,65,2,216.8,1,At risk / lapsed
+5080,276,6,787.09,0,Loyal regulars
+5081,236,4,502.01,1,At risk / lapsed
+5082,6,15,1185.24,2,Champions
+5083,16,9,896.23,0,Loyal regulars
+5085,172,2,296.92,1,At risk / lapsed
+5086,153,1,3.99,1,At risk / lapsed
+5087,31,8,564.05,0,Loyal regulars
+5088,14,12,1007.46,2,Champions
+5089,2,9,709.32,2,Champions
+5090,19,13,1145.59,2,Champions
+5091,23,6,455.67,0,Loyal regulars
+5093,13,32,3242.71,2,Champions
+5094,28,15,983.46,0,Loyal regulars
+5095,98,4,452.55,0,Loyal regulars
+5096,395,3,341.87,1,At risk / lapsed
+5097,6,15,1485.39,2,Champions
+5099,39,11,760.54,0,Loyal regulars
+5100,14,12,1402.47,2,Champions
+5101,33,16,1143.01,2,Champions
+5102,122,9,778.84,0,Loyal regulars
+5103,6,33,2371.17,2,Champions
+5104,5,69,6352.09,2,Champions
+5105,43,9,1081.84,0,Loyal regulars
+5106,15,20,1856.27,2,Champions
+5107,18,16,962.76,2,Champions
+5108,206,7,518.49,0,Loyal regulars
+5109,234,9,791.67,0,Loyal regulars
+5110,5,48,4727.93,2,Champions
+5111,64,3,350.52,0,Loyal regulars
+5113,263,5,389.36,1,At risk / lapsed
+5114,259,3,337.85,1,At risk / lapsed
+5115,24,18,1690.63,2,Champions
+5116,4,33,3745.52,2,Champions
+5117,95,2,68.97,1,At risk / lapsed
+5118,19,6,595.43,0,Loyal regulars
+5119,201,4,216.3,1,At risk / lapsed
+5120,40,4,375.77,0,Loyal regulars
+5121,42,3,283.88,0,Loyal regulars
+5122,25,6,526.08,0,Loyal regulars
+5123,544,1,19.99,1,At risk / lapsed
+5124,352,11,1085.68,0,Loyal regulars
+5125,31,11,915.66,0,Loyal regulars
+5126,1,6,520.79,0,Loyal regulars
+5127,18,1,124.96,1,At risk / lapsed
+5128,283,5,488.65,0,Loyal regulars
+5129,10,7,473.86,0,Loyal regulars
+5130,1,22,1649.97,2,Champions
+5131,12,9,1050.97,0,Loyal regulars
+5132,11,15,1999.46,2,Champions
+5133,32,3,456.05,0,Loyal regulars
+5134,245,7,353.32,0,Loyal regulars
+5135,11,30,3374.15,2,Champions
+5136,8,12,935.11,2,Champions
+5137,31,7,408.49,0,Loyal regulars
+5138,117,7,472.24,0,Loyal regulars
+5139,32,6,449.93,0,Loyal regulars
+5140,0,9,766.86,2,Champions
+5141,2,6,539.48,0,Loyal regulars
+5142,65,3,273.3,1,At risk / lapsed
+5143,41,14,1060.99,0,Loyal regulars
+5144,16,24,1900.42,2,Champions
+5145,0,22,1660.86,2,Champions
+5146,29,11,902.73,0,Loyal regulars
+5147,5,20,1984.66,2,Champions
+5148,230,3,201.4,1,At risk / lapsed
+5149,15,5,444.82,0,Loyal regulars
+5150,1,50,4891.79,2,Champions
+5151,2,30,2571.0,2,Champions
+5152,201,2,370.88,1,At risk / lapsed
+5154,86,4,182.93,1,At risk / lapsed
+5155,411,2,145.95,1,At risk / lapsed
+5157,292,2,226.91,1,At risk / lapsed
+5158,45,12,1108.98,0,Loyal regulars
+5159,6,18,1644.94,2,Champions
+5160,4,31,3267.94,2,Champions
+5161,3,27,2664.73,2,Champions
+5162,34,22,1654.85,2,Champions
+5165,107,8,731.68,0,Loyal regulars
+5166,88,10,981.43,0,Loyal regulars
+5168,109,7,568.26,0,Loyal regulars
+5169,2,19,1827.96,2,Champions
+5170,14,7,810.01,0,Loyal regulars
+5171,63,27,2598.54,2,Champions
+5172,446,1,38.98,1,At risk / lapsed
+5173,300,5,335.9,1,At risk / lapsed
+5174,5,7,619.61,0,Loyal regulars
+5175,351,3,332.07,1,At risk / lapsed
+5177,6,24,1876.11,2,Champions
+5178,58,5,314.33,0,Loyal regulars
+5179,60,5,740.96,0,Loyal regulars
+5180,6,11,1253.72,2,Champions
+5181,12,11,737.97,0,Loyal regulars
+5182,63,2,77.06,1,At risk / lapsed
+5183,32,19,2025.6,2,Champions
+5184,8,50,5188.94,2,Champions
+5186,22,7,556.28,0,Loyal regulars
+5187,74,26,2789.59,2,Champions
+5188,149,8,517.66,0,Loyal regulars
+5189,18,13,1272.04,2,Champions
+5190,79,6,638.2,0,Loyal regulars
+5191,7,6,653.86,0,Loyal regulars
+5192,59,6,492.86,0,Loyal regulars
+5193,13,16,1711.2,2,Champions
+5195,0,21,2111.78,2,Champions
+5196,475,2,179.54,1,At risk / lapsed
+5197,28,16,1479.3,2,Champions
+5198,38,3,248.8,0,Loyal regulars
+5199,144,4,396.85,0,Loyal regulars
+5200,178,3,303.9,1,At risk / lapsed
+5201,44,11,1081.73,0,Loyal regulars
+5202,25,13,1283.47,2,Champions
+5203,4,4,309.58,0,Loyal regulars
+5204,6,17,1437.94,2,Champions
+5205,519,2,238.9,1,At risk / lapsed
+5206,42,4,319.6,0,Loyal regulars
+5207,55,7,858.48,0,Loyal regulars
+5208,151,5,415.52,0,Loyal regulars
+5209,12,34,2856.71,2,Champions
+5210,35,15,1266.76,2,Champions
+5211,56,4,744.67,0,Loyal regulars
+5212,15,7,403.57,0,Loyal regulars
+5213,64,8,521.69,0,Loyal regulars
+5214,33,3,303.47,0,Loyal regulars
+5215,139,4,571.61,0,Loyal regulars
+5216,157,1,36.38,1,At risk / lapsed
+5217,0,3,499.86,0,Loyal regulars
+5218,18,23,2320.44,2,Champions
+5219,163,4,311.49,1,At risk / lapsed
+5220,31,6,524.8,0,Loyal regulars
+5221,97,4,431.01,0,Loyal regulars
+5222,32,19,1467.46,2,Champions
+5223,144,12,913.38,0,Loyal regulars
+5224,535,1,80.96,1,At risk / lapsed
+5225,54,4,408.87,0,Loyal regulars
+5226,10,17,1725.52,2,Champions
+5227,18,5,608.69,0,Loyal regulars
+5228,37,27,2778.29,2,Champions
+5229,10,11,906.66,2,Champions
+5230,19,25,2992.41,2,Champions
+5232,4,10,927.51,2,Champions
+5233,24,8,746.16,0,Loyal regulars
+5235,22,5,384.23,0,Loyal regulars
+5236,242,3,134.35,1,At risk / lapsed
+5237,13,14,771.77,2,Champions
+5238,6,24,2075.07,2,Champions
+5239,1,6,987.73,2,Champions
+5240,52,4,199.93,1,At risk / lapsed
+5241,10,20,1503.63,2,Champions
+5242,82,2,168.81,1,At risk / lapsed
+5243,371,2,131.44,1,At risk / lapsed
+5244,11,15,1550.68,2,Champions
+5245,386,3,384.83,1,At risk / lapsed
+5246,66,6,549.11,0,Loyal regulars
+5247,522,4,455.81,1,At risk / lapsed
+5248,2,17,1558.23,2,Champions
+5249,18,23,2316.16,2,Champions
+5250,521,1,78.37,1,At risk / lapsed
+5251,382,2,281.8,1,At risk / lapsed
+5252,12,21,1811.78,2,Champions
+5253,461,3,292.48,1,At risk / lapsed
+5254,97,5,714.51,0,Loyal regulars
+5255,8,15,1209.61,2,Champions
+5256,8,5,466.53,0,Loyal regulars
+5257,304,3,396.83,1,At risk / lapsed
+5258,10,29,3052.42,2,Champions
+5259,36,1,50.39,1,At risk / lapsed
+5260,2,16,1290.81,2,Champions
+5261,1,15,1038.79,2,Champions
+5262,30,16,1528.94,2,Champions
+5263,248,10,677.52,0,Loyal regulars
+5264,18,20,1661.33,2,Champions
+5265,26,9,931.63,0,Loyal regulars
+5266,119,11,849.45,0,Loyal regulars
+5267,321,1,33.99,1,At risk / lapsed
+5268,4,6,663.24,0,Loyal regulars
+5269,484,1,79.99,1,At risk / lapsed
+5270,6,9,911.89,2,Champions
+5271,309,1,107.97,1,At risk / lapsed
+5272,107,5,402.25,0,Loyal regulars
+5273,435,3,495.84,1,At risk / lapsed
+5274,23,5,692.15,0,Loyal regulars
+5275,25,9,807.68,0,Loyal regulars
+5276,22,4,542.82,0,Loyal regulars
+5278,19,4,518.24,0,Loyal regulars
+5279,132,12,1024.88,0,Loyal regulars
+5280,46,6,789.28,0,Loyal regulars
+5281,50,10,1015.1,0,Loyal regulars
+5282,32,8,1062.55,0,Loyal regulars
+5283,13,12,915.25,2,Champions
+5284,400,2,242.11,1,At risk / lapsed
+5285,651,1,224.83,1,At risk / lapsed
+5286,216,7,713.07,0,Loyal regulars
+5287,206,8,563.57,0,Loyal regulars
+5288,30,7,502.47,0,Loyal regulars
+5289,49,14,1523.62,0,Loyal regulars
+5291,7,9,863.62,2,Champions
+5292,127,6,295.83,0,Loyal regulars
+5293,23,10,864.53,0,Loyal regulars
+5294,7,46,4503.49,2,Champions
+5295,169,6,750.02,0,Loyal regulars
+5296,14,13,1405.84,2,Champions
+5298,85,3,385.95,0,Loyal regulars
+5299,66,4,489.81,0,Loyal regulars
+5300,65,20,2236.63,2,Champions
+5301,133,3,244.88,1,At risk / lapsed
+5302,210,2,146.94,1,At risk / lapsed
+5303,3,20,1685.15,2,Champions
+5304,30,22,2233.03,2,Champions
+5305,11,23,1978.2,2,Champions
+5306,23,5,379.05,0,Loyal regulars
+5307,372,2,99.84,1,At risk / lapsed
+5308,11,17,1648.04,2,Champions
+5309,8,5,255.49,0,Loyal regulars
+5311,108,5,469.16,0,Loyal regulars
+5312,253,6,210.56,1,At risk / lapsed
+5313,42,10,828.08,0,Loyal regulars
+5314,4,10,830.12,2,Champions
+5315,46,7,495.89,0,Loyal regulars
+5316,19,3,228.21,0,Loyal regulars
+5317,32,12,1172.27,0,Loyal regulars
+5318,264,2,86.96,1,At risk / lapsed
+5319,27,23,1618.64,2,Champions
+5320,13,10,933.51,0,Loyal regulars
+5321,89,4,397.86,0,Loyal regulars
+5322,10,11,1444.22,2,Champions
+5323,52,7,476.83,0,Loyal regulars
+5324,1,35,2938.69,2,Champions
+5325,155,7,610.13,0,Loyal regulars
+5326,27,4,343.97,0,Loyal regulars
+5327,7,16,1965.63,2,Champions
+5328,24,24,2170.19,2,Champions
+5329,104,3,175.38,1,At risk / lapsed
+5330,52,14,1665.98,0,Loyal regulars
+5331,167,14,1866.81,0,Loyal regulars
+5332,28,8,636.61,0,Loyal regulars
+5333,53,4,270.46,0,Loyal regulars
+5334,679,1,50.96,1,At risk / lapsed
+5335,7,23,2426.43,2,Champions
+5336,3,15,1520.9,2,Champions
+5337,14,16,1488.61,2,Champions
+5338,521,1,147.95,1,At risk / lapsed
+5339,434,1,90.96,1,At risk / lapsed
+5340,6,6,554.05,0,Loyal regulars
+5341,59,9,871.8,0,Loyal regulars
+5342,324,7,743.33,0,Loyal regulars
+5343,208,4,564.87,0,Loyal regulars
+5344,81,11,675.3,0,Loyal regulars
+5346,143,2,63.54,1,At risk / lapsed
+5347,117,6,550.61,0,Loyal regulars
+5348,29,19,1409.44,2,Champions
+5349,26,22,1749.29,2,Champions
+5350,543,2,127.86,1,At risk / lapsed
+5351,4,12,824.85,2,Champions
+5352,21,2,232.89,1,At risk / lapsed
+5354,215,1,48.96,1,At risk / lapsed
+5355,15,50,3994.34,2,Champions
+5357,35,5,461.01,0,Loyal regulars
+5358,1,12,750.33,2,Champions
+5359,56,6,566.3,0,Loyal regulars
+5360,3,34,3216.62,2,Champions
+5361,10,4,202.91,0,Loyal regulars
+5362,409,1,66.97,1,At risk / lapsed
+5363,438,1,100.93,1,At risk / lapsed
+5364,56,9,885.87,0,Loyal regulars
+5365,21,12,854.46,0,Loyal regulars
+5366,66,13,1697.35,0,Loyal regulars
+5367,24,10,738.45,0,Loyal regulars
+5368,419,2,155.95,1,At risk / lapsed
+5369,74,17,1611.15,0,Loyal regulars
+5370,421,3,204.61,1,At risk / lapsed
+5371,24,10,943.31,0,Loyal regulars
+5372,4,26,2302.63,2,Champions
+5373,13,13,1197.33,2,Champions
+5374,74,26,2270.6,2,Champions
+5376,5,12,788.46,2,Champions
+5377,373,2,164.97,1,At risk / lapsed
+5378,36,2,275.01,1,At risk / lapsed
+5379,25,4,174.6,0,Loyal regulars
+5380,34,15,1382.91,2,Champions
+5381,48,3,94.93,1,At risk / lapsed
+5382,17,15,1239.43,2,Champions
+5383,3,14,1241.95,2,Champions
+5384,365,6,477.84,0,Loyal regulars
+5385,58,7,495.77,0,Loyal regulars
+5386,97,5,767.24,0,Loyal regulars
+5387,47,10,1021.47,0,Loyal regulars
+5388,1,15,1655.68,2,Champions
+5389,39,10,859.46,0,Loyal regulars
+5390,6,12,944.93,2,Champions
+5391,31,6,717.42,0,Loyal regulars
+5392,117,6,284.44,0,Loyal regulars
+5393,682,1,170.96,1,At risk / lapsed
+5394,78,22,2062.85,2,Champions
+5396,24,15,1304.63,2,Champions
+5397,4,12,994.11,2,Champions
+5398,7,23,2079.13,2,Champions
+5399,216,2,182.94,1,At risk / lapsed
+5401,209,1,66.96,1,At risk / lapsed
+5402,34,1,40.68,1,At risk / lapsed
+5403,6,16,1549.23,2,Champions
+5404,286,2,418.64,1,At risk / lapsed
+5405,11,35,2611.08,2,Champions
+5406,4,6,623.34,0,Loyal regulars
+5407,13,38,4176.13,2,Champions
+5408,6,30,3628.9,2,Champions
+5409,103,5,350.83,0,Loyal regulars
+5410,224,2,90.97,1,At risk / lapsed
+5411,20,14,1320.74,2,Champions
+5413,300,4,309.94,1,At risk / lapsed
+5414,133,4,523.8,0,Loyal regulars
+5415,12,16,1257.8,2,Champions
+5416,9,19,1447.74,2,Champions
+5417,42,8,617.91,0,Loyal regulars
+5418,4,11,1349.22,2,Champions
+5419,7,6,526.09,0,Loyal regulars
+5421,187,5,204.69,1,At risk / lapsed
+5422,10,1,171.42,1,At risk / lapsed
+5423,11,25,2395.29,2,Champions
+5424,60,14,938.06,0,Loyal regulars
+5425,193,6,379.65,0,Loyal regulars
+5426,27,14,1151.85,2,Champions
+5427,20,2,62.66,1,At risk / lapsed
+5428,69,4,518.01,0,Loyal regulars
+5429,16,7,928.73,0,Loyal regulars
+5432,45,1,78.97,1,At risk / lapsed
+5434,5,43,4688.56,2,Champions
+5436,16,14,1060.09,2,Champions
+5437,26,5,337.86,0,Loyal regulars
+5438,244,5,484.82,0,Loyal regulars
+5439,69,7,660.16,0,Loyal regulars
+5440,18,17,2084.32,2,Champions
+5441,297,1,78.96,1,At risk / lapsed
+5442,93,4,263.89,1,At risk / lapsed
+5443,8,15,1430.52,2,Champions
+5444,20,4,422.86,0,Loyal regulars
+5445,722,1,27.98,1,At risk / lapsed
+5447,8,29,2786.14,2,Champions
+5448,154,4,395.83,1,At risk / lapsed
+5450,222,2,150.34,1,At risk / lapsed
+5451,27,25,2099.32,2,Champions
+5452,47,7,486.64,0,Loyal regulars
+5453,61,22,2252.12,2,Champions
+5454,1,40,3340.36,2,Champions
+5455,50,3,361.89,0,Loyal regulars
+5456,25,9,1034.2,0,Loyal regulars
+5457,21,3,245.72,0,Loyal regulars
+5458,64,15,1607.13,0,Loyal regulars
+5459,98,7,562.28,0,Loyal regulars
+5460,68,7,487.19,0,Loyal regulars
+5461,115,2,194.23,1,At risk / lapsed
+5462,5,22,2414.24,2,Champions
+5463,682,1,36.99,1,At risk / lapsed
+5464,24,28,2122.42,2,Champions
+5465,3,11,1195.75,2,Champions
+5466,68,1,60.95,1,At risk / lapsed
+5467,8,28,2965.01,2,Champions
+5468,51,7,520.11,0,Loyal regulars
+5469,12,10,868.09,0,Loyal regulars
+5470,449,1,148.94,1,At risk / lapsed
+5471,0,12,1095.32,2,Champions
+5473,74,15,938.11,0,Loyal regulars
+5474,0,9,1083.75,2,Champions
+5475,129,8,931.65,0,Loyal regulars
+5476,11,13,1166.81,2,Champions
+5477,13,7,617.71,0,Loyal regulars
+5478,43,12,979.67,0,Loyal regulars
+5479,290,1,77.95,1,At risk / lapsed
+5480,246,4,128.95,1,At risk / lapsed
+5481,570,1,38.99,1,At risk / lapsed
+5482,81,16,1183.76,0,Loyal regulars
+5483,0,39,3364.38,2,Champions
+5484,3,17,1314.81,2,Champions
+5485,304,5,557.26,0,Loyal regulars
+5486,33,8,579.16,0,Loyal regulars
+5487,3,8,403.29,0,Loyal regulars
+5488,34,17,1539.37,2,Champions
+5489,0,10,1095.32,2,Champions
+5491,32,19,1856.79,2,Champions
+5492,20,15,1494.87,2,Champions
+5493,324,3,196.11,1,At risk / lapsed
+5494,34,14,1312.17,2,Champions
+5495,135,9,878.13,0,Loyal regulars
+5496,4,33,2865.46,2,Champions
+5497,135,3,278.89,1,At risk / lapsed
+5499,174,1,177.95,1,At risk / lapsed
+5500,21,25,1861.5,2,Champions
+5501,15,16,1668.33,2,Champions
+5502,242,1,139.32,1,At risk / lapsed
+5503,94,4,406.54,0,Loyal regulars
+5504,32,3,163.94,1,At risk / lapsed
+5505,314,4,424.03,1,At risk / lapsed
+5506,94,6,1058.12,0,Loyal regulars
+5507,18,3,372.88,0,Loyal regulars
+5508,38,6,716.61,0,Loyal regulars
+5509,3,14,891.18,2,Champions
+5510,25,24,2640.81,2,Champions
+5512,438,2,137.94,1,At risk / lapsed
+5513,45,6,673.12,0,Loyal regulars
+5514,474,1,76.96,1,At risk / lapsed
+5515,97,2,109.94,1,At risk / lapsed
+5516,144,4,517.68,0,Loyal regulars
+5517,204,5,595.89,0,Loyal regulars
+5518,93,1,115.97,1,At risk / lapsed
+5519,32,22,2342.79,2,Champions
+5521,560,1,179.94,1,At risk / lapsed
+5522,33,4,322.58,0,Loyal regulars
+5523,33,13,1095.7,0,Loyal regulars
+5524,8,27,2053.41,2,Champions
+5526,24,10,858.88,0,Loyal regulars
+5527,39,5,452.76,0,Loyal regulars
+5528,102,9,800.08,0,Loyal regulars
+5529,11,9,925.56,0,Loyal regulars
+5530,592,1,77.96,1,At risk / lapsed
+5531,231,1,43.98,1,At risk / lapsed
+5532,47,6,549.59,0,Loyal regulars
+5533,28,11,1140.17,0,Loyal regulars
+5534,4,16,1418.62,2,Champions
+5535,68,7,703.61,0,Loyal regulars
+5536,24,2,101.46,1,At risk / lapsed
+5537,11,26,2441.34,2,Champions
+5538,4,30,1987.45,2,Champions
+5539,59,3,190.42,1,At risk / lapsed
+5540,11,22,2070.49,2,Champions
+5541,19,7,316.21,0,Loyal regulars
+5542,22,14,1583.8,2,Champions
+5543,8,13,1549.2,2,Champions
+5544,10,11,1224.34,2,Champions
+5545,33,6,559.17,0,Loyal regulars
+5549,108,2,157.64,1,At risk / lapsed
+5550,12,43,3922.24,2,Champions
+5551,2,40,3427.31,2,Champions
+5552,12,26,2518.7,2,Champions
+5553,58,15,1411.93,0,Loyal regulars
+5554,196,4,274.86,1,At risk / lapsed
+5557,14,6,864.51,0,Loyal regulars
+5558,41,2,313.9,1,At risk / lapsed
+5560,17,11,701.2,0,Loyal regulars
+5561,12,4,415.4,0,Loyal regulars
+5562,49,2,183.74,1,At risk / lapsed
+5563,30,8,603.36,0,Loyal regulars
+5564,32,7,696.5,0,Loyal regulars
+5565,102,5,376.04,0,Loyal regulars
+5566,25,6,583.21,0,Loyal regulars
+5567,32,21,2380.91,2,Champions
+5568,55,2,289.92,1,At risk / lapsed
+5569,60,4,212.6,1,At risk / lapsed
+5570,389,3,258.92,1,At risk / lapsed
+5571,18,87,7368.22,2,Champions
+5572,16,12,1080.28,2,Champions
+5573,13,47,4505.09,2,Champions
+5574,74,5,535.39,0,Loyal regulars
+5575,5,17,2082.52,2,Champions
+5576,549,1,139.94,1,At risk / lapsed
+5577,25,15,1244.48,2,Champions
+5578,37,6,758.38,0,Loyal regulars
+5579,5,30,2462.81,2,Champions
+5580,391,3,162.03,1,At risk / lapsed
+5581,40,10,686.58,0,Loyal regulars
+5582,57,8,328.53,0,Loyal regulars
+5583,15,52,4976.86,2,Champions
+5584,148,7,624.25,0,Loyal regulars
+5585,102,10,1131.47,0,Loyal regulars
+5586,23,15,1611.66,2,Champions
+5587,1,19,1903.82,2,Champions
+5588,48,16,1530.37,2,Champions
+5589,26,15,1133.26,2,Champions
+5590,29,10,1027.35,0,Loyal regulars
+5591,50,2,264.93,1,At risk / lapsed
+5592,0,13,1439.26,2,Champions
+5593,63,6,370.95,0,Loyal regulars
+5594,28,12,1440.57,2,Champions
+5595,389,1,40.98,1,At risk / lapsed
+5596,223,2,249.11,1,At risk / lapsed
+5597,82,6,599.35,0,Loyal regulars
+5598,30,18,1563.99,2,Champions
+5599,53,5,508.99,0,Loyal regulars
+5600,515,3,189.52,1,At risk / lapsed
+5601,2,25,1740.82,2,Champions
+5602,7,39,3836.03,2,Champions
+5604,25,21,1512.42,2,Champions
+5605,6,16,1543.92,2,Champions
+5606,11,12,1417.77,2,Champions
+5607,53,8,817.03,0,Loyal regulars
+5608,50,4,199.88,1,At risk / lapsed
+5609,125,1,47.97,1,At risk / lapsed
+5610,50,8,759.61,0,Loyal regulars
+5611,3,6,733.79,0,Loyal regulars
+5612,19,4,304.38,0,Loyal regulars
+5613,31,20,1789.86,2,Champions
+5614,83,3,140.92,1,At risk / lapsed
+5615,31,7,724.71,0,Loyal regulars
+5617,137,4,438.27,0,Loyal regulars
+5618,52,7,851.41,0,Loyal regulars
+5619,14,9,541.24,0,Loyal regulars
+5620,158,2,187.92,1,At risk / lapsed
+5621,348,1,237.94,1,At risk / lapsed
+5622,22,12,884.04,0,Loyal regulars
+5623,639,1,185.12,1,At risk / lapsed
+5625,12,13,1604.89,2,Champions
+5626,55,16,1830.19,2,Champions
+5627,4,67,5530.81,2,Champions
+5628,3,36,2830.16,2,Champions
+5630,160,2,118.94,1,At risk / lapsed
+5631,4,33,3656.3,2,Champions
+5632,392,4,524.44,1,At risk / lapsed
+5633,4,24,2306.96,2,Champions
+5634,23,5,365.49,0,Loyal regulars
+5635,124,10,717.01,0,Loyal regulars
+5636,23,12,937.76,0,Loyal regulars
+5637,75,4,533.82,0,Loyal regulars
+5638,28,4,545.87,0,Loyal regulars
+5640,19,3,111.52,1,At risk / lapsed
+5641,284,2,282.92,1,At risk / lapsed
+5642,50,7,832.01,0,Loyal regulars
+5643,135,5,425.83,0,Loyal regulars
+5644,76,7,708.63,0,Loyal regulars
+5645,12,15,1523.6,2,Champions
+5646,25,9,929.15,0,Loyal regulars
+5647,111,5,472.15,0,Loyal regulars
+5648,2,37,3115.51,2,Champions
+5649,0,5,684.03,2,Champions
+5650,32,17,1249.88,2,Champions
+5651,78,14,1621.07,0,Loyal regulars
+5652,110,2,201.61,1,At risk / lapsed
+5653,19,14,1526.89,2,Champions
+5654,16,30,2983.75,2,Champions
+5655,76,5,865.0,0,Loyal regulars
+5656,2,27,2851.37,2,Champions
+5657,5,11,1137.01,2,Champions
+5658,31,19,1825.68,2,Champions
+5659,12,13,1464.31,2,Champions
+5660,14,6,478.79,0,Loyal regulars
+5661,242,4,305.88,1,At risk / lapsed
+5663,260,2,137.24,1,At risk / lapsed
+5664,362,3,126.35,1,At risk / lapsed
+5665,611,2,186.92,1,At risk / lapsed
+5666,316,2,418.45,1,At risk / lapsed
+5667,53,18,1931.38,2,Champions
+5668,434,1,241.94,1,At risk / lapsed
+5669,137,7,585.57,0,Loyal regulars
+5670,6,43,3984.43,2,Champions
+5671,35,6,383.07,0,Loyal regulars
+5672,3,6,350.02,0,Loyal regulars
+5673,159,8,577.64,0,Loyal regulars
+5674,632,1,78.96,1,At risk / lapsed
+5675,134,3,479.58,1,At risk / lapsed
+5676,10,22,2517.93,2,Champions
+5677,12,22,1834.25,2,Champions
+5678,239,3,147.5,1,At risk / lapsed
+5679,54,25,2817.87,2,Champions
+5680,77,9,615.02,0,Loyal regulars
+5681,14,12,1164.43,2,Champions
+5682,44,6,299.66,0,Loyal regulars
+5683,3,95,8407.48,2,Champions
+5684,3,23,2000.92,2,Champions
+5685,1,10,890.23,2,Champions
+5686,128,6,587.19,0,Loyal regulars
+5688,11,5,467.85,0,Loyal regulars
+5689,25,24,2506.96,2,Champions
+5690,154,2,171.93,1,At risk / lapsed
+5691,2,4,507.8,0,Loyal regulars
+5692,9,16,1195.7,2,Champions
+5693,8,17,1694.27,2,Champions
+5694,11,10,895.52,0,Loyal regulars
+5695,40,7,563.59,0,Loyal regulars
+5696,37,8,1038.25,0,Loyal regulars
+5697,128,3,186.94,1,At risk / lapsed
+5698,1,10,589.74,2,Champions
+5699,128,9,706.72,0,Loyal regulars
+5700,432,2,90.96,1,At risk / lapsed
+5701,163,2,67.97,1,At risk / lapsed
+5702,8,29,2997.01,2,Champions
+5703,9,23,2000.32,2,Champions
+5705,55,1,91.97,1,At risk / lapsed
+5706,180,6,679.62,0,Loyal regulars
+5707,20,6,461.59,0,Loyal regulars
+5708,276,5,372.68,1,At risk / lapsed
+5709,21,9,659.18,0,Loyal regulars
+5711,24,18,1987.23,2,Champions
+5712,5,5,464.36,0,Loyal regulars
+5713,21,9,889.35,0,Loyal regulars
+5714,38,17,1740.94,2,Champions
+5715,225,4,372.96,1,At risk / lapsed
+5716,40,15,1114.12,0,Loyal regulars
+5717,0,11,723.36,2,Champions
+5718,4,16,1489.81,2,Champions
+5719,23,4,354.26,0,Loyal regulars
+5720,3,20,1922.96,2,Champions
+5721,4,21,2049.72,2,Champions
+5722,44,3,372.79,0,Loyal regulars
+5723,296,2,155.82,1,At risk / lapsed
+5725,100,6,581.94,0,Loyal regulars
+5726,84,4,737.15,0,Loyal regulars
+5727,110,5,385.47,0,Loyal regulars
+5728,29,4,425.14,0,Loyal regulars
+5729,2,25,2449.67,2,Champions
+5730,24,8,949.47,0,Loyal regulars
+5731,14,9,1228.19,0,Loyal regulars
+5732,210,2,233.9,1,At risk / lapsed
+5733,34,10,1028.27,0,Loyal regulars
+5734,33,3,359.63,0,Loyal regulars
+5735,106,15,1380.68,0,Loyal regulars
+5736,182,2,146.93,1,At risk / lapsed
+5737,18,18,1328.81,2,Champions
+5738,257,6,406.38,0,Loyal regulars
+5739,300,2,187.92,1,At risk / lapsed
+5740,3,52,4765.24,2,Champions
+5741,22,5,690.19,0,Loyal regulars
+5742,213,8,741.51,0,Loyal regulars
+5743,38,1,66.64,1,At risk / lapsed
+5744,16,7,682.16,0,Loyal regulars
+5745,377,2,231.73,1,At risk / lapsed
+5746,69,14,1120.22,0,Loyal regulars
+5747,59,13,1011.21,0,Loyal regulars
+5748,62,14,1160.59,0,Loyal regulars
+5749,20,9,1012.25,0,Loyal regulars
+5750,8,13,1375.88,2,Champions
+5751,1,24,2558.53,2,Champions
+5752,8,5,314.44,0,Loyal regulars
+5753,437,2,124.95,1,At risk / lapsed
+5754,11,34,3027.07,2,Champions
+5755,32,7,560.0,0,Loyal regulars
+5756,368,2,209.8,1,At risk / lapsed
+5757,137,11,976.0,0,Loyal regulars
+5759,52,13,1222.09,0,Loyal regulars
+5760,133,6,260.26,0,Loyal regulars
+5761,84,11,922.32,0,Loyal regulars
+5762,52,14,1356.38,0,Loyal regulars
+5763,30,2,103.94,1,At risk / lapsed
+5764,49,15,1687.36,2,Champions
+5765,29,3,421.95,0,Loyal regulars
+5766,173,8,751.63,0,Loyal regulars
+5767,18,2,47.67,1,At risk / lapsed
+5768,77,7,726.72,0,Loyal regulars
+5769,22,17,1458.03,2,Champions
+5770,23,4,489.12,0,Loyal regulars
+5771,4,12,776.84,2,Champions
+5772,9,19,1498.87,2,Champions
+5773,130,2,145.63,1,At risk / lapsed
+5774,15,16,1604.24,2,Champions
+5775,11,31,2222.53,2,Champions
+5777,4,3,301.48,0,Loyal regulars
+5778,79,4,365.85,0,Loyal regulars
+5781,128,7,661.59,0,Loyal regulars
+5782,26,13,1254.57,2,Champions
+5783,88,7,650.91,0,Loyal regulars
+5784,3,9,939.45,2,Champions
+5785,6,62,5409.47,2,Champions
+5786,2,21,1901.7,2,Champions
+5787,10,6,596.79,0,Loyal regulars
+5788,12,36,3268.88,2,Champions
+5789,228,4,471.04,1,At risk / lapsed
+5790,260,7,475.34,0,Loyal regulars
+5791,15,6,519.87,0,Loyal regulars
+5792,26,15,1756.8,2,Champions
+5793,7,14,1176.78,2,Champions
+5794,19,41,3870.29,2,Champions
+5795,87,20,1470.41,0,Loyal regulars
+5796,15,25,2211.79,2,Champions
+5797,81,29,3312.84,2,Champions
+5798,230,5,739.83,0,Loyal regulars
+5799,62,2,116.03,1,At risk / lapsed
+5800,52,10,1135.2,0,Loyal regulars
+5801,34,23,1956.27,2,Champions
+5802,52,6,725.61,0,Loyal regulars
+5803,256,3,315.95,1,At risk / lapsed
+5804,34,24,2039.0,2,Champions
+5805,116,12,1059.64,0,Loyal regulars
+5806,17,9,817.54,0,Loyal regulars
+5807,117,5,332.48,0,Loyal regulars
+5808,13,45,3340.31,2,Champions
+5810,41,10,985.88,0,Loyal regulars
+5811,62,5,615.2,0,Loyal regulars
+5812,15,15,1655.59,2,Champions
+5813,1,27,2417.25,2,Champions
+5814,45,1,76.46,1,At risk / lapsed
+5815,80,5,635.07,0,Loyal regulars
+5816,15,7,653.2,0,Loyal regulars
+5817,146,1,49.47,1,At risk / lapsed
+5818,96,2,114.84,1,At risk / lapsed
+5820,23,6,565.58,0,Loyal regulars
+5821,440,1,13.98,1,At risk / lapsed
+5822,22,5,569.09,0,Loyal regulars
+5823,80,15,1347.48,0,Loyal regulars
+5825,4,32,2978.78,2,Champions
+5826,18,28,2165.97,2,Champions
+5827,30,10,1193.97,0,Loyal regulars
+5828,6,52,4740.94,2,Champions
+5829,8,12,938.73,2,Champions
+5830,434,1,131.95,1,At risk / lapsed
+5831,30,23,2346.43,2,Champions
+5832,97,7,683.8,0,Loyal regulars
+5833,367,2,33.97,1,At risk / lapsed
+5834,18,15,1054.19,2,Champions
+5835,29,5,655.69,0,Loyal regulars
+5836,71,10,1002.17,0,Loyal regulars
+5837,27,23,2164.13,2,Champions
+5838,53,7,822.84,0,Loyal regulars
+5839,88,11,1385.02,0,Loyal regulars
+5840,6,9,747.64,0,Loyal regulars
+5841,26,20,1712.32,2,Champions
+5842,119,1,219.94,1,At risk / lapsed
+5843,465,1,125.83,1,At risk / lapsed
+5844,131,5,475.54,0,Loyal regulars
+5845,165,1,90.96,1,At risk / lapsed
+5846,260,3,375.85,1,At risk / lapsed
+5847,12,33,3057.87,2,Champions
+5848,268,5,550.42,0,Loyal regulars
+5849,8,15,1667.96,2,Champions
+5850,134,6,595.13,0,Loyal regulars
+5851,71,18,1637.61,2,Champions
+5852,42,4,448.83,0,Loyal regulars
+5853,8,1,59.98,1,At risk / lapsed
+5854,12,21,2259.11,2,Champions
+5857,6,30,2626.88,2,Champions
+5858,116,3,164.92,1,At risk / lapsed
+5859,22,4,213.8,0,Loyal regulars
+5860,6,11,1258.37,2,Champions
+5861,67,6,617.41,0,Loyal regulars
+5862,77,6,773.96,0,Loyal regulars
+5863,26,20,1801.39,2,Champions
+5864,227,6,384.32,0,Loyal regulars
+5866,20,22,1873.35,2,Champions
+5867,29,8,842.54,0,Loyal regulars
+5868,10,27,2373.53,2,Champions
+5869,3,11,1293.78,2,Champions
+5870,28,7,795.26,0,Loyal regulars
+5871,14,6,623.46,0,Loyal regulars
+5872,75,8,658.92,0,Loyal regulars
+5873,98,1,93.96,1,At risk / lapsed
+5874,178,2,114.93,1,At risk / lapsed
+5875,14,25,2523.46,2,Champions
+5876,86,14,1483.6,0,Loyal regulars
+5877,7,11,1017.21,2,Champions
+5878,528,1,103.96,1,At risk / lapsed
+5879,8,9,821.62,0,Loyal regulars
+5880,13,22,2697.96,2,Champions
+5881,180,2,129.92,1,At risk / lapsed
+5882,205,7,850.32,0,Loyal regulars
+5883,23,2,309.92,0,Loyal regulars
+5884,10,4,434.92,0,Loyal regulars
+5885,17,9,648.17,0,Loyal regulars
+5886,9,11,745.75,2,Champions
+5888,2,26,2170.6,2,Champions
+5889,69,1,47.97,1,At risk / lapsed
+5890,19,43,3510.45,2,Champions
+5891,12,5,495.41,0,Loyal regulars
+5892,56,16,1860.2,2,Champions
+5894,16,9,1049.01,0,Loyal regulars
+5895,77,2,192.02,1,At risk / lapsed
+5896,4,18,1911.31,2,Champions
+5897,21,9,879.01,0,Loyal regulars
+5898,3,10,1031.24,2,Champions
+5899,14,35,3516.16,2,Champions
+5900,44,7,736.8,0,Loyal regulars
+5901,10,24,2407.25,2,Champions
+5902,63,7,1105.79,0,Loyal regulars
+5903,0,7,710.7,2,Champions
+5904,113,6,257.94,0,Loyal regulars
+5905,367,2,64.97,1,At risk / lapsed
+5906,6,17,1265.6,2,Champions
+5909,158,4,316.55,1,At risk / lapsed
+5910,11,13,1197.34,2,Champions
+5911,46,15,1542.86,2,Champions
+5912,60,5,424.06,0,Loyal regulars
+5913,61,2,162.95,1,At risk / lapsed
+5914,21,29,2726.29,2,Champions
+5915,112,2,201.89,1,At risk / lapsed
+5916,24,5,427.17,0,Loyal regulars
+5917,12,18,2073.19,2,Champions
+5918,47,10,980.16,0,Loyal regulars
+5919,12,19,1537.81,2,Champions
+5920,36,7,694.03,0,Loyal regulars
+5921,1,26,1973.26,2,Champions
+5922,161,4,122.31,1,At risk / lapsed
+5923,238,3,235.91,1,At risk / lapsed
+5924,227,1,171.73,1,At risk / lapsed
+5925,7,23,1827.47,2,Champions
+5926,16,9,706.71,0,Loyal regulars
+5927,122,2,329.28,1,At risk / lapsed
+5928,18,11,645.99,0,Loyal regulars
+5929,113,8,834.68,0,Loyal regulars
+5930,95,1,75.97,1,At risk / lapsed
+5931,7,16,1562.38,2,Champions
+5932,58,10,817.14,0,Loyal regulars
+5933,3,8,813.23,2,Champions
+5934,96,1,69.98,1,At risk / lapsed
+5935,223,4,326.91,1,At risk / lapsed
+5936,28,12,1175.22,0,Loyal regulars
+5938,247,4,333.54,1,At risk / lapsed
+5939,92,2,268.2,1,At risk / lapsed
+5940,4,29,2415.28,2,Champions
+5941,46,35,3305.14,2,Champions
+5942,160,3,237.88,1,At risk / lapsed
+5943,30,7,925.19,0,Loyal regulars
+5944,62,5,546.42,0,Loyal regulars
+5945,2,22,1469.18,2,Champions
+5946,80,9,864.65,0,Loyal regulars
+5947,23,2,47.16,1,At risk / lapsed
+5948,9,17,1587.97,2,Champions
+5949,3,47,4885.84,2,Champions
+5951,25,3,341.63,0,Loyal regulars
+5952,137,3,178.92,1,At risk / lapsed
+5953,3,8,525.87,0,Loyal regulars
+5954,137,2,89.94,1,At risk / lapsed
+5955,32,4,675.59,0,Loyal regulars
+5956,0,10,1145.18,2,Champions
+5957,80,10,834.45,0,Loyal regulars
+5958,5,9,948.55,2,Champions
+5959,57,3,69.96,1,At risk / lapsed
+5960,28,3,510.46,0,Loyal regulars
+5961,0,7,937.49,2,Champions
+5962,59,15,1262.27,0,Loyal regulars
+5963,150,2,45.47,1,At risk / lapsed
+5964,6,9,835.0,2,Champions
+5965,74,7,581.77,0,Loyal regulars
+5966,23,14,1376.58,2,Champions
+5967,69,10,955.36,0,Loyal regulars
+5968,109,2,185.23,1,At risk / lapsed
+5969,3,35,3526.54,2,Champions
+5970,2,52,4262.39,2,Champions
+5971,21,8,930.3,0,Loyal regulars
+5972,11,20,1701.82,2,Champions
+5973,170,6,1005.52,0,Loyal regulars
+5974,3,5,508.93,0,Loyal regulars
+5975,11,24,1905.4,2,Champions
+5977,95,3,242.08,1,At risk / lapsed
+5978,6,13,1197.72,2,Champions
+5979,122,10,1279.91,0,Loyal regulars
+5980,395,1,133.96,1,At risk / lapsed
+5981,16,19,1340.88,2,Champions
+5982,4,20,1789.42,2,Champions
+5983,39,7,433.29,0,Loyal regulars
+5984,20,8,845.2,0,Loyal regulars
+5985,33,25,2421.75,2,Champions
+5986,65,9,722.8,0,Loyal regulars
+5987,163,4,292.47,1,At risk / lapsed
+5988,0,19,1178.47,2,Champions
+5989,101,16,1573.38,0,Loyal regulars
+5991,57,3,144.94,1,At risk / lapsed
+5992,153,7,680.59,0,Loyal regulars
+5994,35,8,594.26,0,Loyal regulars
+5995,73,8,954.04,0,Loyal regulars
+5996,2,22,2026.11,2,Champions
+5997,11,9,1351.61,2,Champions
+5999,23,15,1432.24,2,Champions
+6000,162,7,549.73,0,Loyal regulars
